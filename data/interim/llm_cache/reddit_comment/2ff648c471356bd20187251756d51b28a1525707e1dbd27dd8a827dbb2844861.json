@@ -1,0 +1,21 @@
+{
+  "cache_key": "2ff648c471356bd20187251756d51b28a1525707e1dbd27dd8a827dbb2844861",
+  "cached_at": "2026-08-19T13:40:32Z",
+  "emotion": "Cynicism",
+  "frames": [
+    "Climate Justice",
+    "Migration Fairness"
+  ],
+  "language_features": {
+    "irony": true,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "The author points out a perceived contradiction between climate change denial and opposition to immigration, anticipating how that tension may unfold in response to Tuvalu climate mobility. The comment does not clearly endorse or oppose the residency policy.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Neutral"
+}

@@ -1,0 +1,22 @@
+{
+  "cache_key": "5c28eefa80f6fb899c65e251028380174dea65178c837b346151a03044c347d8",
+  "cached_at": "2026-08-19T14:14:08Z",
+  "emotion": "Hope",
+  "frames": [
+    "Climate Justice",
+    "Pacific Solidarity",
+    "Human Security"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Pacific neighbours",
+  "openai_error": null,
+  "rationale": "The comment treats the migration pathway as a pressure mechanism that could force government action to protect Tuvalu, which implies support for the program and frames it as a climate justice and solidarity issue.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Support"
+}

@@ -1,0 +1,22 @@
+{
+  "cache_key": "fc7c3585727ca3852671ee08f0a05b82ce8c819fbc0450e9ede2e4d601b81983",
+  "cached_at": "2026-08-19T13:52:57Z",
+  "emotion": "Resentment",
+  "frames": [
+    "Economic Cost",
+    "Housing / Public Services",
+    "Climate Justice"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": true,
+    "sarcasm": true
+  },
+  "narrative_frame": "Migrants competing for resources",
+  "openai_error": null,
+  "rationale": "The comment objects to granting residency on the grounds of housing scarcity, cost of living pressure, and a perceived duty to prioritize citizens. It also criticizes the government for supporting fossil fuels while expressing guilt, which links it to climate justice but from a hostile, skeptical angle.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Strong Opposition"
+}

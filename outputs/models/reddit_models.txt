@@ -1,0 +1,51 @@
+## Post-Level Negative Binomial
+                 Generalized Linear Model Regression Results                  
+==============================================================================
+Dep. Variable:           num_comments   No. Observations:                   14
+Model:                            GLM   Df Residuals:                        9
+Model Family:        NegativeBinomial   Df Model:                            4
+Link Function:                    Log   Scale:                          1.0000
+Method:                          IRLS   Log-Likelihood:                -29.443
+Date:                Wed, 19 Aug 2026   Deviance:                       4.4355
+Time:                        22:30:14   Pearson chi2:                     3.64
+No. Iterations:                    18   Pseudo R-squ. (CS):             0.9800
+Covariance Type:            nonrobust                                         
+====================================================================================
+                       coef    std err          z      P>|z|      [0.025      0.975]
+------------------------------------------------------------------------------------
+Intercept           -4.8475      2.253     -2.151      0.031      -9.264      -0.431
+stance_extremity     0.7224      1.122      0.644      0.520      -1.477       2.922
+frame_count          0.4086      0.286      1.426      0.154      -0.153       0.970
+log_score            1.3558      0.242      5.608      0.000       0.882       1.830
+post_age_days     5.682e-06      0.002      0.003      0.998      -0.004       0.004
+====================================================================================
+
+## Comment-Level Robust OLS
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:      log_comment_score   R-squared:                       0.144
+Model:                            OLS   Adj. R-squared:                  0.128
+Method:                 Least Squares   F-statistic:                     114.3
+Date:                Wed, 19 Aug 2026   Prob (F-statistic):           1.47e-52
+Time:                        22:30:14   Log-Likelihood:                -391.51
+No. Observations:                 225   AIC:                             793.0
+Df Residuals:                     220   BIC:                             810.1
+Df Model:                           4                                         
+Covariance Type:                  HC1                                         
+=============================================================================================
+                                coef    std err          z      P>|z|      [0.025      0.975]
+---------------------------------------------------------------------------------------------
+Intercept                     2.7694      0.341      8.132      0.000       2.102       3.437
+C(subreddit)[T.australia]    -0.7211      0.187     -3.857      0.000      -1.087      -0.355
+stance_extremity             -0.2062      0.150     -1.374      0.170      -0.500       0.088
+frame_count                   0.2794      0.127      2.204      0.028       0.031       0.528
+depth                        -0.2650      0.047     -5.590      0.000      -0.358      -0.172
+==============================================================================
+Omnibus:                        5.574   Durbin-Watson:                   1.346
+Prob(Omnibus):                  0.062   Jarque-Bera (JB):                4.226
+Skew:                           0.216   Prob(JB):                        0.121
+Kurtosis:                       2.486   Cond. No.                         76.8
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC1)

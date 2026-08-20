@@ -1,0 +1,20 @@
+{
+  "cache_key": "adbb5caf2c0bc3dacdc551611fe49bcda1c18b01ce6a74ef4d20270f546ce1b5",
+  "cached_at": "2026-08-19T13:57:04Z",
+  "emotion": "Neutral",
+  "frames": [
+    "Economic Cost"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "The comment discusses comparative UK and Australian gas prices in an energy-cost exchange, without expressing a clear position on Tuvalu, climate mobility, the Falepili Union, or Australia's obligations to Pacific neighbours.",
+  "relevance": "contextually relevant",
+  "source": "openai",
+  "stance": "Neutral"
+}

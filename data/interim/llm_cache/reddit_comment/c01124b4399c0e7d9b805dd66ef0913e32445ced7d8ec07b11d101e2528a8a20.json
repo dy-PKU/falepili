@@ -1,0 +1,20 @@
+{
+  "cache_key": "c01124b4399c0e7d9b805dd66ef0913e32445ced7d8ec07b11d101e2528a8a20",
+  "cached_at": "2026-08-19T13:54:30Z",
+  "emotion": "Neutral",
+  "frames": [
+    "Other"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "The comment is a general voting exhortation tied to the discussion thread, but it does not take a clear position on the coal mine decision, Tuvalu, or climate mobility itself. It is contextually related because it responds to the political implications of the issue.",
+  "relevance": "contextually relevant",
+  "source": "openai",
+  "stance": "Neutral"
+}

@@ -1,0 +1,22 @@
+{
+  "cache_key": "b4a50a558516595b784f4b0ef9b1cfb1760ebf159cad9fd64d690300ccbe7505",
+  "cached_at": "2026-08-19T13:50:12Z",
+  "emotion": "Solidarity",
+  "frames": [
+    "Pacific Solidarity",
+    "Climate Justice",
+    "Human Security"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Pacific neighbours",
+  "openai_error": null,
+  "rationale": "The comment endorses Australia offering residency to people from Tuvalu and frames it as a minimal moral duty. It supports the policy without introducing objection or irony.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Strong Support"
+}

@@ -1,0 +1,23 @@
+{
+  "cache_key": "6e522f9921dbfa64881b066aabca2c23bce4b6cedbdc47cf3e22dd0a6a47cad6",
+  "cached_at": "2026-08-19T14:18:28Z",
+  "emotion": "Hope",
+  "frames": [
+    "Climate Justice",
+    "Human Security",
+    "Migration Fairness",
+    "Pacific Solidarity"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "New citizens",
+  "openai_error": null,
+  "rationale": "The commenter supports accepting Tuvaluan migrants by arguing Australia can manage a small intake compared with postwar migration. The focus is on feasibility and fairness rather than opposition, and the comment treats Tuvaluans as people needing relocation because of climate threats.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Support"
+}

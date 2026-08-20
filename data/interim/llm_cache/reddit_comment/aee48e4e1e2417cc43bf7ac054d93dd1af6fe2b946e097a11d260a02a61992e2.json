@@ -1,0 +1,21 @@
+{
+  "cache_key": "aee48e4e1e2417cc43bf7ac054d93dd1af6fe2b946e097a11d260a02a61992e2",
+  "cached_at": "2026-08-19T14:05:40Z",
+  "emotion": "Neutral",
+  "frames": [
+    "Economic Cost",
+    "China / Geopolitics"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "The comment discusses coal mine closures in economic and trade terms, arguing that cost and market access, especially China's coal imports via Australia, are more likely drivers than climate change. It does not clearly state a position on Tuvalu, the Falepili Union, climate mobility, migration, or security cooperation, nor directly endorse or oppose Australia's coal decision in moral terms.",
+  "relevance": "contextually relevant",
+  "source": "openai",
+  "stance": "Neutral"
+}

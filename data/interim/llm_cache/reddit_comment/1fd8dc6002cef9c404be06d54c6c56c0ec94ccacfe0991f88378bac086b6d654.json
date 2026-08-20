@@ -1,0 +1,25 @@
+{
+  "cache_key": "1fd8dc6002cef9c404be06d54c6c56c0ec94ccacfe0991f88378bac086b6d654",
+  "cached_at": "2026-08-19T13:44:50Z",
+  "emotion": "Anxiety",
+  "frames": [
+    "Climate Justice",
+    "Human Security",
+    "Pacific Solidarity",
+    "Economic Cost",
+    "Housing / Public Services",
+    "Strategic Security"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": true,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Climate victims",
+  "openai_error": null,
+  "rationale": "The author supports the residency plan as a practical response to climate displacement, while expressing concern about worsening climate impacts, geopolitical vulnerability, and Australia's capacity to provide stable settlement. They also advocate infrastructure preparation and taxing fossil fuel projects to fund the response.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Support"
+}

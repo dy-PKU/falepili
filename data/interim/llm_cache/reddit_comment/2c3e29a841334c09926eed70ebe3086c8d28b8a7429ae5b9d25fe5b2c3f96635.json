@@ -1,0 +1,21 @@
+{
+  "cache_key": "2c3e29a841334c09926eed70ebe3086c8d28b8a7429ae5b9d25fe5b2c3f96635",
+  "cached_at": "2026-08-19T14:24:42Z",
+  "emotion": "Anxiety",
+  "frames": [
+    "Climate Justice",
+    "Human Security"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": true,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Climate victims",
+  "openai_error": null,
+  "rationale": "The comment reacts to the climate migration story by stressing the severity of climate change and criticizing continued fossil fuel extraction. It does not oppose the migration program; it treats it as a symptom of a worsening climate crisis.",
+  "relevance": "contextually relevant",
+  "source": "openai",
+  "stance": "Support"
+}

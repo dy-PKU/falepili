@@ -1,0 +1,22 @@
+{
+  "cache_key": "cc8f9565eafffc56544920d49adb0a1a69eb1fa3c72b75c2034dd12fe2ed045a",
+  "cached_at": "2026-08-19T14:25:21Z",
+  "emotion": "Cynicism",
+  "frames": [
+    "Climate Justice",
+    "Colonialism / Dependency",
+    "Migration Fairness"
+  ],
+  "language_features": {
+    "irony": true,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": true
+  },
+  "narrative_frame": "Climate victims",
+  "openai_error": null,
+  "rationale": "The comment is sarcastic and criticizes the situation as unfair, pointing to Australia's role in causing climate harm that forces Tuvaluans to leave. It is not an endorsement of the program; the stance is critical and framed around climate justice and dependency.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Concern"
+}

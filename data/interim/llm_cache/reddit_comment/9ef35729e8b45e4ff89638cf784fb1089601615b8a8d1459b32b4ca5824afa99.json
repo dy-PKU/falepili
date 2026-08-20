@@ -1,0 +1,21 @@
+{
+  "cache_key": "9ef35729e8b45e4ff89638cf784fb1089601615b8a8d1459b32b4ca5824afa99",
+  "cached_at": "2026-08-19T13:41:56Z",
+  "emotion": "Fear",
+  "frames": [
+    "Migration Fairness",
+    "Human Security"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Refugees",
+  "openai_error": null,
+  "rationale": "The comment reacts to large-scale displacement by stressing brutal state responses to outsiders, which connects to climate mobility and migration control in the thread. It does not clearly take a position on Australia's Tuvalu policy, but expresses alarm about how governments treat vulnerable people who have nowhere else to go.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Concern"
+}

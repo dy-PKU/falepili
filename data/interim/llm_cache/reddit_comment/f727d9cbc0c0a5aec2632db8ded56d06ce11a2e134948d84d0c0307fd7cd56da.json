@@ -1,0 +1,22 @@
+{
+  "cache_key": "f727d9cbc0c0a5aec2632db8ded56d06ce11a2e134948d84d0c0307fd7cd56da",
+  "cached_at": "2026-08-19T14:26:08Z",
+  "emotion": "Hope",
+  "frames": [
+    "Pacific Solidarity",
+    "Migration Fairness",
+    "Climate Justice"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Pacific neighbours",
+  "openai_error": null,
+  "rationale": "The author endorses a Pacific-focused migration policy for Australia, explicitly framing it as beneficial and tied to climate response and development support for source countries. The stance is supportive, with conditions about investment and regional limits, not opposition to the Tuvalu migration program.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Support"
+}

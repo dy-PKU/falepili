@@ -1,0 +1,20 @@
+{
+  "cache_key": "69a0f819ab2b9bf98de149beb6ea4adcfcf4b2d2d8fba8dccf17c10a195d85ae",
+  "cached_at": "2026-08-19T13:55:06Z",
+  "emotion": "Neutral",
+  "frames": [
+    "Other"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "The comment is a general observation about Australian party policy depth, not a direct response to the Tuvalu coal mine issue. It does not express support or opposition to the article's position, only a comparative view of party platforms.",
+  "relevance": "contextually relevant",
+  "source": "openai",
+  "stance": "Neutral"
+}

@@ -1,0 +1,23 @@
+{
+  "cache_key": "8b98e0814f7668c4f4de59c4c2f41a6be0c0276424525f3159f7dcecf0b3e50a",
+  "cached_at": "2026-08-19T17:27:59Z",
+  "emotion": "Neutral",
+  "frames": [
+    "Pacific Solidarity",
+    "Human Security",
+    "Strategic Security",
+    "Other"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "The text is a neutral title and description identifying coverage of the Tuvalu-Australia Falepili Union treaty, climate mobility, and security cooperation. It does not express an evaluative stance toward the treaty or its components.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Neutral"
+}

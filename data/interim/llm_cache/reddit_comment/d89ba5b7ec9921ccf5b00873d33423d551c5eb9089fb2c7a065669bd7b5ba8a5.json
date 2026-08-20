@@ -1,0 +1,21 @@
+{
+  "cache_key": "d89ba5b7ec9921ccf5b00873d33423d551c5eb9089fb2c7a065669bd7b5ba8a5",
+  "cached_at": "2026-08-19T13:43:04Z",
+  "emotion": "Resentment",
+  "frames": [
+    "Sovereignty",
+    "Other"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": true,
+    "sarcasm": false
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "The comment challenges the attribution of past action to a collective 'we' and says the government did not really act, which is a skeptical, mildly resentful response to the thread topic. It is directly about Australia's response to Tuvalu displacement and government responsibility, but it does not clearly support or oppose the policy itself.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Concern"
+}

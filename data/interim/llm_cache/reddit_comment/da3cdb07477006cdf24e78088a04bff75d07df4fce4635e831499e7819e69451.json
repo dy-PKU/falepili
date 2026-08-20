@@ -1,0 +1,20 @@
+{
+  "cache_key": "da3cdb07477006cdf24e78088a04bff75d07df4fce4635e831499e7819e69451",
+  "cached_at": "2026-08-19T13:43:47Z",
+  "emotion": "Cynicism",
+  "frames": [
+    "Other"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": true,
+    "rhetorical_question": true,
+    "sarcasm": false
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "The comment is not about the Tuvalu residency proposal itself; it shifts to a skeptical critique of carbon capture and argues for prioritizing fossil-fuel displacement instead. The author expresses doubt and dismissiveness toward carbon capture, using a rhetorical question and metaphorical comparison to a perpetual motion machine.",
+  "relevance": "contextually relevant",
+  "source": "openai",
+  "stance": "Concern"
+}

@@ -1,0 +1,21 @@
+{
+  "cache_key": "4228d38fad0b96e75082c7c6b9add1e6edd51919f374af3022f78b718446093c",
+  "cached_at": "2026-08-19T14:21:21Z",
+  "emotion": "Anxiety",
+  "frames": [
+    "Climate Justice",
+    "Human Security"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Climate victims",
+  "openai_error": null,
+  "rationale": "The comment directly relates to climate mobility by suggesting Australians could also become climate refugees due to water scarcity. It expresses anxious recognition of shared vulnerability rather than opposition to Tuvaluan migration.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Support"
+}

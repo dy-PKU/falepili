@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.py[cod]
+.env
+key.txt
+miao_key.txt
+deepseek_key.txt
+youtube_key.txt
+openai_key.txt

@@ -1,0 +1,21 @@
+{
+  "cache_key": "a19fa52a6fb3617d8038f207121ec9ae7008ed9f2616098d5943e4b4827bd459",
+  "cached_at": "2026-08-19T13:57:34Z",
+  "emotion": "Hope",
+  "frames": [
+    "Climate Justice",
+    "Other"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "The comment responds to the article’s comparison of coal approvals and renewable growth, and the author explicitly characterises the trend as positive. It does not attack the article or defend coal; it expresses approval of the shift toward renewables, which fits a supportive stance on the climate-policy angle rather than a direct argument about Tuvalu or the coalmine decision itself.",
+  "relevance": "contextually relevant",
+  "source": "openai",
+  "stance": "Support"
+}

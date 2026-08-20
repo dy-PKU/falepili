@@ -1,0 +1,21 @@
+{
+  "cache_key": "e1706afdc39814919c8454e6415a9383c9f0f2e747ec4a2aa5b6ba079ab2864d",
+  "cached_at": "2026-08-19T17:28:30Z",
+  "emotion": "Neutral",
+  "frames": [
+    "Migration Fairness",
+    "Other"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "The comment challenges crisis-oriented framing of migration without expressing a clear position for or against the Falepili Union or related policies.",
+  "relevance": "contextually relevant",
+  "source": "openai",
+  "stance": "Neutral"
+}

@@ -1,0 +1,21 @@
+{
+  "cache_key": "1c48e07183d8ce03aea41009599ed9eb39e4deaf16b9f67401b51a423cb3e720",
+  "cached_at": "2026-08-19T14:03:37Z",
+  "emotion": "Cynicism",
+  "frames": [
+    "Climate Justice",
+    "Pacific Solidarity"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": true,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "Uses a speeding analogy to argue that Australia is being singled out when larger emitters are doing far worse. The comment pushes back on the moral equivalence implied by the article, so the stance is opposed rather than supportive.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Strong Opposition"
+}

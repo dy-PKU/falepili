@@ -1,0 +1,21 @@
+{
+  "cache_key": "1cbd2cfb4300363b546c07a5a0927cda7fbdc8113c2c9e001484facd1a50ce7c",
+  "cached_at": "2026-08-19T13:49:33Z",
+  "emotion": "Anxiety",
+  "frames": [
+    "Migration Fairness",
+    "Housing / Public Services"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": true,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Migrants competing for resources",
+  "openai_error": null,
+  "rationale": "The comment responds directly to the residency offer for Tuvaluans and supports making the policy official, but does so out of concern about future scale and national capacity. The language about 'flood gates' and being 'overwhelmed' signals anxiety about migration management and public service pressure rather than opposition to Tuvaluans specifically.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Support"
+}

@@ -1,0 +1,22 @@
+relative_day,volume,support_ratio,avg_stance_score,post,time_after,event
+-26,1,0.0,-1.0,0,0,Treaty signing
+-24,1,0.0,-1.0,0,0,Treaty signing
+-23,1,0.0,0.0,0,0,Treaty signing
+-22,1,1.0,1.0,0,0,Treaty signing
+-18,1,0.0,-1.0,0,0,Treaty signing
+-15,1,0.0,-1.0,0,0,Treaty signing
+-9,1,0.0,0.0,0,0,Treaty signing
+-8,1,1.0,1.0,0,0,Treaty signing
+-7,1,0.0,-1.0,0,0,Treaty signing
+-5,1,0.0,0.0,0,0,Treaty signing
+-1,1,1.0,1.0,0,0,Treaty signing
+72,1,0.0,0.0,1,72,Treaty signing
+74,1,0.0,-1.0,1,74,Treaty signing
+77,1,1.0,1.0,1,77,Treaty signing
+78,1,0.0,-1.0,1,78,Treaty signing
+79,2,0.0,-0.5,1,79,Treaty signing
+81,1,0.0,0.0,1,81,Treaty signing
+83,2,0.5,0.0,1,83,Treaty signing
+84,1,1.0,1.0,1,84,Treaty signing
+87,1,1.0,1.0,1,87,Treaty signing
+90,1,0.0,-1.0,1,90,Treaty signing

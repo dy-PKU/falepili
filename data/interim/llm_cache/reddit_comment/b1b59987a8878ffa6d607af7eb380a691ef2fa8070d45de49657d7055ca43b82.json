@@ -1,0 +1,20 @@
+{
+  "cache_key": "b1b59987a8878ffa6d607af7eb380a691ef2fa8070d45de49657d7055ca43b82",
+  "cached_at": "2026-08-19T13:57:18Z",
+  "emotion": "Resentment",
+  "frames": [
+    "Economic Cost"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": true,
+    "sarcasm": true
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "The comment argues that Australian consumers are being disadvantaged by gas pricing and export arrangements. It is not directly about Tuvalu or the coalmine decision, but it is on-topic to the fossil-fuel and cost-of-living discussion in the thread. The author uses a rhetorical question to press the point that Australians are getting 'shafted,' which signals support for the criticism being discussed.",
+  "relevance": "contextually relevant",
+  "source": "openai",
+  "stance": "Support"
+}

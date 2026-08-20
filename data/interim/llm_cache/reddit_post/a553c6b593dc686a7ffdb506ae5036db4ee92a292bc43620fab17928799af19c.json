@@ -1,0 +1,23 @@
+{
+  "cache_key": "a553c6b593dc686a7ffdb506ae5036db4ee92a292bc43620fab17928799af19c",
+  "cached_at": "2026-08-19T13:36:30Z",
+  "emotion": "Neutral",
+  "frames": [
+    "Climate Justice",
+    "Human Security",
+    "Migration Fairness",
+    "Sovereignty"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Climate victims",
+  "openai_error": null,
+  "rationale": "The post shares a news link about Tuvalu considering the Falepili Union treaty in the context of king tides and climate impacts. The author does not add an evaluative comment, so stance is neutral. The topic is directly about Tuvalu, the Falepili Union, climate mobility, and sovereignty/security implications.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Neutral"
+}

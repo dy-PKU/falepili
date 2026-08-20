@@ -1,0 +1,23 @@
+{
+  "cache_key": "63bd4c24da2b25f44f26a03e5472c18ef37ef3155f25a305cc48cc8a33f504a4",
+  "cached_at": "2026-08-19T14:18:02Z",
+  "emotion": "Hope",
+  "frames": [
+    "Climate Justice",
+    "Pacific Solidarity",
+    "Human Security",
+    "Migration Fairness"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Pacific neighbours",
+  "openai_error": null,
+  "rationale": "The comment clearly supports Australia providing sanctuary to Tuvalu residents and argues from responsibility, regional solidarity, and climate threat. It frames relocation as the right response to climate change and as an extension of mateship to neighbouring countries.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Strong Support"
+}

@@ -1,0 +1,20 @@
+{
+  "cache_key": "428a183c3ba760b582dcbe7456e04b3b38bbcebb559d6f055970f365bf3d9d4c",
+  "cached_at": "2026-08-19T14:05:59Z",
+  "emotion": "Neutral",
+  "frames": [
+    "Other"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "The comment discusses electricity generation figures in the context of a climate-related thread, but it does not express a clear stance on Tuvalu, the Falepili Union, migration, or security cooperation. It is informational and focused on energy mix rather than Pacific climate mobility or Australia-Tuvalu relations.",
+  "relevance": "contextually relevant",
+  "source": "openai",
+  "stance": "Neutral"
+}

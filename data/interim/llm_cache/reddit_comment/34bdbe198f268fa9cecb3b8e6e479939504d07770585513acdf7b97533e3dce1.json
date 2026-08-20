@@ -1,0 +1,21 @@
+{
+  "cache_key": "34bdbe198f268fa9cecb3b8e6e479939504d07770585513acdf7b97533e3dce1",
+  "cached_at": "2026-08-19T13:43:12Z",
+  "emotion": "Resentment",
+  "frames": [
+    "Climate Justice",
+    "Other"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Climate victims",
+  "openai_error": null,
+  "rationale": "The comment links to abandoned or weakened Australian carbon policy efforts, implying frustration that stronger climate action was missed and that present displacement is a consequence of that failure. It is contextually relevant to the Tuvalu climate-mobility thread but does not directly discuss residency policy itself.",
+  "relevance": "contextually relevant",
+  "source": "openai",
+  "stance": "Concern"
+}

@@ -1,0 +1,20 @@
+{
+  "cache_key": "8e2c88f7e78e7f229989a88e51b66d4c43967bbd0dc981f07cce291916f76d1d",
+  "cached_at": "2026-08-19T13:58:12Z",
+  "emotion": "Cynicism",
+  "frames": [
+    "Other"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "The comment responds to the Tuvalu minister's framing of Australia's coalmine decision as excessive rhetoric, criticizing the argument style rather than engaging substantively with climate, migration, or security claims. This indicates concern or skepticism toward the article's moral framing, without a clear policy position.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Concern"
+}

@@ -1,0 +1,21 @@
+{
+  "cache_key": "b3c897c832499c04f4692c5fca24f68b19244e371543ecaf258a1af6576681c2",
+  "cached_at": "2026-08-19T13:40:19Z",
+  "emotion": "Anxiety",
+  "frames": [
+    "Climate Justice",
+    "Human Security"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": true,
+    "sarcasm": false
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "The comment responds to the climate crisis framing in the thread, but its main thrust is fatalistic concern about collective inaction and the human cost of transition. It does not clearly endorse or oppose Tuvalu residency policy; instead it questions whether meaningful climate action is still possible and highlights potential deaths from continued fossil fuel dependence.",
+  "relevance": "contextually relevant",
+  "source": "openai",
+  "stance": "Concern"
+}

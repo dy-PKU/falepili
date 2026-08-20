@@ -1,0 +1,22 @@
+{
+  "cache_key": "e975d58070fc48721117694ed1f930b4b4be538bf7880aba9c15c41dd7b0423f",
+  "cached_at": "2026-08-19T14:11:46Z",
+  "emotion": "Anxiety",
+  "frames": [
+    "Climate Justice",
+    "Human Security",
+    "Migration Fairness"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": true,
+    "sarcasm": false
+  },
+  "narrative_frame": "Climate victims",
+  "openai_error": null,
+  "rationale": "The commenter is reacting to the quota as too small relative to the number of applicants and the worsening climate impacts on Tuvalu, especially crop difficulties. The stance is not against the program itself but concerned that the pace is insufficient for the stated need.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Concern"
+}

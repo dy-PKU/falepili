@@ -1,0 +1,22 @@
+{
+  "cache_key": "04f89b2e7ad300df686d10045142fbc9052af15ada59c70164f58fd4318fd5dd",
+  "cached_at": "2026-08-19T14:15:15Z",
+  "emotion": "Empathy",
+  "frames": [
+    "Climate Justice",
+    "Human Security",
+    "Pacific Solidarity"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Pacific neighbours",
+  "openai_error": null,
+  "rationale": "The comment expresses sympathy for Tuvalu's loss and approval of Australia welcoming people affected by climate change, with a practical note about planning the relief effort. It frames the move as humanitarian support for a nearby Pacific community rather than a migration threat.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Support"
+}

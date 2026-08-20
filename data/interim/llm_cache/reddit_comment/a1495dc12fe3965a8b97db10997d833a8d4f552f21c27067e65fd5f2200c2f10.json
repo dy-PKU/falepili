@@ -1,0 +1,21 @@
+{
+  "cache_key": "a1495dc12fe3965a8b97db10997d833a8d4f552f21c27067e65fd5f2200c2f10",
+  "cached_at": "2026-08-19T14:09:59Z",
+  "emotion": "Neutral",
+  "frames": [
+    "Economic Cost",
+    "Climate Justice"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "The comment defends Australia’s coal decision, argues renewables are still costly and resource-intensive, and rejects the idea that Australia should be faulted for pursuing coal. It directly responds to the thread’s climate justice framing and sides against the Tuvalu minister’s criticism.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Strong Opposition"
+}

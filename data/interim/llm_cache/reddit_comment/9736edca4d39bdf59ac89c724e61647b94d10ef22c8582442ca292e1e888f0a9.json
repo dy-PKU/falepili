@@ -1,0 +1,23 @@
+{
+  "cache_key": "9736edca4d39bdf59ac89c724e61647b94d10ef22c8582442ca292e1e888f0a9",
+  "cached_at": "2026-08-19T13:53:06Z",
+  "emotion": "Humour",
+  "frames": [
+    "Climate Justice",
+    "Human Security",
+    "Pacific Solidarity",
+    "Migration Fairness"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Pacific neighbours",
+  "openai_error": null,
+  "rationale": "The commenter supports accepting Tuvaluans by arguing the group is small enough to accommodate, using a casual, lightly humorous tone. The stance is in favor of residency for climate-displaced people and aligns with practical migration fairness and solidarity framing.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Support"
+}

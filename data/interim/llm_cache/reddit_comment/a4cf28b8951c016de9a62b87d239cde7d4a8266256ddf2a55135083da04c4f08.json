@@ -1,0 +1,20 @@
+{
+  "cache_key": "a4cf28b8951c016de9a62b87d239cde7d4a8266256ddf2a55135083da04c4f08",
+  "cached_at": "2026-08-19T13:54:53Z",
+  "emotion": "Cynicism",
+  "frames": [
+    "Other"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "The comment shifts away from the article’s Tuvalu/coalmine issue and criticizes mainstream media, especially the ABC, for not comparing party policies. It is not directly about the Falepili Union or climate mobility, but it is contextually linked because the thread concerns climate-related policy and political response. The stance is a critique of media framing, not a clear position on the coal mine decision itself.",
+  "relevance": "contextually relevant",
+  "source": "openai",
+  "stance": "Unclear"
+}

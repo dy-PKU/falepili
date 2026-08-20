@@ -1,0 +1,25 @@
+{
+  "cache_key": "28d63c7ea665896a7693c0704ec416ad7760db0b31e616ed144070446769c198",
+  "cached_at": "2026-08-19T12:55:30Z",
+  "emotion": "Hope",
+  "frames": [
+    "Climate Justice",
+    "Human Security"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Other",
+  "openai_error": {
+    "body": null,
+    "error_type": "RuntimeError",
+    "status_code": null
+  },
+  "rationale": "Heuristic fallback used because no OpenAI API key was available.",
+  "relevance": "directly relevant",
+  "source": "heuristic",
+  "stance": "Concern"
+}

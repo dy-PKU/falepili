@@ -1,0 +1,22 @@
+{
+  "cache_key": "a20e0d7b7c1ee4c4d11d9eb481a085475d072ee874766703a59f428e4a173e73",
+  "cached_at": "2026-08-19T14:14:36Z",
+  "emotion": "Empathy",
+  "frames": [
+    "Climate Justice",
+    "Human Security",
+    "Pacific Solidarity"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Climate victims",
+  "openai_error": null,
+  "rationale": "The comment approves of the migration program while expressing sorrow that it is necessary because of climate change. It frames the issue as a humanitarian and climate-justice response for Tuvaluans.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Support"
+}

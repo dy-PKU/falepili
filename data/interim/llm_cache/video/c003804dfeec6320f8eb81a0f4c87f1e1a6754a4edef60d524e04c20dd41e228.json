@@ -1,0 +1,20 @@
+{
+  "cache_key": "c003804dfeec6320f8eb81a0f4c87f1e1a6754a4edef60d524e04c20dd41e228",
+  "cached_at": "2026-08-19T17:52:05Z",
+  "emotion": "Neutral",
+  "frames": [
+    "Other"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "The post is about Australian entertainment/news trends and the death of actor Johnny Ruffo, with no substantive connection to Tuvalu, the Falepili Union, climate mobility, migration, or security cooperation.",
+  "relevance": "irrelevant",
+  "source": "openai",
+  "stance": "Neutral"
+}

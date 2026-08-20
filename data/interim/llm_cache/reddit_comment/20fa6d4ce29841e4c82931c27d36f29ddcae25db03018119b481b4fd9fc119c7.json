@@ -1,0 +1,21 @@
+{
+  "cache_key": "20fa6d4ce29841e4c82931c27d36f29ddcae25db03018119b481b4fd9fc119c7",
+  "cached_at": "2026-08-19T14:02:17Z",
+  "emotion": "Cynicism",
+  "frames": [
+    "Climate Justice",
+    "China / Geopolitics"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Strategic partners",
+  "openai_error": null,
+  "rationale": "The comment pushes back against assigning Australia significant responsibility by stressing that its emissions are only a fraction of global totals and comparing it to China’s coal output. It is directly about Australia’s climate role and coal policy, with no support for the Tuvalu minister’s framing.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Concern"
+}

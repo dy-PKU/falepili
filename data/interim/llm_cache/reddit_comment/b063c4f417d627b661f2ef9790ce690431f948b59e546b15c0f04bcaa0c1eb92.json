@@ -1,0 +1,20 @@
+{
+  "cache_key": "b063c4f417d627b661f2ef9790ce690431f948b59e546b15c0f04bcaa0c1eb92",
+  "cached_at": "2026-08-19T13:58:41Z",
+  "emotion": "Cynicism",
+  "frames": [
+    "Other"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": true
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "The comment is a brief sarcastic dismissal without a substantive argument about the coalmine decision, Tuvalu, climate impacts, migration, or security cooperation. In thread context it is related to the topic, but the author's precise stance toward the Falepili-related issues or the climate criticism is unclear.",
+  "relevance": "contextually relevant",
+  "source": "openai",
+  "stance": "Unclear"
+}

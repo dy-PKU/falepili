@@ -1,0 +1,21 @@
+{
+  "cache_key": "6c08a430f0d230fb678a2bfddecbd103f653c284ffb4a46d308bfbc2f85042d6",
+  "cached_at": "2026-08-19T13:56:44Z",
+  "emotion": "Cynicism",
+  "frames": [
+    "Climate Justice",
+    "Other"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": true
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "The comment pushes back on the thread's moral framing by arguing that the target has not fully moved away from coal-based energy use and still relies on imported power. The 'lol' adds a dismissive, sarcastic tone. It is directly relevant to the climate and coal debate but is not primarily about migration or security cooperation.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Strong Opposition"
+}

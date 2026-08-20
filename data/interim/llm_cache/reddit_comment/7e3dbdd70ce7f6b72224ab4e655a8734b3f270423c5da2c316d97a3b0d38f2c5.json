@@ -1,0 +1,20 @@
+{
+  "cache_key": "7e3dbdd70ce7f6b72224ab4e655a8734b3f270423c5da2c316d97a3b0d38f2c5",
+  "cached_at": "2026-08-19T13:49:18Z",
+  "emotion": "Neutral",
+  "frames": [
+    "Other"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "The comment clarifies terminology in the thread, suggesting that 'Commonwealth' refers to the Commonwealth of Australia. It does not express a substantive stance on Tuvaluan residency, climate mobility, migration, or security cooperation.",
+  "relevance": "contextually relevant",
+  "source": "openai",
+  "stance": "Neutral"
+}

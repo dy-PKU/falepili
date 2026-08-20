@@ -1,0 +1,18 @@
+{
+  "cache_key": "54513cbcebe2f896fe0e2ce7698fa25de0fa1aac8390390375054ebfcb8ea976",
+  "cached_at": "2026-08-19T13:36:44Z",
+  "emotion": "Neutral",
+  "frames": [],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "No comment text was provided, so the author's stance and framing cannot be assessed. The surrounding thread context is about Tuvalu, climate impacts, and the Falepili Union, but that is not enough to attribute a position to a specific comment.",
+  "relevance": "unclear",
+  "source": "openai",
+  "stance": "Unclear"
+}

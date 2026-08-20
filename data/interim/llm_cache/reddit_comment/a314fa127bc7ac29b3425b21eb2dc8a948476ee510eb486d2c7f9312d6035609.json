@@ -1,0 +1,22 @@
+{
+  "cache_key": "a314fa127bc7ac29b3425b21eb2dc8a948476ee510eb486d2c7f9312d6035609",
+  "cached_at": "2026-08-19T14:12:02Z",
+  "emotion": "Neutral",
+  "frames": [
+    "Human Security",
+    "Pacific Solidarity",
+    "Climate Justice"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Climate victims",
+  "openai_error": null,
+  "rationale": "The comment treats Tuvalu's migration pathway as a response to a broader environmental collapse and suggests evacuation may be inevitable. It also widens the issue to other Pacific states, which frames the program as necessary and regionally shared rather than contested.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Support"
+}

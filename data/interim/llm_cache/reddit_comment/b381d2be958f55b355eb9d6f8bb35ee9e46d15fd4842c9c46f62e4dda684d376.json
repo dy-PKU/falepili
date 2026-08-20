@@ -1,0 +1,22 @@
+{
+  "cache_key": "b381d2be958f55b355eb9d6f8bb35ee9e46d15fd4842c9c46f62e4dda684d376",
+  "cached_at": "2026-08-19T14:23:29Z",
+  "emotion": "Neutral",
+  "frames": [
+    "Climate Justice",
+    "Human Security",
+    "Migration Fairness"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Climate victims",
+  "openai_error": null,
+  "rationale": "The comment directly discusses the likely long-term effect of Tuvaluan migration on the country's population. It is not a clear endorsement or rejection of the program, but a concern-style prediction about depopulation in the context of climate displacement.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Concern"
+}

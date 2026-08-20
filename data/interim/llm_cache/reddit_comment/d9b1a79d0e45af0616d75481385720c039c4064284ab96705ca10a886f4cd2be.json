@@ -1,0 +1,21 @@
+{
+  "cache_key": "d9b1a79d0e45af0616d75481385720c039c4064284ab96705ca10a886f4cd2be",
+  "cached_at": "2026-08-19T14:27:14Z",
+  "emotion": "Anger",
+  "frames": [
+    "Climate Justice",
+    "Colonialism / Dependency"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Climate victims",
+  "openai_error": null,
+  "rationale": "The comment supports climate action and frames Tuvaluans' migration as forced by climate change, while criticizing governments as incompetent and corrupt. The phrase 'Free the colonised and oppressed' adds an anti-colonial justice frame. It does not clearly address the migration program itself beyond accepting the reason people have to leave, so the stance is supportive of the underlying climate mobility rationale rather than explicit policy detail.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Support"
+}

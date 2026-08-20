@@ -1,0 +1,21 @@
+{
+  "cache_key": "01051c17a95491962c4b8df553846065ce4bcde160a5fbcca3d5697297ac3195",
+  "cached_at": "2026-08-19T13:41:37Z",
+  "emotion": "Resentment",
+  "frames": [
+    "Migration Fairness",
+    "Other"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Welfare recipients",
+  "openai_error": null,
+  "rationale": "The comment opposes offering residency/support to Tuvaluan climate-displaced people by framing it as 'communist' to give immigrants something. It implies resentment toward perceived benefits for migrants rather than engaging with climate displacement or security cooperation.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Strong Opposition"
+}

@@ -1,0 +1,20 @@
+{
+  "cache_key": "28e713643f820d2850cc49cc587a5fe3cf6e6e9be0547ea9cee75928d009779b",
+  "cached_at": "2026-08-19T13:43:55Z",
+  "emotion": "Neutral",
+  "frames": [
+    "Other"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "The comment shifts to carbon capture and storage as a climate mitigation point. It is related to the broader climate context of the thread, but it does not take a clear position on Tuvaluan residency, climate mobility, or the Falepili Union itself.",
+  "relevance": "contextually relevant",
+  "source": "openai",
+  "stance": "Neutral"
+}

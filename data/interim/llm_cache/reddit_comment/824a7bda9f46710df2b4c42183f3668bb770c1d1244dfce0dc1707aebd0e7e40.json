@@ -1,0 +1,18 @@
+{
+  "cache_key": "824a7bda9f46710df2b4c42183f3668bb770c1d1244dfce0dc1707aebd0e7e40",
+  "cached_at": "2026-08-19T14:20:42Z",
+  "emotion": "Neutral",
+  "frames": [],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "The comment content is deleted, so there is no usable stance, framing, or language signal to classify.",
+  "relevance": "unclear",
+  "source": "openai",
+  "stance": "Unclear"
+}

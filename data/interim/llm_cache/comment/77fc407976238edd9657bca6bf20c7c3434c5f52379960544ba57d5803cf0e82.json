@@ -1,0 +1,21 @@
+{
+  "cache_key": "77fc407976238edd9657bca6bf20c7c3434c5f52379960544ba57d5803cf0e82",
+  "cached_at": "2026-08-19T17:28:44Z",
+  "emotion": "Neutral",
+  "frames": [
+    "Economic Cost",
+    "Sovereignty"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "The author expresses disagreement by emphasizing practical objections around financial costs and sovereignty implications, without rejecting the arrangement outright or using emotive language.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Concern"
+}

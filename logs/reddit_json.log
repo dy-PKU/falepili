@@ -1,0 +1,156 @@
+2026-08-19T02:03:13Z WARNING reddit_json reddit_request_failed attempt=1 wait=1.6 error=HTTPSConnectionPool(host='www.reddit.com', port=443): Max retries exceeded with url: /search.json?q=Falepili+Union&sort=new&t=all&limit=100&raw_json=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001CC4C314390>, 'Connection to www.reddit.com timed out. (connect timeout=30)'))
+2026-08-19T02:03:57Z WARNING reddit_json reddit_request_failed attempt=2 wait=2.0 error=HTTPSConnectionPool(host='www.reddit.com', port=443): Max retries exceeded with url: /search.json?q=Falepili+Union&sort=new&t=all&limit=100&raw_json=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001CC4C315750>, 'Connection to www.reddit.com timed out. (connect timeout=30)'))
+2026-08-19T02:04:41Z WARNING reddit_json reddit_request_failed attempt=3 wait=4.3 error=HTTPSConnectionPool(host='www.reddit.com', port=443): Max retries exceeded with url: /search.json?q=Falepili+Union&sort=new&t=all&limit=100&raw_json=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001CC4C316C50>, 'Connection to www.reddit.com timed out. (connect timeout=30)'))
+2026-08-19T02:05:28Z WARNING reddit_json reddit_request_failed attempt=4 wait=8.2 error=HTTPSConnectionPool(host='www.reddit.com', port=443): Max retries exceeded with url: /search.json?q=Falepili+Union&sort=new&t=all&limit=100&raw_json=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001CC4C317BD0>, 'Connection to www.reddit.com timed out. (connect timeout=30)'))
+2026-08-19T02:06:18Z WARNING reddit_json reddit_request_failed attempt=5 wait=16.7 error=HTTPSConnectionPool(host='www.reddit.com', port=443): Max retries exceeded with url: /search.json?q=Falepili+Union&sort=new&t=all&limit=100&raw_json=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001CC4C31CD50>, 'Connection to www.reddit.com timed out. (connect timeout=30)'))
+2026-08-19T02:34:46Z WARNING reddit_json reddit_request_failed attempt=1 wait=1.6 error=Reddit returned 403 Forbidden. Body preview: <body class=theme-beta><div><style>.theme-light,:root{--rem360:22.5rem;--rem320:20rem;--rem192:12rem;--rem144:9rem;--rem128:8rem;--rem96:6rem;--rem90:5.625rem;--rem88:5.5rem;--rem64:4rem;--rem56:3.5rem;--rem48:3rem;--rem40:2.5rem;--rem36:2.25rem;--rem32:2rem;--rem28:1.75rem;--rem26:1.625rem;--rem24:1.5rem;--rem22:1.375rem;--rem20:1.25rem;--rem18:1.125rem;--rem16:1rem;--rem15:0.9375rem;--rem14:0.875rem;--rem12:0.75rem;--rem10:0.625rem;--rem8:0.5rem;--rem6:0.375rem;--rem4:0.25rem;--rem2:0.125rem;--rem1:0.0625rem;--spacer-4xs:0.125rem;--spacer-2xs:0.25rem;--spacer-xs:0.5rem;--spacer-sm:0.75rem;--spacer-md:1rem;--spacer-lg:1.5rem;--spacer-xl:2rem;--spacer-2xl:3rem;--spacer-a-px:0px;--spacer-button-lg-px:var(--spacer-lg);--spacer-button-md-px:var(--spacer-lg);--spacer-button-sm-px:var(--spacer-md);--spacer-input-padding-left:0px;--spacer-input-padding-top:0px;--spacer-label-default:0px;--spacer-switch-input-active-pl:0px;--size-2xs:0.25rem;--size-xs:0.5rem;--size-sm:0.75rem;--size-md:1rem;-
+2026-08-19T02:34:49Z WARNING reddit_json reddit_request_failed attempt=2 wait=2.0 error=Reddit returned 403 Forbidden. Body preview: <body class=theme-beta><div><style>.theme-light,:root{--rem360:22.5rem;--rem320:20rem;--rem192:12rem;--rem144:9rem;--rem128:8rem;--rem96:6rem;--rem90:5.625rem;--rem88:5.5rem;--rem64:4rem;--rem56:3.5rem;--rem48:3rem;--rem40:2.5rem;--rem36:2.25rem;--rem32:2rem;--rem28:1.75rem;--rem26:1.625rem;--rem24:1.5rem;--rem22:1.375rem;--rem20:1.25rem;--rem18:1.125rem;--rem16:1rem;--rem15:0.9375rem;--rem14:0.875rem;--rem12:0.75rem;--rem10:0.625rem;--rem8:0.5rem;--rem6:0.375rem;--rem4:0.25rem;--rem2:0.125rem;--rem1:0.0625rem;--spacer-4xs:0.125rem;--spacer-2xs:0.25rem;--spacer-xs:0.5rem;--spacer-sm:0.75rem;--spacer-md:1rem;--spacer-lg:1.5rem;--spacer-xl:2rem;--spacer-2xl:3rem;--spacer-a-px:0px;--spacer-button-lg-px:var(--spacer-lg);--spacer-button-md-px:var(--spacer-lg);--spacer-button-sm-px:var(--spacer-md);--spacer-input-padding-left:0px;--spacer-input-padding-top:0px;--spacer-label-default:0px;--spacer-switch-input-active-pl:0px;--size-2xs:0.25rem;--size-xs:0.5rem;--size-sm:0.75rem;--size-md:1rem;-
+2026-08-19T02:34:52Z WARNING reddit_json reddit_request_failed attempt=3 wait=4.3 error=Reddit returned 403 Forbidden. Body preview: <body class=theme-beta><div><style>.theme-light,:root{--rem360:22.5rem;--rem320:20rem;--rem192:12rem;--rem144:9rem;--rem128:8rem;--rem96:6rem;--rem90:5.625rem;--rem88:5.5rem;--rem64:4rem;--rem56:3.5rem;--rem48:3rem;--rem40:2.5rem;--rem36:2.25rem;--rem32:2rem;--rem28:1.75rem;--rem26:1.625rem;--rem24:1.5rem;--rem22:1.375rem;--rem20:1.25rem;--rem18:1.125rem;--rem16:1rem;--rem15:0.9375rem;--rem14:0.875rem;--rem12:0.75rem;--rem10:0.625rem;--rem8:0.5rem;--rem6:0.375rem;--rem4:0.25rem;--rem2:0.125rem;--rem1:0.0625rem;--spacer-4xs:0.125rem;--spacer-2xs:0.25rem;--spacer-xs:0.5rem;--spacer-sm:0.75rem;--spacer-md:1rem;--spacer-lg:1.5rem;--spacer-xl:2rem;--spacer-2xl:3rem;--spacer-a-px:0px;--spacer-button-lg-px:var(--spacer-lg);--spacer-button-md-px:var(--spacer-lg);--spacer-button-sm-px:var(--spacer-md);--spacer-input-padding-left:0px;--spacer-input-padding-top:0px;--spacer-label-default:0px;--spacer-switch-input-active-pl:0px;--size-2xs:0.25rem;--size-xs:0.5rem;--size-sm:0.75rem;--size-md:1rem;-
+2026-08-19T02:34:58Z WARNING reddit_json reddit_request_failed attempt=4 wait=8.2 error=Reddit returned 403 Forbidden. Body preview: <body class=theme-beta><div><style>.theme-light,:root{--rem360:22.5rem;--rem320:20rem;--rem192:12rem;--rem144:9rem;--rem128:8rem;--rem96:6rem;--rem90:5.625rem;--rem88:5.5rem;--rem64:4rem;--rem56:3.5rem;--rem48:3rem;--rem40:2.5rem;--rem36:2.25rem;--rem32:2rem;--rem28:1.75rem;--rem26:1.625rem;--rem24:1.5rem;--rem22:1.375rem;--rem20:1.25rem;--rem18:1.125rem;--rem16:1rem;--rem15:0.9375rem;--rem14:0.875rem;--rem12:0.75rem;--rem10:0.625rem;--rem8:0.5rem;--rem6:0.375rem;--rem4:0.25rem;--rem2:0.125rem;--rem1:0.0625rem;--spacer-4xs:0.125rem;--spacer-2xs:0.25rem;--spacer-xs:0.5rem;--spacer-sm:0.75rem;--spacer-md:1rem;--spacer-lg:1.5rem;--spacer-xl:2rem;--spacer-2xl:3rem;--spacer-a-px:0px;--spacer-button-lg-px:var(--spacer-lg);--spacer-button-md-px:var(--spacer-lg);--spacer-button-sm-px:var(--spacer-md);--spacer-input-padding-left:0px;--spacer-input-padding-top:0px;--spacer-label-default:0px;--spacer-switch-input-active-pl:0px;--size-2xs:0.25rem;--size-xs:0.5rem;--size-sm:0.75rem;--size-md:1rem;-
+2026-08-19T02:35:08Z WARNING reddit_json reddit_request_failed attempt=5 wait=16.7 error=Reddit returned 403 Forbidden. Body preview: <body class=theme-beta><div><style>.theme-light,:root{--rem360:22.5rem;--rem320:20rem;--rem192:12rem;--rem144:9rem;--rem128:8rem;--rem96:6rem;--rem90:5.625rem;--rem88:5.5rem;--rem64:4rem;--rem56:3.5rem;--rem48:3rem;--rem40:2.5rem;--rem36:2.25rem;--rem32:2rem;--rem28:1.75rem;--rem26:1.625rem;--rem24:1.5rem;--rem22:1.375rem;--rem20:1.25rem;--rem18:1.125rem;--rem16:1rem;--rem15:0.9375rem;--rem14:0.875rem;--rem12:0.75rem;--rem10:0.625rem;--rem8:0.5rem;--rem6:0.375rem;--rem4:0.25rem;--rem2:0.125rem;--rem1:0.0625rem;--spacer-4xs:0.125rem;--spacer-2xs:0.25rem;--spacer-xs:0.5rem;--spacer-sm:0.75rem;--spacer-md:1rem;--spacer-lg:1.5rem;--spacer-xl:2rem;--spacer-2xl:3rem;--spacer-a-px:0px;--spacer-button-lg-px:var(--spacer-lg);--spacer-button-md-px:var(--spacer-lg);--spacer-button-sm-px:var(--spacer-md);--spacer-input-padding-left:0px;--spacer-input-padding-top:0px;--spacer-label-default:0px;--spacer-switch-input-active-pl:0px;--size-2xs:0.25rem;--size-xs:0.5rem;--size-sm:0.75rem;--size-md:1rem;-
+2026-08-19T08:10:27Z INFO reddit_json reddit_search_page job=all::Falepili Union page=1 posts_seen=12 after=None
+2026-08-19T08:10:33Z INFO reddit_json reddit_search_page job=all::Falepili Tuvalu Australia page=1 posts_seen=100 after=eyJhIjoidDNfMXVxbW1pZyIsImQiOjEwMH0
+2026-08-19T08:10:40Z INFO reddit_json reddit_search_page job=all::Falepili Mobility Pathway page=1 posts_seen=100 after=eyJhIjoidDNfMXZta2kzdiIsImQiOjEwMH0
+2026-08-19T08:10:47Z INFO reddit_json reddit_search_page job=all::Tuvalu Australia treaty page=1 posts_seen=100 after=eyJhIjoidDNfMXZmOGxpMyIsImQiOjEwMH0
+2026-08-19T08:10:53Z INFO reddit_json reddit_search_page job=all::Tuvalu migration Australia page=1 posts_seen=100 after=eyJhIjoidDNfMXZvajh0dSIsImQiOjEwMH0
+2026-08-19T08:10:59Z INFO reddit_json reddit_search_page job=all::Tuvalu climate migration Australia page=1 posts_seen=100 after=eyJhIjoidDNfMXZxYXo0biIsImQiOjEwMH0
+2026-08-19T08:11:05Z INFO reddit_json reddit_search_page job=all::Tuvalu climate refugees Australia page=1 posts_seen=100 after=eyJhIjoidDNfMXZua3dyNyIsImQiOjEwMH0
+2026-08-19T08:11:11Z INFO reddit_json reddit_search_page job=all::Tuvalu permanent residency Australia page=1 posts_seen=100 after=eyJhIjoidDNfMXZycGViYiIsImQiOjEwMH0
+2026-08-19T08:11:17Z INFO reddit_json reddit_search_page job=all::Tuvalu Australia 280 page=1 posts_seen=100 after=eyJhIjoidDNfMXZicHp6byIsImQiOjEwMH0
+2026-08-19T08:11:19Z INFO reddit_json reddit_search_complete posts=625
+2026-08-19T08:11:22Z INFO reddit_json reddit_comments_post post_id=1vaznwh comments_total=96
+2026-08-19T08:11:26Z INFO reddit_json reddit_comments_post post_id=1vpmbru comments_total=243
+2026-08-19T08:11:30Z INFO reddit_json reddit_comments_post post_id=1voqxv9 comments_total=386
+2026-08-19T08:11:34Z INFO reddit_json reddit_comments_post post_id=1vpjt34 comments_total=496
+2026-08-19T08:11:38Z INFO reddit_json reddit_comments_post post_id=1vm1bws comments_total=620
+2026-08-19T08:11:40Z INFO reddit_json reddit_comments_complete comments=620
+2026-08-19T08:28:08Z INFO reddit_json reddit_search_page job=all::Falepili Union page=1 posts_seen=12 after=None
+2026-08-19T08:28:13Z INFO reddit_json reddit_search_page job=all::Falepili Tuvalu Australia page=1 posts_seen=100 after=eyJhIjoidDNfMXVxZGVleSIsImQiOjEwMH0
+2026-08-19T08:28:21Z INFO reddit_json reddit_search_page job=all::Falepili Mobility Pathway page=1 posts_seen=100 after=eyJhIjoidDNfMXZta2kzdiIsImQiOjEwMH0
+2026-08-19T08:28:27Z INFO reddit_json reddit_search_page job=all::Tuvalu Australia treaty page=1 posts_seen=100 after=eyJhIjoidDNfMXZkNXhyaCIsImQiOjEwMH0
+2026-08-19T08:28:32Z INFO reddit_json reddit_search_page job=all::Tuvalu migration Australia page=1 posts_seen=100 after=eyJhIjoidDNfMXZvazEyZiIsImQiOjEwMH0
+2026-08-19T08:28:39Z INFO reddit_json reddit_search_page job=all::Tuvalu climate migration Australia page=1 posts_seen=100 after=eyJhIjoidDNfMXZxYjhwYyIsImQiOjEwMH0
+2026-08-19T08:28:46Z INFO reddit_json reddit_search_page job=all::Tuvalu climate refugees Australia page=1 posts_seen=100 after=eyJhIjoidDNfMXZua3dyNyIsImQiOjEwMH0
+2026-08-19T08:28:51Z INFO reddit_json reddit_search_page job=all::Tuvalu permanent residency Australia page=1 posts_seen=100 after=eyJhIjoidDNfMXZycHJlbyIsImQiOjEwMH0
+2026-08-19T08:28:53Z INFO reddit_json reddit_search_complete posts=60
+2026-08-19T08:28:56Z INFO reddit_json reddit_comments_post post_id=1vaznwh comments_total=0
+2026-08-19T08:28:59Z INFO reddit_json reddit_comments_post post_id=1uxf231 comments_total=0
+2026-08-19T08:29:03Z INFO reddit_json reddit_comments_post post_id=1uy4zwd comments_total=2
+2026-08-19T08:29:07Z INFO reddit_json reddit_comments_post post_id=1v1oskz comments_total=3
+2026-08-19T08:29:11Z INFO reddit_json reddit_comments_post post_id=1vk4fov comments_total=3
+2026-08-19T08:29:14Z INFO reddit_json reddit_comments_post post_id=1urzyin comments_total=9
+2026-08-19T08:29:18Z INFO reddit_json reddit_comments_post post_id=1ut6a83 comments_total=10
+2026-08-19T08:29:22Z INFO reddit_json reddit_comments_post post_id=1v20jzc comments_total=10
+2026-08-19T08:29:26Z INFO reddit_json reddit_comments_post post_id=1vn6m38 comments_total=10
+2026-08-19T08:29:29Z INFO reddit_json reddit_comments_post post_id=1v4hqzv comments_total=10
+2026-08-19T08:29:32Z INFO reddit_json reddit_comments_post post_id=1uqk814 comments_total=10
+2026-08-19T08:29:36Z INFO reddit_json reddit_comments_post post_id=1uv222g comments_total=10
+2026-08-19T08:29:39Z INFO reddit_json reddit_comments_post post_id=1vdyi8c comments_total=10
+2026-08-19T08:29:43Z INFO reddit_json reddit_comments_post post_id=1vgb948 comments_total=11
+2026-08-19T08:29:46Z INFO reddit_json reddit_comments_post post_id=1vk5z6c comments_total=11
+2026-08-19T08:29:49Z INFO reddit_json reddit_comments_post post_id=1utapak comments_total=11
+2026-08-19T08:29:53Z INFO reddit_json reddit_comments_post post_id=1v0b2ma comments_total=11
+2026-08-19T08:29:57Z INFO reddit_json reddit_comments_post post_id=1vb7sqz comments_total=11
+2026-08-19T08:30:01Z INFO reddit_json reddit_comments_post post_id=1vok12f comments_total=11
+2026-08-19T08:30:05Z INFO reddit_json reddit_comments_post post_id=1lmme5u comments_total=14
+2026-08-19T08:30:08Z INFO reddit_json reddit_comments_post post_id=1vbjqmr comments_total=14
+2026-08-19T08:30:12Z INFO reddit_json reddit_comments_post post_id=1c1twxs comments_total=15
+2026-08-19T08:30:15Z INFO reddit_json reddit_comments_post post_id=1usz5kx comments_total=15
+2026-08-19T08:30:19Z INFO reddit_json reddit_comments_post post_id=1vgvoxq comments_total=15
+2026-08-19T08:30:22Z INFO reddit_json reddit_comments_post post_id=1v4n8er comments_total=15
+2026-08-19T08:30:26Z INFO reddit_json reddit_comments_post post_id=1v3mh4j comments_total=15
+2026-08-19T08:30:29Z INFO reddit_json reddit_comments_post post_id=1vn6cba comments_total=16
+2026-08-19T08:30:33Z INFO reddit_json reddit_comments_post post_id=1v5w7bt comments_total=16
+2026-08-19T08:30:36Z INFO reddit_json reddit_comments_post post_id=1uyil2m comments_total=16
+2026-08-19T08:30:39Z INFO reddit_json reddit_comments_post post_id=1vkyavj comments_total=16
+2026-08-19T08:30:41Z INFO reddit_json reddit_search_skip job=all::Falepili Union
+2026-08-19T08:30:41Z INFO reddit_json reddit_search_complete posts=0
+2026-08-19T08:30:44Z INFO reddit_json reddit_comments_post post_id=1vh0203 comments_total=16
+2026-08-19T08:30:47Z INFO reddit_json reddit_comments_post post_id=1v2n0ip comments_total=16
+2026-08-19T08:30:51Z INFO reddit_json reddit_comments_post post_id=1vgpjs3 comments_total=16
+2026-08-19T08:30:54Z INFO reddit_json reddit_comments_post post_id=1v9bglh comments_total=16
+2026-08-19T08:30:57Z INFO reddit_json reddit_comments_post post_id=1vc4qb4 comments_total=16
+2026-08-19T08:31:01Z INFO reddit_json reddit_comments_post post_id=1vl08jx comments_total=16
+2026-08-19T08:31:04Z INFO reddit_json reddit_comments_post post_id=1c1tw5p comments_total=16
+2026-08-19T08:31:08Z INFO reddit_json reddit_comments_post post_id=1c19h27 comments_total=16
+2026-08-19T08:31:11Z INFO reddit_json reddit_comments_post post_id=1vflux7 comments_total=16
+2026-08-19T08:31:14Z INFO reddit_json reddit_comments_post post_id=1vewwgg comments_total=16
+2026-08-19T08:31:18Z INFO reddit_json reddit_comments_post post_id=1vcw3c7 comments_total=16
+2026-08-19T08:31:21Z INFO reddit_json reddit_comments_post post_id=1v8ah1s comments_total=16
+2026-08-19T08:31:24Z INFO reddit_json reddit_comments_post post_id=1llgem6 comments_total=16
+2026-08-19T08:31:27Z INFO reddit_json reddit_comments_post post_id=1v2qx6a comments_total=16
+2026-08-19T08:31:31Z INFO reddit_json reddit_comments_post post_id=1uw9c25 comments_total=16
+2026-08-19T08:31:34Z INFO reddit_json reddit_comments_post post_id=1vqhxtd comments_total=16
+2026-08-19T08:31:38Z INFO reddit_json reddit_comments_post post_id=1bxs56k comments_total=16
+2026-08-19T08:31:41Z INFO reddit_json reddit_comments_post post_id=1b1of52 comments_total=16
+2026-08-19T08:31:44Z INFO reddit_json reddit_comments_post post_id=1vbisnr comments_total=16
+2026-08-19T08:31:47Z INFO reddit_json reddit_comments_post post_id=1c1ybhq comments_total=16
+2026-08-19T08:31:49Z INFO reddit_json reddit_comments_complete comments=16
+2026-08-19T08:32:31Z INFO reddit_json reddit_search_page job=all::Falepili Union page=1 posts_seen=12 after=None
+2026-08-19T08:32:37Z INFO reddit_json reddit_search_page job=all::Falepili Tuvalu Australia page=1 posts_seen=100 after=eyJhIjoidDNfMXVxZGVleSIsImQiOjEwMH0
+2026-08-19T08:32:43Z INFO reddit_json reddit_search_page job=all::Falepili Mobility Pathway page=1 posts_seen=100 after=eyJhIjoidDNfMXZta2kzdiIsImQiOjEwMH0
+2026-08-19T08:32:49Z INFO reddit_json reddit_search_page job=all::Tuvalu Australia treaty page=1 posts_seen=100 after=eyJhIjoidDNfMXZkNXhyaCIsImQiOjEwMH0
+2026-08-19T08:32:55Z INFO reddit_json reddit_search_page job=all::Tuvalu migration Australia page=1 posts_seen=100 after=eyJhIjoidDNfMXZva3FrNSIsImQiOjEwMH0
+2026-08-19T08:33:01Z INFO reddit_json reddit_search_page job=all::Tuvalu climate migration Australia page=1 posts_seen=100 after=eyJhIjoidDNfMXZxYXo0biIsImQiOjEwMH0
+2026-08-19T08:33:07Z INFO reddit_json reddit_search_page job=all::Tuvalu climate refugees Australia page=1 posts_seen=100 after=eyJhIjoidDNfMXZuNzh1dyIsImQiOjEwMH0
+2026-08-19T08:33:14Z INFO reddit_json reddit_search_page job=all::Tuvalu permanent residency Australia page=1 posts_seen=100 after=eyJhIjoidDNfMXZycTRuYSIsImQiOjEwMH0
+2026-08-19T08:33:16Z INFO reddit_json reddit_search_complete posts=60
+2026-08-19T08:33:18Z INFO reddit_json reddit_comments_post post_id=1vaznwh comments_total=0
+2026-08-19T08:33:22Z INFO reddit_json reddit_comments_post post_id=1uxf231 comments_total=0
+2026-08-19T08:33:26Z INFO reddit_json reddit_comments_post post_id=1uy4zwd comments_total=2
+2026-08-19T08:33:30Z INFO reddit_json reddit_comments_post post_id=1v1oskz comments_total=3
+2026-08-19T08:33:34Z INFO reddit_json reddit_comments_post post_id=1vk4fov comments_total=3
+2026-08-19T08:33:38Z INFO reddit_json reddit_comments_post post_id=1urzyin comments_total=9
+2026-08-19T08:33:41Z INFO reddit_json reddit_comments_post post_id=1ut6a83 comments_total=10
+2026-08-19T08:33:45Z INFO reddit_json reddit_comments_post post_id=1v20jzc comments_total=10
+2026-08-19T08:33:50Z INFO reddit_json reddit_comments_post post_id=1vn6m38 comments_total=10
+2026-08-19T08:33:54Z INFO reddit_json reddit_comments_post post_id=1v4hqzv comments_total=10
+2026-08-19T08:33:57Z INFO reddit_json reddit_comments_post post_id=1uqk814 comments_total=10
+2026-08-19T08:34:00Z INFO reddit_json reddit_comments_post post_id=1uv222g comments_total=10
+2026-08-19T08:34:04Z INFO reddit_json reddit_comments_post post_id=1vdyi8c comments_total=10
+2026-08-19T08:34:09Z INFO reddit_json reddit_comments_post post_id=1vgb948 comments_total=11
+2026-08-19T08:34:12Z INFO reddit_json reddit_comments_post post_id=1vk5z6c comments_total=11
+2026-08-19T08:34:15Z INFO reddit_json reddit_comments_post post_id=1utapak comments_total=11
+2026-08-19T08:34:19Z INFO reddit_json reddit_comments_post post_id=1v0b2ma comments_total=11
+2026-08-19T08:34:22Z INFO reddit_json reddit_comments_post post_id=1vb7sqz comments_total=11
+2026-08-19T08:34:26Z INFO reddit_json reddit_comments_post post_id=1vok12f comments_total=11
+2026-08-19T08:34:29Z INFO reddit_json reddit_comments_post post_id=1lmme5u comments_total=14
+2026-08-19T08:34:31Z INFO reddit_json reddit_comments_complete comments=14
+2026-08-19T08:37:50Z WARNING reddit_json redditapis_retryable_status status=503 wait=5.0 url=https://api.redditapis.com/api/reddit/search
+2026-08-19T08:38:15Z WARNING reddit_json redditapis_retryable_status status=503 wait=5.0 url=https://api.redditapis.com/api/reddit/search
+2026-08-19T08:38:50Z WARNING reddit_json redditapis_request_failed attempt=3 wait=4.6 error=Failed to perform, curl: (28) Operation timed out after 30008 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-08-19T08:39:16Z WARNING reddit_json redditapis_retryable_status status=503 wait=5.0 url=https://api.redditapis.com/api/reddit/search
+2026-08-19T08:39:42Z WARNING reddit_json redditapis_retryable_status status=503 wait=5.0 url=https://api.redditapis.com/api/reddit/search
+2026-08-19T12:32:42Z WARNING reddit_json redditapis_request_failed attempt=1 wait=1.6 error=Failed to perform, curl: (28) Operation timed out after 30001 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-08-19T12:33:12Z WARNING reddit_json redditapis_retryable_status status=503 wait=5.0 url=https://api.redditapis.com/api/reddit/search
+2026-08-19T12:33:38Z WARNING reddit_json redditapis_retryable_status status=503 wait=5.0 url=https://api.redditapis.com/api/reddit/search
+2026-08-19T12:34:05Z WARNING reddit_json redditapis_retryable_status status=503 wait=5.0 url=https://api.redditapis.com/api/reddit/search
+2026-08-19T12:34:40Z WARNING reddit_json redditapis_request_failed attempt=5 wait=16.0 error=Failed to perform, curl: (28) Operation timed out after 30002 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-08-19T13:29:25Z WARNING reddit_json redditapis_request_failed attempt=1 wait=1.6 error=Failed to perform, curl: (6) Could not resolve host: api.redditapis.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-08-19T13:29:27Z WARNING reddit_json redditapis_request_failed attempt=2 wait=2.0 error=Failed to perform, curl: (6) Could not resolve host: api.redditapis.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-08-19T13:29:29Z WARNING reddit_json redditapis_request_failed attempt=3 wait=4.3 error=Failed to perform, curl: (6) Could not resolve host: api.redditapis.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-08-19T13:29:33Z WARNING reddit_json redditapis_request_failed attempt=4 wait=8.2 error=Failed to perform, curl: (6) Could not resolve host: api.redditapis.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-08-19T13:29:42Z WARNING reddit_json redditapis_request_failed attempt=5 wait=16.7 error=Failed to perform, curl: (6) Could not resolve host: api.redditapis.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-08-19T13:30:49Z WARNING reddit_json redditapis_request_failed attempt=1 wait=1.6 error=HTTPSConnectionPool(host='api.redditapis.com', port=443): Max retries exceeded with url: /api/reddit/search?q=Falepili+Union&sort=new&time_filter=all&limit=100 (Caused by NameResolutionError("HTTPSConnection(host='api.redditapis.com', port=443): Failed to resolve 'api.redditapis.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2026-08-19T13:30:51Z WARNING reddit_json redditapis_request_failed attempt=2 wait=2.0 error=HTTPSConnectionPool(host='api.redditapis.com', port=443): Max retries exceeded with url: /api/reddit/search?q=Falepili+Union&sort=new&time_filter=all&limit=100 (Caused by NameResolutionError("HTTPSConnection(host='api.redditapis.com', port=443): Failed to resolve 'api.redditapis.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2026-08-19T13:30:53Z WARNING reddit_json redditapis_request_failed attempt=3 wait=4.3 error=HTTPSConnectionPool(host='api.redditapis.com', port=443): Max retries exceeded with url: /api/reddit/search?q=Falepili+Union&sort=new&time_filter=all&limit=100 (Caused by NameResolutionError("HTTPSConnection(host='api.redditapis.com', port=443): Failed to resolve 'api.redditapis.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2026-08-19T13:30:57Z WARNING reddit_json redditapis_request_failed attempt=4 wait=8.2 error=HTTPSConnectionPool(host='api.redditapis.com', port=443): Max retries exceeded with url: /api/reddit/search?q=Falepili+Union&sort=new&time_filter=all&limit=100 (Caused by NameResolutionError("HTTPSConnection(host='api.redditapis.com', port=443): Failed to resolve 'api.redditapis.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2026-08-19T13:31:05Z WARNING reddit_json redditapis_request_failed attempt=5 wait=16.7 error=HTTPSConnectionPool(host='api.redditapis.com', port=443): Max retries exceeded with url: /api/reddit/search?q=Falepili+Union&sort=new&time_filter=all&limit=100 (Caused by NameResolutionError("HTTPSConnection(host='api.redditapis.com', port=443): Failed to resolve 'api.redditapis.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2026-08-19T14:10:33Z INFO reddit_json reddit_search_page job=all::Falepili Union page=1 posts_seen=12 after=None
+2026-08-19T14:10:40Z INFO reddit_json reddit_search_page job=all::Falepili Mobility Pathway page=1 posts_seen=100 after=eyJhIjoidDNfMXZta29mYiIsImQiOjEwMH0
+2026-08-19T14:10:53Z INFO reddit_json reddit_search_page job=all::Australia-Tuvalu Falepili Union treaty page=1 posts_seen=100 after=eyJhIjoidDNfMXZrcDFxMyIsImQiOjEwMH0
+2026-08-19T14:10:59Z INFO reddit_json reddit_search_page job=all::Australia Tuvalu climate visa page=1 posts_seen=100 after=eyJhIjoidDNfMXZyOTZyZCIsImQiOjEwMH0
+2026-08-19T14:11:07Z INFO reddit_json reddit_search_page job=all::Australia Tuvalu climate visas page=1 posts_seen=100 after=eyJhIjoidDNfMXZyOTZyZCIsImQiOjEwMH0
+2026-08-19T14:11:13Z INFO reddit_json reddit_search_page job=all::Australia Tuvalu mobility pathway page=1 posts_seen=100 after=eyJhIjoidDNfMXZxeWZ2YSIsImQiOjEwMH0
+2026-08-19T14:11:20Z INFO reddit_json reddit_search_page job=all::Tuvalu Australia permanent residency page=1 posts_seen=100 after=eyJhIjoidDNfMXZydnZ1OCIsImQiOjEwMH0
+2026-08-19T14:11:27Z INFO reddit_json reddit_search_page job=all::Tuvalu Australia treaty page=1 posts_seen=100 after=eyJhIjoidDNfMXZmODNqbyIsImQiOjEwMH0
+2026-08-19T14:11:33Z INFO reddit_json reddit_search_page job=all::Tuvalu migration Australia page=1 posts_seen=100 after=eyJhIjoidDNfMXZveDFibCIsImQiOjEwMH0
+2026-08-19T14:11:40Z INFO reddit_json reddit_search_page job=all::Tuvalu climate migration Australia page=1 posts_seen=100 after=eyJhIjoidDNfMXZxaTMyciIsImQiOjEwMH0
+2026-08-19T14:11:47Z INFO reddit_json reddit_search_page job=all::Tuvalu climate refugees Australia page=1 posts_seen=100 after=eyJhIjoidDNfMXZuOHNpdSIsImQiOjEwMH0
+2026-08-19T14:11:50Z INFO reddit_json reddit_search_complete posts=11
+2026-08-19T14:13:51Z INFO reddit_json reddit_search_skip job=all::Falepili Union
+2026-08-19T14:13:51Z WARNING reddit_json redditapis_request_failed attempt=1 wait=1.6 error=HTTPSConnectionPool(host='api.redditapis.com', port=443): Max retries exceeded with url: /api/reddit/search?q=Falepili+Union&sort=new&time_filter=all&limit=100&subreddit=australia (Caused by NameResolutionError("HTTPSConnection(host='api.redditapis.com', port=443): Failed to resolve 'api.redditapis.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2026-08-19T14:13:53Z WARNING reddit_json redditapis_request_failed attempt=2 wait=2.0 error=HTTPSConnectionPool(host='api.redditapis.com', port=443): Max retries exceeded with url: /api/reddit/search?q=Falepili+Union&sort=new&time_filter=all&limit=100&subreddit=australia (Caused by NameResolutionError("HTTPSConnection(host='api.redditapis.com', port=443): Failed to resolve 'api.redditapis.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2026-08-19T14:13:55Z WARNING reddit_json redditapis_request_failed attempt=3 wait=4.3 error=HTTPSConnectionPool(host='api.redditapis.com', port=443): Max retries exceeded with url: /api/reddit/search?q=Falepili+Union&sort=new&time_filter=all&limit=100&subreddit=australia (Caused by NameResolutionError("HTTPSConnection(host='api.redditapis.com', port=443): Failed to resolve 'api.redditapis.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2026-08-19T14:13:59Z WARNING reddit_json redditapis_request_failed attempt=4 wait=8.2 error=HTTPSConnectionPool(host='api.redditapis.com', port=443): Max retries exceeded with url: /api/reddit/search?q=Falepili+Union&sort=new&time_filter=all&limit=100&subreddit=australia (Caused by NameResolutionError("HTTPSConnection(host='api.redditapis.com', port=443): Failed to resolve 'api.redditapis.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2026-08-19T14:14:08Z WARNING reddit_json redditapis_request_failed attempt=5 wait=16.7 error=HTTPSConnectionPool(host='api.redditapis.com', port=443): Max retries exceeded with url: /api/reddit/search?q=Falepili+Union&sort=new&time_filter=all&limit=100&subreddit=australia (Caused by NameResolutionError("HTTPSConnection(host='api.redditapis.com', port=443): Failed to resolve 'api.redditapis.com' ([Errno 8] nodename nor servname provided, or not known)"))

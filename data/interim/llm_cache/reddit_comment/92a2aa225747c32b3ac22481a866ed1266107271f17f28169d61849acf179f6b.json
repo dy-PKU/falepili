@@ -1,0 +1,21 @@
+{
+  "cache_key": "92a2aa225747c32b3ac22481a866ed1266107271f17f28169d61849acf179f6b",
+  "cached_at": "2026-08-19T14:23:51Z",
+  "emotion": "Solidarity",
+  "frames": [
+    "Climate Justice",
+    "Pacific Solidarity"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Climate victims",
+  "openai_error": null,
+  "rationale": "The comment explicitly argues Australia has a duty to accept and support the migration program because of its historical emissions contribution, which is a clear pro-program climate justice stance.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Strong Support"
+}

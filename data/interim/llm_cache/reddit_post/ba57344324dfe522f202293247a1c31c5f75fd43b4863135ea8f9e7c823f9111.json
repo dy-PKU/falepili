@@ -1,0 +1,20 @@
+{
+  "cache_key": "ba57344324dfe522f202293247a1c31c5f75fd43b4863135ea8f9e7c823f9111",
+  "cached_at": "2026-08-19T13:36:02Z",
+  "emotion": "Neutral",
+  "frames": [
+    "Other"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "No comment text was provided, so there is no author stance to code. The only available context is the post title about Tuvalu, king tides, and the Falepili Union treaty, which is insufficient to infer a specific viewpoint beyond broad topic relevance.",
+  "relevance": "unclear",
+  "source": "openai",
+  "stance": "Unclear"
+}

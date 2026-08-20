@@ -1,0 +1,20 @@
+{
+  "cache_key": "06fec6470397a1d8036da9a7b9028da639e33567232df0a0a602e419fa50d45c",
+  "cached_at": "2026-08-19T13:41:31Z",
+  "emotion": "Humour",
+  "frames": [
+    "Climate Justice"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": true
+  },
+  "narrative_frame": "Climate victims",
+  "openai_error": null,
+  "rationale": "The comment uses a flippant, sarcastic suggestion of giving snorkels to people displaced by climate change, implicitly mocking the seriousness of the situation and the need for meaningful support.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Strong Opposition"
+}

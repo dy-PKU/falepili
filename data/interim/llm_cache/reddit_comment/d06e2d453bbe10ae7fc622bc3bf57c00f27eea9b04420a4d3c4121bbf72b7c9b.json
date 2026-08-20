@@ -1,0 +1,21 @@
+{
+  "cache_key": "d06e2d453bbe10ae7fc622bc3bf57c00f27eea9b04420a4d3c4121bbf72b7c9b",
+  "cached_at": "2026-08-19T13:49:12Z",
+  "emotion": "Neutral",
+  "frames": [
+    "Sovereignty",
+    "Other"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "The comment provides factual background on Tuvalu's constitutional status and independence, which is relevant to the Tuvalu residency thread but does not express support or opposition to the policy.",
+  "relevance": "contextually relevant",
+  "source": "openai",
+  "stance": "Neutral"
+}

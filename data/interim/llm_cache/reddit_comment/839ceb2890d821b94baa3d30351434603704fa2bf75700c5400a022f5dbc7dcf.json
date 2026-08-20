@@ -1,0 +1,22 @@
+{
+  "cache_key": "839ceb2890d821b94baa3d30351434603704fa2bf75700c5400a022f5dbc7dcf",
+  "cached_at": "2026-08-19T14:14:59Z",
+  "emotion": "Cynicism",
+  "frames": [
+    "Human Security",
+    "Climate Justice",
+    "Migration Fairness"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": true,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Climate victims",
+  "openai_error": null,
+  "rationale": "The comment responds to climate-driven migration by predicting a harsh militarized response to people seeking movement or safety as conditions worsen. The author's 'unfortunately' suggests concern or cynicism about future border violence rather than endorsement. The phrasing 'everything really goes tits up' is figurative and dystopian.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Concern"
+}

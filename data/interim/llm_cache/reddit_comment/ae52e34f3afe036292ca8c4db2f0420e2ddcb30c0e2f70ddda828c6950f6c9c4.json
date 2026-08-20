@@ -1,0 +1,22 @@
+{
+  "cache_key": "ae52e34f3afe036292ca8c4db2f0420e2ddcb30c0e2f70ddda828c6950f6c9c4",
+  "cached_at": "2026-08-19T14:07:33Z",
+  "emotion": "Cynicism",
+  "frames": [
+    "China / Geopolitics",
+    "Strategic Security",
+    "Colonialism / Dependency"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": true,
+    "sarcasm": false
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "The comment shifts away from the coalmine decision and attacks Pacific nations for accepting Chinese funding, implying hypocrisy and geopolitical dependency. It is reacting to the article's framing rather than supporting Tuvalu's climate minister, and the tone is dismissive and skeptical.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Strong Opposition"
+}

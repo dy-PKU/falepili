@@ -1,0 +1,21 @@
+{
+  "cache_key": "7a8875b3686602407816b29b7f674d61e7a8e146975cc045052f012c3f64ef19",
+  "cached_at": "2026-08-19T13:52:02Z",
+  "emotion": "Humour",
+  "frames": [
+    "Migration Fairness",
+    "Other"
+  ],
+  "language_features": {
+    "irony": true,
+    "metaphor": false,
+    "rhetorical_question": true,
+    "sarcasm": true
+  },
+  "narrative_frame": "Migrants competing for resources",
+  "openai_error": null,
+  "rationale": "The comment is a sarcastic dismissal of the idea of residency for Tuvaluans displaced by climate change. It does not engage the policy substance, but it clearly signals hostility toward the affected group and frames them as undeserving 'bludgers.'",
+  "relevance": "contextually relevant",
+  "source": "openai",
+  "stance": "Strong Opposition"
+}

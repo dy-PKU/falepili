@@ -1,0 +1,22 @@
+{
+  "cache_key": "5e5cb95c411871347f212a87427e86e72e31efb3675f2cd466de7c11583942c1",
+  "cached_at": "2026-08-19T14:22:36Z",
+  "emotion": "Neutral",
+  "frames": [
+    "Climate Justice",
+    "Housing / Public Services",
+    "Other"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "The comment responds directly to the climate migration thread but shifts the focus to domestic adaptation infrastructure and political inaction. It does not endorse or reject the Tuvalu program itself; instead it argues for building water-transfer and housing capacity as an alternative response.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Concern"
+}

@@ -1,0 +1,21 @@
+{
+  "cache_key": "00c60019a0b6fc7caf575c6c67db969edead61168c3e5c08f8c4986151d74bdd",
+  "cached_at": "2026-08-19T14:23:39Z",
+  "emotion": "Anxiety",
+  "frames": [
+    "Climate Justice",
+    "Human Security"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Climate victims",
+  "openai_error": null,
+  "rationale": "The comment responds directly to the Tuvalu migration program and argues it may be insufficient given projected inundation from climate change. It expresses concern about the pace and adequacy of the response rather than opposition to the program itself.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Concern"
+}

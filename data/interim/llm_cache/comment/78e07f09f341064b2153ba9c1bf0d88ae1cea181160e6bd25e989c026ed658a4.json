@@ -1,0 +1,22 @@
+{
+  "cache_key": "78e07f09f341064b2153ba9c1bf0d88ae1cea181160e6bd25e989c026ed658a4",
+  "cached_at": "2026-08-19T17:54:41Z",
+  "emotion": "Resentment",
+  "frames": [
+    "Pacific Solidarity",
+    "Strategic Security",
+    "Other"
+  ],
+  "language_features": {
+    "irony": true,
+    "metaphor": true,
+    "rhetorical_question": false,
+    "sarcasm": true
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "The comment is a sarcastic insult aimed at a political figure, mocking their ego and leadership. It references Pacific nations and nuclear testing imagery, but the stance is mainly ridicule and criticism rather than a policy argument.",
+  "relevance": "contextually relevant",
+  "source": "openai",
+  "stance": "Strong Opposition"
+}

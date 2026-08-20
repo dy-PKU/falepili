@@ -1,0 +1,21 @@
+{
+  "cache_key": "40e6fcdd1b38e3e1a7a48e416b7379b5eed0baaa37c411ef2e27c8a739149730",
+  "cached_at": "2026-08-19T13:45:59Z",
+  "emotion": "Cynicism",
+  "frames": [
+    "Climate Justice",
+    "Other"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "The comment narrows the issue to emissions attribution and argues Australia is only a minor contributor to sea-level rise, which undercuts the climate-responsibility framing of the thread. It does not directly discuss Tuvaluans as migrants or residents, but it is clearly responding to the climate justice debate around the policy.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Concern"
+}

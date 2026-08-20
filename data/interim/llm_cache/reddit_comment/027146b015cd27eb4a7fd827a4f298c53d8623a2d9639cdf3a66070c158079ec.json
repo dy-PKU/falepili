@@ -1,0 +1,20 @@
+{
+  "cache_key": "027146b015cd27eb4a7fd827a4f298c53d8623a2d9639cdf3a66070c158079ec",
+  "cached_at": "2026-08-19T13:56:18Z",
+  "emotion": "Cynicism",
+  "frames": [
+    "Climate Justice"
+  ],
+  "language_features": {
+    "irony": true,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": true
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "The comment criticizes Australia’s coal policy by contrasting it with England’s coal phase-out and mocking Australia’s self-image as superior. In thread context, it supports the article’s condemnation of the coalmine decision rather than defending it.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Strong Support"
+}

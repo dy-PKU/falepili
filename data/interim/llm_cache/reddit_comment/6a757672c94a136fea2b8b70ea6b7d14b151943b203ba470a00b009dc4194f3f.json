@@ -1,0 +1,22 @@
+{
+  "cache_key": "6a757672c94a136fea2b8b70ea6b7d14b151943b203ba470a00b009dc4194f3f",
+  "cached_at": "2026-08-19T13:42:10Z",
+  "emotion": "Fear",
+  "frames": [
+    "Climate Justice",
+    "Human Security",
+    "Migration Fairness"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": true,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Refugees",
+  "openai_error": null,
+  "rationale": "The comment is a fear-driven warning about large-scale climate displacement leading to xenophobic backlash and violent responses. It is directly relevant to the thread because it discusses climate migration, refugees, and the political consequences of displacement, though it does not specifically evaluate Tuvalu's residency offer.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Concern"
+}

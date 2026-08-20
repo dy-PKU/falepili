@@ -1,0 +1,21 @@
+{
+  "cache_key": "27180f102bb79d78b9ed5b4094abc951d51d6cb6edf30037d8e4736b66ace43e",
+  "cached_at": "2026-08-19T13:59:07Z",
+  "emotion": "Anger",
+  "frames": [
+    "Climate Justice",
+    "Pacific Solidarity"
+  ],
+  "language_features": {
+    "irony": true,
+    "metaphor": false,
+    "rhetorical_question": true,
+    "sarcasm": true
+  },
+  "narrative_frame": "Pacific neighbours",
+  "openai_error": null,
+  "rationale": "The comment uses heavy sarcasm to condemn dismissive Australian attitudes toward Pacific islanders facing climate harms from coal decisions. The rhetorical questions imply support for Pacific neighbours' right to survival and criticize perceived entitlement framing.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Strong Support"
+}

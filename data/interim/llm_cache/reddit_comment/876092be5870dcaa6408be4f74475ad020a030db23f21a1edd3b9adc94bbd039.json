@@ -1,0 +1,22 @@
+{
+  "cache_key": "876092be5870dcaa6408be4f74475ad020a030db23f21a1edd3b9adc94bbd039",
+  "cached_at": "2026-08-19T13:49:41Z",
+  "emotion": "Cynicism",
+  "frames": [
+    "Climate Justice",
+    "Human Security",
+    "Other"
+  ],
+  "language_features": {
+    "irony": true,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Climate victims",
+  "openai_error": null,
+  "rationale": "The commenter supports offering residency in principle, but frames it as an inadequate response to Australia’s climate inaction and as a sign of failure to prevent displacement. The criticism is aimed at policy responsibility and climate justice rather than Tuvaluans themselves.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Concern"
+}

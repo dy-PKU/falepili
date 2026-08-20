@@ -1,0 +1,18 @@
+events:
+  - date: "2023-11-09"
+    name: "Treaty signing"
+    description: "Australia and Tuvalu signed the Falepili Union treaty."
+    type: "policy"
+  - date: "2024-08-28"
+    name: "Treaty entry into force"
+    description: "Falepili Union treaty entered into force."
+    type: "policy"
+  - date: "2025-07-01"
+    name: "Mobility Pathway opening"
+    description: "Falepili Mobility Pathway opening period."
+    type: "implementation"
+  - date: "2026-01-01"
+    name: "Implementation period"
+    description: "Implementation period for public-facing scheme administration."
+    type: "implementation"
+

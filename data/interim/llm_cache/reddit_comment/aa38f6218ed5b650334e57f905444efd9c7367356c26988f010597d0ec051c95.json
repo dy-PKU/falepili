@@ -1,0 +1,21 @@
+{
+  "cache_key": "aa38f6218ed5b650334e57f905444efd9c7367356c26988f010597d0ec051c95",
+  "cached_at": "2026-08-19T13:38:47Z",
+  "emotion": "Humour",
+  "frames": [
+    "Climate Justice",
+    "Pacific Solidarity"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Pacific neighbours",
+  "openai_error": null,
+  "rationale": "The comment shares an article about Tuvalu residents being offered resettlement due to climate change and expresses appreciation for Simon Kofe's climate-awareness stunt. It does not explicitly argue policy details, but the positive framing and amusement at Tuvalu's UN message indicate a broadly supportive or sympathetic stance toward the climate displacement issue.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Support"
+}

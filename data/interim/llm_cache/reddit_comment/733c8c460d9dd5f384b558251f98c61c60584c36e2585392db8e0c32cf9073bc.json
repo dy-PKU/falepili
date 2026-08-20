@@ -1,0 +1,20 @@
+{
+  "cache_key": "733c8c460d9dd5f384b558251f98c61c60584c36e2585392db8e0c32cf9073bc",
+  "cached_at": "2026-08-19T14:16:27Z",
+  "emotion": "Neutral",
+  "frames": [
+    "Climate Justice"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "The comment links Australia’s emissions and consumption patterns to climate harms, which is directly relevant to the Tuvalu migration context through climate responsibility. It does not comment on the migration program itself, but argues that individual and collective Australian behaviour contributes to the crisis, so the stance is supportive of climate accountability rather than opposed to migration.",
+  "relevance": "contextually relevant",
+  "source": "openai",
+  "stance": "Support"
+}

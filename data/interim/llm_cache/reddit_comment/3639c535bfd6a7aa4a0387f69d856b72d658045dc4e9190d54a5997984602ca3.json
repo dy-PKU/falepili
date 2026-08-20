@@ -1,0 +1,20 @@
+{
+  "cache_key": "3639c535bfd6a7aa4a0387f69d856b72d658045dc4e9190d54a5997984602ca3",
+  "cached_at": "2026-08-19T13:48:07Z",
+  "emotion": "Neutral",
+  "frames": [
+    "Other"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "The comment does not add a substantive argument about Tuvalu or the residency policy; it simply agrees with another user and says they are being unfairly downvoted. That makes it contextually relevant to the thread, with an implied supportive stance toward the prior comment rather than an independent position on the issue.",
+  "relevance": "contextually relevant",
+  "source": "openai",
+  "stance": "Support"
+}

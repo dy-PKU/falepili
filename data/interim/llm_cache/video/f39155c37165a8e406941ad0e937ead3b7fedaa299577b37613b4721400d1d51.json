@@ -1,0 +1,24 @@
+{
+  "cache_key": "f39155c37165a8e406941ad0e937ead3b7fedaa299577b37613b4721400d1d51",
+  "cached_at": "2026-08-19T17:28:15Z",
+  "emotion": "Neutral",
+  "frames": [
+    "Climate Justice",
+    "Human Security",
+    "Pacific Solidarity",
+    "Strategic Security",
+    "Sovereignty"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "The text is a neutral topic label and description about the Falepili Union and mobility pathway, which places it directly within climate mobility and Australia-Tuvalu cooperation discourse. It does not express an evaluative stance, only topical focus.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Neutral"
+}

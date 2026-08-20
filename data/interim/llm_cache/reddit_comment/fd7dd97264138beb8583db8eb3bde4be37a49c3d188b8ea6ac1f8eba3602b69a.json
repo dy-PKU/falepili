@@ -1,0 +1,21 @@
+{
+  "cache_key": "fd7dd97264138beb8583db8eb3bde4be37a49c3d188b8ea6ac1f8eba3602b69a",
+  "cached_at": "2026-08-19T13:54:06Z",
+  "emotion": "Cynicism",
+  "frames": [
+    "Climate Justice",
+    "Pacific Solidarity"
+  ],
+  "language_features": {
+    "irony": true,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": true
+  },
+  "narrative_frame": "Pacific neighbours",
+  "openai_error": null,
+  "rationale": "The comment sarcastically criticizes Albanese's promise to 'end the climate wars' in the context of Tuvalu objecting to Australia's coalmine decision. The author appears cynical about Australian climate policy and implicitly sympathetic to Tuvalu's grievance rather than opposing Tuvalu's position.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Support"
+}

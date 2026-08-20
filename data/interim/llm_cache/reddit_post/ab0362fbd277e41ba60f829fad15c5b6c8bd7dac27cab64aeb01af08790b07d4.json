@@ -1,0 +1,20 @@
+{
+  "cache_key": "ab0362fbd277e41ba60f829fad15c5b6c8bd7dac27cab64aeb01af08790b07d4",
+  "cached_at": "2026-08-19T13:36:15Z",
+  "emotion": "Neutral",
+  "frames": [
+    "Other"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "No comment text was provided, only the post title. There is not enough information to identify the author's stance, language features, or thematic frame beyond the general topic of the post.",
+  "relevance": "unclear",
+  "source": "openai",
+  "stance": "Unclear"
+}

@@ -1,0 +1,22 @@
+{
+  "cache_key": "eb193d5960eedf129601413cfa8015e1abf67367ac79e3c4b40c622d3e4e02f8",
+  "cached_at": "2026-08-19T14:14:53Z",
+  "emotion": "Cynicism",
+  "frames": [
+    "Climate Justice",
+    "Migration Fairness",
+    "Human Security"
+  ],
+  "language_features": {
+    "irony": true,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": true
+  },
+  "narrative_frame": "Climate victims",
+  "openai_error": null,
+  "rationale": "The author explicitly agrees that Australia has no excuse not to accept Tuvalu residents, linking the issue to Australia’s historical emissions. The second sentence is a sarcastic aside about expected backlash from culture wars, so the stance is still supportive but with cynical commentary about domestic politics.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Support"
+}

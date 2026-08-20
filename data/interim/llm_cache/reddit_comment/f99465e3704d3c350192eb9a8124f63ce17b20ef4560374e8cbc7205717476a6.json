@@ -1,0 +1,20 @@
+{
+  "cache_key": "f99465e3704d3c350192eb9a8124f63ce17b20ef4560374e8cbc7205717476a6",
+  "cached_at": "2026-08-19T14:01:23Z",
+  "emotion": "Neutral",
+  "frames": [
+    "Climate Justice"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "The commenter cites Australia's per-capita emissions search result to support the idea that Australia is a major emitter in the coalmine/climate context. The stance is aligned with criticism of the decision, but the comment itself is brief and evidentiary rather than overtly emotional.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Support"
+}

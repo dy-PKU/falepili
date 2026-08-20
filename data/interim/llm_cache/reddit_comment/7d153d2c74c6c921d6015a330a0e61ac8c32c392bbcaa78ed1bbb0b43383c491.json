@@ -1,0 +1,22 @@
+{
+  "cache_key": "7d153d2c74c6c921d6015a330a0e61ac8c32c392bbcaa78ed1bbb0b43383c491",
+  "cached_at": "2026-08-19T13:42:38Z",
+  "emotion": "Neutral",
+  "frames": [
+    "Climate Justice",
+    "Pacific Solidarity",
+    "Migration Fairness"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Pacific neighbours",
+  "openai_error": null,
+  "rationale": "The comment frames Tuvalu's residency request as longstanding and legitimate, implying support for Australia's response to climate displacement without using hostile or sarcastic language.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Support"
+}

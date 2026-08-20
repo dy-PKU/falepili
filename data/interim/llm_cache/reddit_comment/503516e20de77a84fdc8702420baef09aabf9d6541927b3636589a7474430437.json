@@ -1,0 +1,22 @@
+{
+  "cache_key": "503516e20de77a84fdc8702420baef09aabf9d6541927b3636589a7474430437",
+  "cached_at": "2026-08-19T13:38:03Z",
+  "emotion": "Anxiety",
+  "frames": [
+    "Human Security",
+    "Pacific Solidarity",
+    "Climate Justice"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Climate victims",
+  "openai_error": null,
+  "rationale": "The comment treats climate-driven displacement as an imminent and serious problem for island nations, with Tuvalu presented as relatively fortunate because Australia can absorb its small population. It supports resettlement or protective measures as practical responses rather than rejecting the visa arrangement.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Support"
+}

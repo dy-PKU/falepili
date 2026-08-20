@@ -1,0 +1,22 @@
+{
+  "cache_key": "a7a13b330577803dbdae925e4613b02f355ad34dd7776298a25de5437f45be86",
+  "cached_at": "2026-08-19T14:27:56Z",
+  "emotion": "Empathy",
+  "frames": [
+    "Climate Justice",
+    "Human Security",
+    "Pacific Solidarity"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Climate victims",
+  "openai_error": null,
+  "rationale": "The author expresses general opposition to higher immigration but explicitly says they would welcome Tuvaluans because their displacement is linked to fossil fuel-driven climate change. That is direct support for the migration program framed as a moral response to climate harm.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Support"
+}

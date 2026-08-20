@@ -1,0 +1,21 @@
+{
+  "cache_key": "c2aafcffd1aa381e95bd940aeed3b6ca4e6bc46d2a5b67843715dc9c7d79aea6",
+  "cached_at": "2026-08-19T14:27:30Z",
+  "emotion": "Resentment",
+  "frames": [
+    "Migration Fairness",
+    "Other"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Refugees",
+  "openai_error": null,
+  "rationale": "The comment is about how Tuvaluan movers should be categorized under the migration program. It supports classifying them as refugees, but does so in a comparative, exclusionary way by implying this would reduce admissions for other refugee groups.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Support"
+}

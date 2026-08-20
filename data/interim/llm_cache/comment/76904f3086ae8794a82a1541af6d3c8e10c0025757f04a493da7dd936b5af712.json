@@ -1,0 +1,22 @@
+{
+  "cache_key": "76904f3086ae8794a82a1541af6d3c8e10c0025757f04a493da7dd936b5af712",
+  "cached_at": "2026-08-19T17:53:35Z",
+  "emotion": "Resentment",
+  "frames": [
+    "Economic Cost",
+    "Sovereignty",
+    "Migration Fairness"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": true,
+    "rhetorical_question": false,
+    "sarcasm": true
+  },
+  "narrative_frame": "Migrants competing for resources",
+  "openai_error": null,
+  "rationale": "The author mocks the agreement as Australia being duped by Pacific Islanders seeking advantage, using hostile language such as 'mendicant' and 'sucker.' The stance is strongly opposed, framed around unfair opportunism and national leaders being manipulated; 'played Albo like a fiddle' is a metaphor.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Strong Opposition"
+}

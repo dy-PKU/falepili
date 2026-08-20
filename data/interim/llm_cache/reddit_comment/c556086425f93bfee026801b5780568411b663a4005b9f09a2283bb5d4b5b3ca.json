@@ -1,0 +1,20 @@
+{
+  "cache_key": "c556086425f93bfee026801b5780568411b663a4005b9f09a2283bb5d4b5b3ca",
+  "cached_at": "2026-08-19T14:03:22Z",
+  "emotion": "Cynicism",
+  "frames": [
+    "Other"
+  ],
+  "language_features": {
+    "irony": true,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": true
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "The comment uses a sarcastic speeding analogy to mock perceived blame-shifting in the article's climate responsibility framing. It is reacting directly to the coalmine/Tuvalu dispute, but the stance is against the article's implied accusation rather than supporting it.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Strong Opposition"
+}

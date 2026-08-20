@@ -1,0 +1,20 @@
+{
+  "cache_key": "13e008b438eafe29a5c817520af1d64aa46dd75ae992bcfb32dbd37faf4d1b5b",
+  "cached_at": "2026-08-19T13:55:58Z",
+  "emotion": "Neutral",
+  "frames": [
+    "Other"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "The comment shifts away from the article to ranked-choice voting and U.S. party dynamics. It does not express a clear position on Australia’s coalmine decision, Tuvalu, or climate mobility.",
+  "relevance": "unclear",
+  "source": "openai",
+  "stance": "Neutral"
+}

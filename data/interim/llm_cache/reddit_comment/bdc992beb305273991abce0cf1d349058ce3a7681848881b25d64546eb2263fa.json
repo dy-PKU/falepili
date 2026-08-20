@@ -1,0 +1,21 @@
+{
+  "cache_key": "bdc992beb305273991abce0cf1d349058ce3a7681848881b25d64546eb2263fa",
+  "cached_at": "2026-08-19T14:01:13Z",
+  "emotion": "Anger",
+  "frames": [
+    "Climate Justice",
+    "Economic Cost"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": true,
+    "sarcasm": false
+  },
+  "narrative_frame": "Pacific neighbours",
+  "openai_error": null,
+  "rationale": "The comment challenges a factual claim, then argues that Australia’s coal exports and emissions are large enough to justify criticism of the coalmine decision. It is engaged with the climate harm argument in the thread and frames Australia as contributing to damage felt by Pacific neighbours.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Support"
+}

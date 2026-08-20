@@ -1,0 +1,21 @@
+{
+  "cache_key": "2e074316d7c54688c1d8782459011b67613381d0c5c4c41044ad47c2e52c3925",
+  "cached_at": "2026-08-19T13:56:56Z",
+  "emotion": "Neutral",
+  "frames": [
+    "Economic Cost",
+    "Other"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "The comment does not address Tuvalu, the Falepili Union, migration, or Pacific climate impacts directly, but in the thread context it engages with Australia's fossil fuel and energy economy by comparing domestic gas prices with export status. It presents a factual cost comparison without a clear supportive or opposing stance on climate mobility or security cooperation.",
+  "relevance": "contextually relevant",
+  "source": "openai",
+  "stance": "Neutral"
+}

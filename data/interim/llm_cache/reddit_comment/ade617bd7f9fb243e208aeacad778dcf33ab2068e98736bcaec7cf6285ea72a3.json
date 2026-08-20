@@ -1,0 +1,23 @@
+{
+  "cache_key": "ade617bd7f9fb243e208aeacad778dcf33ab2068e98736bcaec7cf6285ea72a3",
+  "cached_at": "2026-08-19T14:15:31Z",
+  "emotion": "Anger",
+  "frames": [
+    "Migration Fairness",
+    "Climate Justice",
+    "Pacific Solidarity",
+    "Housing / Public Services"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Pacific neighbours",
+  "openai_error": null,
+  "rationale": "The comment argues in favor of a phased migration/resettlement plan for Tuvalu and defends the idea that the visa program is likely part of a broader strategy. It criticizes others for reacting without thought, but the author's own stance is supportive of managed climate mobility and concern for preserving Tuvalu's community and Australia's capacity to absorb arrivals.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Support"
+}

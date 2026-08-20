@@ -1,0 +1,23 @@
+{
+  "cache_key": "db25035d48991d39c16bb8473b2b3fcebe9df2693bec50bb7e130bfa9e821df8",
+  "cached_at": "2026-08-19T13:49:05Z",
+  "emotion": "Hope",
+  "frames": [
+    "Climate Justice",
+    "Pacific Solidarity",
+    "Economic Cost",
+    "Sovereignty"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": true,
+    "sarcasm": false
+  },
+  "narrative_frame": "Pacific neighbours",
+  "openai_error": null,
+  "rationale": "The comment supports offering Pacific island nations a closer political relationship with Australia/Commonwealth as a response to climate-driven displacement, framing it as mutually beneficial: Australia gains islands, Tuvaluans gain somewhere to move as sea levels rise, and economic development may improve. The suggestion raises sovereignty/integration issues but is presented positively.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Support"
+}

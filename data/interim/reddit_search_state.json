@@ -1,0 +1,60 @@
+{
+  "jobs": {
+    "all::Australia Tuvalu climate visa": {
+      "after": "eyJhIjoidDNfMXZyOTZyZCIsImQiOjEwMH0",
+      "finished": false,
+      "pages_done": 1
+    },
+    "all::Australia Tuvalu climate visas": {
+      "after": "eyJhIjoidDNfMXZyOTZyZCIsImQiOjEwMH0",
+      "finished": false,
+      "pages_done": 1
+    },
+    "all::Australia Tuvalu mobility pathway": {
+      "after": "eyJhIjoidDNfMXZxeWZ2YSIsImQiOjEwMH0",
+      "finished": false,
+      "pages_done": 1
+    },
+    "all::Australia-Tuvalu Falepili Union treaty": {
+      "after": "eyJhIjoidDNfMXZrcDFxMyIsImQiOjEwMH0",
+      "finished": false,
+      "pages_done": 1
+    },
+    "all::Falepili Mobility Pathway": {
+      "after": "eyJhIjoidDNfMXZta29mYiIsImQiOjEwMH0",
+      "finished": false,
+      "pages_done": 1
+    },
+    "all::Falepili Union": {
+      "after": null,
+      "finished": true,
+      "pages_done": 1
+    },
+    "all::Tuvalu Australia permanent residency": {
+      "after": "eyJhIjoidDNfMXZydnZ1OCIsImQiOjEwMH0",
+      "finished": false,
+      "pages_done": 1
+    },
+    "all::Tuvalu Australia treaty": {
+      "after": "eyJhIjoidDNfMXZmODNqbyIsImQiOjEwMH0",
+      "finished": false,
+      "pages_done": 1
+    },
+    "all::Tuvalu climate migration Australia": {
+      "after": "eyJhIjoidDNfMXZxaTMyciIsImQiOjEwMH0",
+      "finished": false,
+      "pages_done": 1
+    },
+    "all::Tuvalu climate refugees Australia": {
+      "after": "eyJhIjoidDNfMXZuOHNpdSIsImQiOjEwMH0",
+      "finished": false,
+      "pages_done": 1
+    },
+    "all::Tuvalu migration Australia": {
+      "after": "eyJhIjoidDNfMXZveDFibCIsImQiOjEwMH0",
+      "finished": false,
+      "pages_done": 1
+    }
+  },
+  "policy": "reddit_strict_v1"
+}

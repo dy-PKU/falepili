@@ -1,0 +1,21 @@
+{
+  "cache_key": "ca0e46672e15fa0ce515cfca7e92bdccacb4adda34ae7d137abb99a07ee62dca",
+  "cached_at": "2026-08-19T14:16:07Z",
+  "emotion": "Anger",
+  "frames": [
+    "Climate Justice",
+    "Economic Cost"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Climate victims",
+  "openai_error": null,
+  "rationale": "The comment supports relocation for Tuvalu residents and argues that the firms most responsible for climate change should pay for it. It is directly about climate migration and responsibility for its costs, with a clear climate justice angle.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Support"
+}

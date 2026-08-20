@@ -1,0 +1,21 @@
+{
+  "cache_key": "a42a20bd66237b37f4dfb13b2e12c041013fa89ae5efd3fbdcda1d9f6ac8b464",
+  "cached_at": "2026-08-19T13:48:27Z",
+  "emotion": "Cynicism",
+  "frames": [
+    "Climate Justice",
+    "Pacific Solidarity"
+  ],
+  "language_features": {
+    "irony": true,
+    "metaphor": false,
+    "rhetorical_question": true,
+    "sarcasm": true
+  },
+  "narrative_frame": "Pacific neighbours",
+  "openai_error": null,
+  "rationale": "The comment uses a rhetorical question and a linked reminder of Dutton mocking Pacific climate disaster to criticize him in the context of Tuvalu climate displacement. It is directly relevant to the thread and frames Tuvalu as a Pacific neighbour affected by climate change, with an implied pro-residency, pro-climate-justice stance.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Support"
+}

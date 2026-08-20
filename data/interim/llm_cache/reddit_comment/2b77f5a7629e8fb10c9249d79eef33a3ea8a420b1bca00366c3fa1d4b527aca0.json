@@ -1,0 +1,21 @@
+{
+  "cache_key": "2b77f5a7629e8fb10c9249d79eef33a3ea8a420b1bca00366c3fa1d4b527aca0",
+  "cached_at": "2026-08-19T13:46:13Z",
+  "emotion": "Neutral",
+  "frames": [
+    "Migration Fairness",
+    "Climate Justice"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Refugees",
+  "openai_error": null,
+  "rationale": "The comment asks whether Australia would be required to accept a fixed share of displaced people under the Tuvalu arrangement. It is directly about migration obligations and fairness, but it does not clearly endorse or oppose the policy.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Unclear"
+}

@@ -1,0 +1,21 @@
+{
+  "cache_key": "bd0d7a51b671d2e0d112f760d306e5f293e81e9ad64b134d8e5fec10aa824ec3",
+  "cached_at": "2026-08-19T17:28:34Z",
+  "emotion": "Empathy",
+  "frames": [
+    "Climate Justice",
+    "Human Security"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Climate victims",
+  "openai_error": null,
+  "rationale": "The author argues that humanitarian concerns should be the primary focus, foregrounding the human consequences of climate change and related mobility issues.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Strong Support"
+}

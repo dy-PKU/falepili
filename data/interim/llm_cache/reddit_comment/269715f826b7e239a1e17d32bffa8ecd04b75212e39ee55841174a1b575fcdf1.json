@@ -1,0 +1,20 @@
+{
+  "cache_key": "269715f826b7e239a1e17d32bffa8ecd04b75212e39ee55841174a1b575fcdf1",
+  "cached_at": "2026-08-19T14:18:11Z",
+  "emotion": "Neutral",
+  "frames": [
+    "Migration Fairness"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "New citizens",
+  "openai_error": null,
+  "rationale": "The comment responds to the migration program by arguing the Tuvalu intake would be small relative to an existing migrant-origin population, which is a scale-and-fairness argument rather than an attack on the program. It appears to agree with the prior thread position and downplays concern about numbers.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Support"
+}

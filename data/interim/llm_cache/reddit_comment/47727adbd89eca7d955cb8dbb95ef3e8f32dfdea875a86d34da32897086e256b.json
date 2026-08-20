@@ -1,0 +1,22 @@
+{
+  "cache_key": "47727adbd89eca7d955cb8dbb95ef3e8f32dfdea875a86d34da32897086e256b",
+  "cached_at": "2026-08-19T14:20:49Z",
+  "emotion": "Fear",
+  "frames": [
+    "Climate Justice",
+    "Human Security",
+    "Migration Fairness"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Refugees",
+  "openai_error": null,
+  "rationale": "The commenter expresses alarm about the scale of future climate-driven migration and says this is only the beginning, which frames the issue as a looming humanitarian and capacity challenge. The stance is concern rather than opposition to the Tuvalu program itself.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Concern"
+}

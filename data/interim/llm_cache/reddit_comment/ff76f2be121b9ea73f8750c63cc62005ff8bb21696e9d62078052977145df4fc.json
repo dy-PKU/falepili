@@ -1,0 +1,22 @@
+{
+  "cache_key": "ff76f2be121b9ea73f8750c63cc62005ff8bb21696e9d62078052977145df4fc",
+  "cached_at": "2026-08-19T13:44:10Z",
+  "emotion": "Neutral",
+  "frames": [
+    "Climate Justice",
+    "Human Security",
+    "Other"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "The comment does not address the Tuvalu residency offer directly, but it supports a pragmatic response to climate change and argues for both decarbonisation and active mitigation. It frames the issue as a practical necessity rather than a symbolic debate, which is broadly supportive of the thread's underlying policy context.",
+  "relevance": "contextually relevant",
+  "source": "openai",
+  "stance": "Support"
+}

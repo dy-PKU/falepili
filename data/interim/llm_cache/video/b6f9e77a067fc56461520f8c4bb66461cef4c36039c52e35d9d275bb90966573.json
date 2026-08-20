@@ -1,0 +1,23 @@
+{
+  "cache_key": "b6f9e77a067fc56461520f8c4bb66461cef4c36039c52e35d9d275bb90966573",
+  "cached_at": "2026-08-19T17:52:24Z",
+  "emotion": "Neutral",
+  "frames": [
+    "Pacific Solidarity",
+    "Sovereignty",
+    "Strategic Security",
+    "Climate Justice"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Pacific neighbours",
+  "openai_error": null,
+  "rationale": "No separate comment text is provided, so this is based on the post metadata. The title and description are directly about the Australia-Tuvalu Falepili Union treaty and EU involvement in the Pacific, which places it squarely in the target domain. There is no clear evaluative stance from the author beyond topic framing.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Neutral"
+}

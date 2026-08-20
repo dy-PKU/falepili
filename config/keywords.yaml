@@ -1,0 +1,86 @@
+study:
+  title: "Australia-Tuvalu Falepili Union digital public analysis"
+  start_date: "2023-11-09"
+  end_date: null
+  timezone: "UTC"
+  random_seed: 42
+
+youtube_search:
+  region_code: "AU"
+  relevance_language: "en"
+  monthly_windows: true
+  max_results_per_page: 50
+  max_pages_per_query_window: 5
+  preferred_channels:
+    - "ABC News Australia"
+    - "SBS News"
+    - "Sky News Australia"
+    - "7NEWS"
+    - "9News"
+    - "Guardian Australia"
+
+keywords:
+  - "Falepili Union"
+  - "Falepili Tuvalu Australia"
+  - "Falepili Mobility Pathway"
+  - "Tuvalu Australia treaty"
+  - "Tuvalu migration Australia"
+  - "Tuvalu climate migration Australia"
+  - "Tuvalu climate refugees Australia"
+  - "Tuvalu permanent residency Australia"
+  - "Tuvalu Australia 280"
+
+coding:
+  relevance_labels:
+    - "directly relevant"
+    - "contextually relevant"
+    - "irrelevant"
+    - "unclear"
+  stances:
+    - "Strong Support"
+    - "Support"
+    - "Neutral"
+    - "Concern"
+    - "Strong Opposition"
+    - "Unclear"
+  frames:
+    - "Climate Justice"
+    - "Human Security"
+    - "Pacific Solidarity"
+    - "Strategic Security"
+    - "China / Geopolitics"
+    - "Economic Cost"
+    - "Housing / Public Services"
+    - "Labour Market"
+    - "Sovereignty"
+    - "Colonialism / Dependency"
+    - "Migration Fairness"
+    - "Other"
+  emotions:
+    - "Empathy"
+    - "Solidarity"
+    - "Hope"
+    - "Fear"
+    - "Anxiety"
+    - "Anger"
+    - "Resentment"
+    - "Cynicism"
+    - "Humour"
+    - "Neutral"
+  narrative_frames:
+    - "Climate victims"
+    - "Refugees"
+    - "Pacific neighbours"
+    - "New citizens"
+    - "Workers"
+    - "Welfare recipients"
+    - "Strategic partners"
+    - "Strategic assets"
+    - "Migrants competing for resources"
+    - "Other"
+  language_features:
+    - "sarcasm"
+    - "irony"
+    - "rhetorical_question"
+    - "metaphor"
+

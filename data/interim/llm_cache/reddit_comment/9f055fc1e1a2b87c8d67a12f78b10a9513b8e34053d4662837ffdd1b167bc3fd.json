@@ -1,0 +1,22 @@
+{
+  "cache_key": "9f055fc1e1a2b87c8d67a12f78b10a9513b8e34053d4662837ffdd1b167bc3fd",
+  "cached_at": "2026-08-19T13:45:48Z",
+  "emotion": "Empathy",
+  "frames": [
+    "Climate Justice",
+    "Colonialism / Dependency",
+    "Pacific Solidarity"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Pacific neighbours",
+  "openai_error": null,
+  "rationale": "The author accepts substantial Australian responsibility for Tuvalu's situation and frames the issue as overdue climate and colonial accountability. The comment supports the idea that Australia has a duty to respond to Tuvaluans displaced by climate change rather than treating the offer as purely discretionary.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Support"
+}

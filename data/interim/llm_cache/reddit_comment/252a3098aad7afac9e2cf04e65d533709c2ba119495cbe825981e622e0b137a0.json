@@ -1,0 +1,20 @@
+{
+  "cache_key": "252a3098aad7afac9e2cf04e65d533709c2ba119495cbe825981e622e0b137a0",
+  "cached_at": "2026-08-19T13:46:21Z",
+  "emotion": "Neutral",
+  "frames": [
+    "Migration Fairness"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Migrants competing for resources",
+  "openai_error": null,
+  "rationale": "The comment responds directly to the Tuvalu residency offer and accepts it only conditionally, implying concern about fairness and burden-sharing rather than clear opposition. It frames the issue around others contributing their share.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Concern"
+}

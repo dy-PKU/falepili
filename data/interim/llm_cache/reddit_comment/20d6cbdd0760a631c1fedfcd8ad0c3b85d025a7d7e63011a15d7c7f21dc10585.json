@@ -1,0 +1,21 @@
+{
+  "cache_key": "20d6cbdd0760a631c1fedfcd8ad0c3b85d025a7d7e63011a15d7c7f21dc10585",
+  "cached_at": "2026-08-19T14:02:02Z",
+  "emotion": "Neutral",
+  "frames": [
+    "Climate Justice",
+    "Pacific Solidarity"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Pacific neighbours",
+  "openai_error": null,
+  "rationale": "The comment argues that Australia has responsibility for fossil fuel exports and should reduce them, which aligns with the article's criticism of the coalmine decision and concern for Pacific impacts. It rejects the 'other countries are worse' defense and frames action as climate responsibility rather than economic growth or security.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Support"
+}

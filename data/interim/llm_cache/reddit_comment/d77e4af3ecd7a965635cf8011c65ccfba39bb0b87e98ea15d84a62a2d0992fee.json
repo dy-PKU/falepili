@@ -1,0 +1,22 @@
+{
+  "cache_key": "d77e4af3ecd7a965635cf8011c65ccfba39bb0b87e98ea15d84a62a2d0992fee",
+  "cached_at": "2026-08-19T14:06:06Z",
+  "emotion": "Resentment",
+  "frames": [
+    "China / Geopolitics",
+    "Climate Justice",
+    "Pacific Solidarity"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": true,
+    "sarcasm": false
+  },
+  "narrative_frame": "Pacific neighbours",
+  "openai_error": null,
+  "rationale": "The comment responds to Pacific criticism of Australia's coal decision by deflecting toward China's emissions or influence, implying Pacific island countries unfairly single out Australia. It is relevant to climate responsibility and Pacific relations, but does not directly address migration or the Falepili Union.",
+  "relevance": "contextually relevant",
+  "source": "openai",
+  "stance": "Concern"
+}

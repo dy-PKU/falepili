@@ -1,0 +1,20 @@
+{
+  "cache_key": "bef68f78345c209f2109426030c91e2a2309653baa1b458587acae79fbd022b0",
+  "cached_at": "2026-08-19T14:13:45Z",
+  "emotion": "Neutral",
+  "frames": [
+    "Migration Fairness"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "The comment is relevant to the Tuvalu-Australia migration program but speaks generally about many countries wanting access to Australia. It does not clearly support or oppose the scheme, but implies concern about high migration demand if such opportunities are offered broadly.",
+  "relevance": "contextually relevant",
+  "source": "openai",
+  "stance": "Concern"
+}

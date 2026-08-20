@@ -1,0 +1,23 @@
+{
+  "cache_key": "6fb4af6a27bcc35e83f1550ed6bb24cff79b971488cf7545c8ef6ceccd3ba9de",
+  "cached_at": "2026-08-19T14:00:31Z",
+  "emotion": "Anger",
+  "frames": [
+    "Climate Justice",
+    "Pacific Solidarity",
+    "Economic Cost",
+    "Other"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": true,
+    "sarcasm": false
+  },
+  "narrative_frame": "Pacific neighbours",
+  "openai_error": null,
+  "rationale": "The commenter argues Australia should not keep expanding coal and gas, criticizes low taxation of multinationals, and points to Australia's outsized coal exports as a climate harm. The stance is supportive of the article's criticism of the coal decision and sympathetic to Pacific impacts.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Support"
+}

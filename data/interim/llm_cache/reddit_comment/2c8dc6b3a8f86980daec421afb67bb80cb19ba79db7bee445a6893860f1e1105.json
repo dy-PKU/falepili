@@ -1,0 +1,22 @@
+{
+  "cache_key": "2c8dc6b3a8f86980daec421afb67bb80cb19ba79db7bee445a6893860f1e1105",
+  "cached_at": "2026-08-19T13:40:54Z",
+  "emotion": "Humour",
+  "frames": [
+    "Migration Fairness",
+    "Colonialism / Dependency",
+    "Climate Justice"
+  ],
+  "language_features": {
+    "irony": true,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": true
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "The comment uses sarcasm to mock Australia’s offshore detention policy in the context of climate-driven displacement. It is not endorsing the residency proposal; it expresses cynical criticism of Australia’s migration and detention approach.",
+  "relevance": "contextually relevant",
+  "source": "openai",
+  "stance": "Strong Opposition"
+}

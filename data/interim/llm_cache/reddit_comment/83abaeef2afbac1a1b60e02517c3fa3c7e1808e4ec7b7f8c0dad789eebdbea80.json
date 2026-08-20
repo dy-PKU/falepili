@@ -1,0 +1,22 @@
+{
+  "cache_key": "83abaeef2afbac1a1b60e02517c3fa3c7e1808e4ec7b7f8c0dad789eebdbea80",
+  "cached_at": "2026-08-19T14:23:15Z",
+  "emotion": "Neutral",
+  "frames": [
+    "Climate Justice",
+    "Economic Cost",
+    "Other"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "The comment responds to the Tuvalu migration discussion by arguing for local adaptation instead of relocation, using an engineering-cost comparison and a reference to the Bradfield scheme to dismiss the feasibility of moving water.",
+  "relevance": "contextually relevant",
+  "source": "openai",
+  "stance": "Strong Opposition"
+}

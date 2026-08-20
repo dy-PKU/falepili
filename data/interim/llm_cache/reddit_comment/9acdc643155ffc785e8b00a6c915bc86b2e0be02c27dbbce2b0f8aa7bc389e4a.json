@@ -1,0 +1,20 @@
+{
+  "cache_key": "9acdc643155ffc785e8b00a6c915bc86b2e0be02c27dbbce2b0f8aa7bc389e4a",
+  "cached_at": "2026-08-19T14:09:40Z",
+  "emotion": "Anger",
+  "frames": [
+    "Other"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "The commenter responds to the minister's criticism by reframing it as 'extortion,' which signals rejection of the climate-moral argument and a hostile stance toward the claim made in the article. The comment is directly about the thread topic and does not appear to quote another user's view.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Strong Opposition"
+}

@@ -1,0 +1,22 @@
+{
+  "cache_key": "c02a8a32926416f520a05aec2f30e534f41fa977e78b1a18f5c2969275bc4edf",
+  "cached_at": "2026-08-19T17:51:51Z",
+  "emotion": "Anger",
+  "frames": [
+    "Other",
+    "Sovereignty",
+    "Migration Fairness"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "The title and description condemn multiculturalism and describe street conflict in Melbourne as a public shame. It is about Australian social cohesion and migration politics rather than Falepili Union or Tuvalu specifically.",
+  "relevance": "contextually relevant",
+  "source": "openai",
+  "stance": "Strong Opposition"
+}

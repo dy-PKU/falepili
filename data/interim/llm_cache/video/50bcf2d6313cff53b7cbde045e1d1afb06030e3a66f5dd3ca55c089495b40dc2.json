@@ -1,0 +1,22 @@
+{
+  "cache_key": "50bcf2d6313cff53b7cbde045e1d1afb06030e3a66f5dd3ca55c089495b40dc2",
+  "cached_at": "2026-08-19T17:51:59Z",
+  "emotion": "Neutral",
+  "frames": [
+    "Strategic Security",
+    "Migration Fairness",
+    "Sovereignty"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "No comment text was provided, only the post title and description. The post itself is about Tuvalu's new prime minister and likely policy choices on security and migration, but there is no author stance to code.",
+  "relevance": "unclear",
+  "source": "openai",
+  "stance": "Unclear"
+}

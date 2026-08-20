@@ -1,0 +1,18 @@
+{
+  "cache_key": "1345fa939059ca52a0cbea3befba8278257cffe8943a863a653008ebc47c52ed",
+  "cached_at": "2026-08-19T13:54:14Z",
+  "emotion": "Neutral",
+  "frames": [],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "The comment is deleted, so there is no text to assess stance, framing, or language features.",
+  "relevance": "unclear",
+  "source": "openai",
+  "stance": "Unclear"
+}

@@ -1,0 +1,21 @@
+{
+  "cache_key": "74865c550ea43b04c735ee2770caaaff50e1f284c690a8398a8f38c80621c6bd",
+  "cached_at": "2026-08-19T14:06:57Z",
+  "emotion": "Resentment",
+  "frames": [
+    "China / Geopolitics",
+    "Climate Justice"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "The comment rejects criticism of Australia by contrasting Australia's coal phase-out with China's coal expansion, arguing Tuvalu unfairly targets Australia while not criticizing China. It is directly about Tuvalu's climate criticism of Australia's coal decision, but does not address Falepili mobility provisions specifically.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Concern"
+}

@@ -1,0 +1,21 @@
+{
+  "cache_key": "aa2fb167ae0cc22d92ed4e765eb37f23c51ec5c89d926403f555ce899ba75d49",
+  "cached_at": "2026-08-19T14:14:26Z",
+  "emotion": "Neutral",
+  "frames": [
+    "Migration Fairness",
+    "Pacific Solidarity"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Pacific neighbours",
+  "openai_error": null,
+  "rationale": "The comment reacts directly to the Tuvalu migration program and appears to endorse the migrants coming to Australia, though the phrasing is terse and a little ambiguous. It does not discuss climate policy in depth, but it is clearly about the proposed movement of Tuvaluans to Australia.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Support"
+}

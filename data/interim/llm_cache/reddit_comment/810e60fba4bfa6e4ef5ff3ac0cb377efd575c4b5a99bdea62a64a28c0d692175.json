@@ -1,0 +1,21 @@
+{
+  "cache_key": "810e60fba4bfa6e4ef5ff3ac0cb377efd575c4b5a99bdea62a64a28c0d692175",
+  "cached_at": "2026-08-19T14:18:20Z",
+  "emotion": "Resentment",
+  "frames": [
+    "Housing / Public Services",
+    "Migration Fairness"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Migrants competing for resources",
+  "openai_error": null,
+  "rationale": "The comment rejects the migration program on the grounds that Australia lacks housing and implies the policy is unrealistic. The focus is on domestic housing shortages and resource competition, with a clearly hostile tone toward people who support the program.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Strong Opposition"
+}

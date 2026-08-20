@@ -1,0 +1,23 @@
+{
+  "cache_key": "717a7ebf5534906d95325545bab26799e72b9572b19d59ed127ecce5ec611c61",
+  "cached_at": "2026-08-19T14:24:53Z",
+  "emotion": "Neutral",
+  "frames": [
+    "Housing / Public Services",
+    "Human Security",
+    "Climate Justice",
+    "Pacific Solidarity"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Pacific neighbours",
+  "openai_error": null,
+  "rationale": "The comment is focused on practical settlement issues for Tuvaluan migrants, especially location, community cohesion, and access to services. It expresses concern about both urban placement and remote placement, but does not argue for or against the migration program itself.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Concern"
+}

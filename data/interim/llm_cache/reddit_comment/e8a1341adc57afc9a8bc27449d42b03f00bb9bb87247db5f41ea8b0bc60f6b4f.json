@@ -1,0 +1,20 @@
+{
+  "cache_key": "e8a1341adc57afc9a8bc27449d42b03f00bb9bb87247db5f41ea8b0bc60f6b4f",
+  "cached_at": "2026-08-19T13:50:33Z",
+  "emotion": "Neutral",
+  "frames": [
+    "Other"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "The comment is too context-dependent to tie clearly to the Tuvalu residency policy. It reads like a generic response to an unspecified claim and does not provide an identifiable stance on the article topic.",
+  "relevance": "unclear",
+  "source": "openai",
+  "stance": "Unclear"
+}

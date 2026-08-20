@@ -1,0 +1,22 @@
+{
+  "cache_key": "b90e1849f21b3c1d42a66b6708b812c390b6291c5b84db3037aedccc879da9a6",
+  "cached_at": "2026-08-19T14:14:01Z",
+  "emotion": "Cynicism",
+  "frames": [
+    "Sovereignty",
+    "Colonialism / Dependency",
+    "Strategic Security"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "The comment argues that Tuvalu should give up sovereignty to Australia, which is a direct position on the political arrangement implied by the migration program. It frames the issue around sovereignty and dependency, with an underlying strategic-security angle. The tone is blunt and dismissive rather than explicitly sarcastic.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Strong Support"
+}

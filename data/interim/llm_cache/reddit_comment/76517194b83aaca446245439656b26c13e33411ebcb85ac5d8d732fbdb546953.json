@@ -1,0 +1,21 @@
+{
+  "cache_key": "76517194b83aaca446245439656b26c13e33411ebcb85ac5d8d732fbdb546953",
+  "cached_at": "2026-08-19T13:55:50Z",
+  "emotion": "Neutral",
+  "frames": [
+    "Climate Justice",
+    "Pacific Solidarity"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "The comment is a brief personal political disclosure in a thread about Australia’s coalmine decision and Pacific climate impacts. It signals alignment with a more climate-conscious position through mention of voting Greens since 2007, but it does not explicitly argue the policy case.",
+  "relevance": "contextually relevant",
+  "source": "openai",
+  "stance": "Support"
+}

@@ -1,0 +1,20 @@
+{
+  "cache_key": "b41d7847bf13f98ea7abb3adb562ed1617dfd24364ecf46f018370f572b6ff14",
+  "cached_at": "2026-08-19T13:38:31Z",
+  "emotion": "Neutral",
+  "frames": [
+    "Other"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "The comment does not address the residency offer directly. It speculates about whether Tuvalu's country-code domain would persist if the state disappeared, so it is only loosely connected to the thread's climate-mobility topic.",
+  "relevance": "contextually relevant",
+  "source": "openai",
+  "stance": "Neutral"
+}

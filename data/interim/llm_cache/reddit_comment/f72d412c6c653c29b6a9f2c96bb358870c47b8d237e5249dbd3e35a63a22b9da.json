@@ -1,0 +1,22 @@
+{
+  "cache_key": "f72d412c6c653c29b6a9f2c96bb358870c47b8d237e5249dbd3e35a63a22b9da",
+  "cached_at": "2026-08-19T13:47:46Z",
+  "emotion": "Cynicism",
+  "frames": [
+    "Climate Justice",
+    "Migration Fairness",
+    "Other"
+  ],
+  "language_features": {
+    "irony": true,
+    "metaphor": false,
+    "rhetorical_question": true,
+    "sarcasm": true
+  },
+  "narrative_frame": "Refugees",
+  "openai_error": null,
+  "rationale": "The comment reacts to the Tuvalu residency story by criticizing the political framing of climate refugees and linking it to boat turnbacks and punitive migration policy. It is not clearly opposing the residency offer itself; the stance is mainly concern and condemnation of instrumentalized cruelty. The tone is sarcastic and cynical, with a rhetorical question and explicit political critique.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Concern"
+}

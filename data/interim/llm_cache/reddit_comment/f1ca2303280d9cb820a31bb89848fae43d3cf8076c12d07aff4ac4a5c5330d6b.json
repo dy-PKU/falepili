@@ -1,0 +1,23 @@
+{
+  "cache_key": "f1ca2303280d9cb820a31bb89848fae43d3cf8076c12d07aff4ac4a5c5330d6b",
+  "cached_at": "2026-08-19T13:40:07Z",
+  "emotion": "Anger",
+  "frames": [
+    "Climate Justice",
+    "Colonialism / Dependency",
+    "Human Security",
+    "Pacific Solidarity"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": true,
+    "sarcasm": false
+  },
+  "narrative_frame": "Pacific neighbours",
+  "openai_error": null,
+  "rationale": "The comment reacts to Australia’s offer of residency for Tuvaluans by criticizing Australia for contributing to the problem and saying the priority should be helping Tuvalu remain habitable. It supports assistance in principle but condemns the broader political response, so the stance is concern rather than outright opposition or support.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Concern"
+}

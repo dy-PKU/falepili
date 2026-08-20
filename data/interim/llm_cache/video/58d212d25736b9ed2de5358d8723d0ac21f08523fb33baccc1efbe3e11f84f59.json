@@ -1,0 +1,22 @@
+{
+  "cache_key": "58d212d25736b9ed2de5358d8723d0ac21f08523fb33baccc1efbe3e11f84f59",
+  "cached_at": "2026-08-19T17:52:11Z",
+  "emotion": "Neutral",
+  "frames": [
+    "Climate Justice",
+    "Human Security",
+    "Migration Fairness"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Climate victims",
+  "openai_error": null,
+  "rationale": "The post neutrally shares a news item about Australia offering residency to Tuvalu citizens displaced by climate change. It directly concerns climate mobility and the Falepili-related residency pathway, without expressing a clear evaluative opinion beyond the headline framing Tuvaluans as climate-displaced people.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Neutral"
+}

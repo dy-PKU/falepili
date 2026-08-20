@@ -1,0 +1,22 @@
+{
+  "cache_key": "ceb14ba2b7e6f0066b7566302b7db1de865dc645cbae9bc34952888c791704a6",
+  "cached_at": "2026-08-19T13:51:52Z",
+  "emotion": "Anger",
+  "frames": [
+    "Climate Justice",
+    "Human Security",
+    "Pacific Solidarity"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": true,
+    "sarcasm": false
+  },
+  "narrative_frame": "Climate victims",
+  "openai_error": null,
+  "rationale": "The commenter is attacking an implied anti-resettlement position by asking whether critics would rather Tuvaluans drown, which strongly supports offering residency on humanitarian grounds and frames the issue around climate harm and survival.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Strong Support"
+}

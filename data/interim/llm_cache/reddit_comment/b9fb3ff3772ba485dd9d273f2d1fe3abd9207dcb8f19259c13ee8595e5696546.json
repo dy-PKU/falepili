@@ -1,0 +1,21 @@
+{
+  "cache_key": "b9fb3ff3772ba485dd9d273f2d1fe3abd9207dcb8f19259c13ee8595e5696546",
+  "cached_at": "2026-08-19T14:03:55Z",
+  "emotion": "Neutral",
+  "frames": [
+    "Climate Justice",
+    "Human Security"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Climate victims",
+  "openai_error": null,
+  "rationale": "The comment is about Australia's response to Tuvalu's sea-level crisis and explicitly discusses responsibility, so it is directly relevant. It accepts that action should be taken but rejects moral responsibility, which signals mixed concern rather than support or opposition to assistance.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Concern"
+}

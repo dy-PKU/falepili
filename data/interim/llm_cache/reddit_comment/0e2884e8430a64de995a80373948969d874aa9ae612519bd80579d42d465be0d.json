@@ -1,0 +1,21 @@
+{
+  "cache_key": "0e2884e8430a64de995a80373948969d874aa9ae612519bd80579d42d465be0d",
+  "cached_at": "2026-08-19T14:20:06Z",
+  "emotion": "Humour",
+  "frames": [
+    "Climate Justice",
+    "Other"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "The comment responds directly to the Tuvalu climate migration program with a humorous fantasy about swapping places and building futuristic infrastructure to keep the islands liveable. It does not express opposition to migration, but its stance is not a serious policy endorsement, so it is coded as neutral rather than support.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Neutral"
+}

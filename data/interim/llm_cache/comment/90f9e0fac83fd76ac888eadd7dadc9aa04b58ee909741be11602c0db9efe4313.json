@@ -1,0 +1,20 @@
+{
+  "cache_key": "90f9e0fac83fd76ac888eadd7dadc9aa04b58ee909741be11602c0db9efe4313",
+  "cached_at": "2026-08-19T17:53:09Z",
+  "emotion": "Anger",
+  "frames": [
+    "Other"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "The comment is a brief insult that accuses someone of being tricked again, but it gives no direct policy detail or explicit reference to the Falepili Union, migration, or security cooperation. The author's stance is clearly hostile, but the substantive topic is unclear without thread context.",
+  "relevance": "unclear",
+  "source": "openai",
+  "stance": "Strong Opposition"
+}

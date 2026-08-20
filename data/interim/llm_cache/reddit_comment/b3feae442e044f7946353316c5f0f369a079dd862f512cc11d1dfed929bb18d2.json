@@ -1,0 +1,20 @@
+{
+  "cache_key": "b3feae442e044f7946353316c5f0f369a079dd862f512cc11d1dfed929bb18d2",
+  "cached_at": "2026-08-19T14:12:10Z",
+  "emotion": "Neutral",
+  "frames": [
+    "Migration Fairness"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "The comment questions the need for a fixed annual cap of 280, implying the arrangement could work without that restriction. The edit acknowledges Tuvalu's reason for avoiding an overnight population collapse, which softens the criticism, so the overall stance is cautious concern rather than opposition.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Concern"
+}

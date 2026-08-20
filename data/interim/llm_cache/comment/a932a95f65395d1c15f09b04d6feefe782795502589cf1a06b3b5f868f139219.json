@@ -1,0 +1,19 @@
+{
+  "cache_key": "a932a95f65395d1c15f09b04d6feefe782795502589cf1a06b3b5f868f139219",
+  "cached_at": "2026-08-18T17:11:53Z",
+  "emotion": "Neutral",
+  "frames": [
+    "Other"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": true,
+    "sarcasm": false
+  },
+  "narrative_frame": "New citizens",
+  "rationale": "Heuristic fallback used because no OpenAI API key was available.",
+  "relevance": "irrelevant",
+  "source": "heuristic",
+  "stance": "Concern"
+}

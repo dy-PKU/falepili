@@ -1,0 +1,20 @@
+{
+  "cache_key": "f00915ade2a43abe7f61b7c54f486b67b587ddea061601ea137ab32c1f124ce8",
+  "cached_at": "2026-08-19T13:56:30Z",
+  "emotion": "Neutral",
+  "frames": [
+    "Climate Justice"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "The comment argues Australia should also proceed with renewable energy despite local constraints, using the UK as a comparison. In the thread context it supports criticism of the coalmine decision and aligns with a climate-action framing rather than defending coal.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Support"
+}

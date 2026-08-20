@@ -1,0 +1,21 @@
+{
+  "cache_key": "386c07e8918c06a6c5ef78b758557acc000b82caa9286172e100f42d26b9250a",
+  "cached_at": "2026-08-19T13:59:31Z",
+  "emotion": "Anger",
+  "frames": [
+    "Climate Justice",
+    "Pacific Solidarity"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": true,
+    "sarcasm": false
+  },
+  "narrative_frame": "Pacific neighbours",
+  "openai_error": null,
+  "rationale": "The commenter is arguing against a simplistic 'us vs them' framing and defending a broader view of the issue's impacts, which fits climate justice and Pacific solidarity. The tone is confrontational and accusatory, directed at another participant rather than the article itself.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Support"
+}

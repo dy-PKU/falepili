@@ -1,0 +1,22 @@
+{
+  "cache_key": "7e834abdca7ae11f13aa28e0e3f5eca6f15d2d9d66f05a46cc2b7e02d83af94b",
+  "cached_at": "2026-08-19T14:22:17Z",
+  "emotion": "Neutral",
+  "frames": [
+    "Economic Cost",
+    "Housing / Public Services",
+    "Other"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "The comment engages the migration proposal by suggesting an alternative solution: invest in northern Australia instead of relocating people. It is not a clear endorsement or rejection of the program, but it expresses a preference for domestic development and infrastructure investment.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Concern"
+}

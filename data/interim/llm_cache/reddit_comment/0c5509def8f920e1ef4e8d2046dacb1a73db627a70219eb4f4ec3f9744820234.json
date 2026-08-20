@@ -1,0 +1,20 @@
+{
+  "cache_key": "0c5509def8f920e1ef4e8d2046dacb1a73db627a70219eb4f4ec3f9744820234",
+  "cached_at": "2026-08-19T13:38:24Z",
+  "emotion": "Neutral",
+  "frames": [
+    "Other"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "The comment is a request for a source link and indicates interest in reading more. It does not express a clear position on Tuvalu residency, climate mobility, or the Falepili Union itself. It is topically connected to the thread through the referenced ICAN statement, but the author's stance on the policy is not stated.",
+  "relevance": "contextually relevant",
+  "source": "openai",
+  "stance": "Unclear"
+}

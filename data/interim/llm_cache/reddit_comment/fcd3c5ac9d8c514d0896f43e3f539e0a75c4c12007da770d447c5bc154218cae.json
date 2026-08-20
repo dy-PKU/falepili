@@ -1,0 +1,20 @@
+{
+  "cache_key": "fcd3c5ac9d8c514d0896f43e3f539e0a75c4c12007da770d447c5bc154218cae",
+  "cached_at": "2026-08-19T13:58:59Z",
+  "emotion": "Cynicism",
+  "frames": [
+    "Other"
+  ],
+  "language_features": {
+    "irony": true,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": true
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "The comment shifts from the coal mine and Pacific-neighbour issue to a broader critique of Labor vs LNP politics and election results. It expresses cynicism about Labor’s policies and governance rather than a clear position on the Tuvalu or climate-mobility issue itself.",
+  "relevance": "contextually relevant",
+  "source": "openai",
+  "stance": "Concern"
+}

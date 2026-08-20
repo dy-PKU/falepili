@@ -1,0 +1,22 @@
+{
+  "cache_key": "e9486641756b264040d5ee5e83ae38f2545f78d9d41bcbd751783abcabf96ecf",
+  "cached_at": "2026-08-19T14:10:20Z",
+  "emotion": "Neutral",
+  "frames": [
+    "Climate Justice",
+    "Human Security",
+    "Pacific Solidarity"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Climate victims",
+  "openai_error": null,
+  "rationale": "The comment reacts to the scale of Tuvalu's migration program and implicitly acknowledges the severity of climate threat, but it does not argue for or against the policy. It is a brief surprised observation in direct thread context.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Neutral"
+}

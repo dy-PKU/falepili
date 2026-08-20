@@ -1,0 +1,22 @@
+{
+  "cache_key": "d36a97fd77fdfb0b31586b90574d4ee446b8d0568a244319ac35e760dd2b041b",
+  "cached_at": "2026-08-19T14:25:05Z",
+  "emotion": "Hope",
+  "frames": [
+    "Climate Justice",
+    "Pacific Solidarity",
+    "Sovereignty"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Pacific neighbours",
+  "openai_error": null,
+  "rationale": "The comment proposes using Australian island territory as higher-ground relocation space for Pacific islanders, framing the migration response as practical climate adaptation and support for affected neighbors. It does not oppose the program; it extends it with a policy suggestion.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Support"
+}

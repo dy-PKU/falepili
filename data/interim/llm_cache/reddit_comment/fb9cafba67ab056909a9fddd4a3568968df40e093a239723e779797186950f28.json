@@ -1,0 +1,22 @@
+{
+  "cache_key": "fb9cafba67ab056909a9fddd4a3568968df40e093a239723e779797186950f28",
+  "cached_at": "2026-08-19T13:41:04Z",
+  "emotion": "Humour",
+  "frames": [
+    "Climate Justice",
+    "Human Security",
+    "Migration Fairness"
+  ],
+  "language_features": {
+    "irony": true,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": true
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "The comment is overtly sarcastic and mocks climate-change denial and punitive migration policy. In thread context, it reads as ridicule of opposition to residency for Tuvaluans displaced by climate change, which implies support for the offer rather than rejection of it.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Support"
+}

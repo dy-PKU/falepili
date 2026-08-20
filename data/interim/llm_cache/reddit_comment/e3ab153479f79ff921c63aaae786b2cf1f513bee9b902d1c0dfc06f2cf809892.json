@@ -1,0 +1,21 @@
+{
+  "cache_key": "e3ab153479f79ff921c63aaae786b2cf1f513bee9b902d1c0dfc06f2cf809892",
+  "cached_at": "2026-08-19T14:07:15Z",
+  "emotion": "Anger",
+  "frames": [
+    "Climate Justice",
+    "China / Geopolitics"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": true,
+    "sarcasm": false
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "The comment rejects a China-focused diversion and insists the discussion stay on Australia's own coal mine decisions. It is directly about the thread topic and signals frustration with sidetracking rather than with Pacific climate concerns themselves.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Support"
+}
