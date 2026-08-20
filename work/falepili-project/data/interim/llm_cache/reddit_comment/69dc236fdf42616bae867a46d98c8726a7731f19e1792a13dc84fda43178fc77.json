@@ -1,0 +1,21 @@
+{
+  "cache_key": "69dc236fdf42616bae867a46d98c8726a7731f19e1792a13dc84fda43178fc77",
+  "cached_at": "2026-08-19T13:39:38Z",
+  "emotion": "Neutral",
+  "frames": [
+    "Pacific Solidarity",
+    "Climate Justice"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Pacific neighbours",
+  "openai_error": null,
+  "rationale": "The commenter states that Australia has the capacity to accept people from both Tuvalu and Nauru within a year, implicitly supporting expanded climate-related admission. No demographic or geographic attributes of the author are inferred.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Support"
+}

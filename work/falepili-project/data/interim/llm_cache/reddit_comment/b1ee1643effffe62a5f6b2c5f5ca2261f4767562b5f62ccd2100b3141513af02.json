@@ -1,0 +1,20 @@
+{
+  "cache_key": "b1ee1643effffe62a5f6b2c5f5ca2261f4767562b5f62ccd2100b3141513af02",
+  "cached_at": "2026-08-19T13:48:35Z",
+  "emotion": "Humour",
+  "frames": [
+    "Other"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "The comment makes a nostalgic aside about Tuvalu's .tv domain rather than expressing a position on Australian residency, climate displacement, migration, or security cooperation.",
+  "relevance": "contextually relevant",
+  "source": "openai",
+  "stance": "Neutral"
+}

@@ -1,0 +1,21 @@
+{
+  "cache_key": "5f666c5c2be9957517c4b41d3033b8c2e943e9602de80cf1dad0c812efc1395f",
+  "cached_at": "2026-08-19T13:48:57Z",
+  "emotion": "Humour",
+  "frames": [
+    "Migration Fairness",
+    "Other"
+  ],
+  "language_features": {
+    "irony": true,
+    "metaphor": true,
+    "rhetorical_question": false,
+    "sarcasm": true
+  },
+  "narrative_frame": "Migrants competing for resources",
+  "openai_error": null,
+  "rationale": "The comment uses a game-show comparison to joke about Tuvaluans ‘coming on down,’ which frames migration as a spectacle or contest rather than making a clear policy argument. It is directly about the thread topic, but the author’s stance is implicit and mostly expressed through sarcasm and humour rather than explicit support or opposition.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Concern"
+}

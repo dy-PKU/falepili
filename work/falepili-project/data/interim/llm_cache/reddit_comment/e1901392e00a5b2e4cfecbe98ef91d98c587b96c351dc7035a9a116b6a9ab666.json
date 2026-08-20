@@ -1,0 +1,21 @@
+{
+  "cache_key": "e1901392e00a5b2e4cfecbe98ef91d98c587b96c351dc7035a9a116b6a9ab666",
+  "cached_at": "2026-08-19T13:58:01Z",
+  "emotion": "Cynicism",
+  "frames": [
+    "Climate Justice",
+    "Other"
+  ],
+  "language_features": {
+    "irony": true,
+    "metaphor": true,
+    "rhetorical_question": true,
+    "sarcasm": true
+  },
+  "narrative_frame": "Pacific neighbours",
+  "openai_error": null,
+  "rationale": "The comment sarcastically suggests decision-makers are controlled by the same interests, likely in response to criticism of Australia's coal approvals harming Pacific neighbours. It signals cynicism and concern about political influence rather than directly discussing migration or the Falepili Union.",
+  "relevance": "contextually relevant",
+  "source": "openai",
+  "stance": "Concern"
+}

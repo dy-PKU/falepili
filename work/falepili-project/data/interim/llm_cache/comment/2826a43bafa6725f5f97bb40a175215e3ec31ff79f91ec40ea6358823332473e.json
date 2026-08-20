@@ -1,0 +1,20 @@
+{
+  "cache_key": "2826a43bafa6725f5f97bb40a175215e3ec31ff79f91ec40ea6358823332473e",
+  "cached_at": "2026-08-19T17:53:47Z",
+  "emotion": "Anger",
+  "frames": [
+    "Other"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": true
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "The comment attacks an unnamed person and predicts electoral loss, but there is no explicit reference to the policy or issue context needed to classify a substantive stance.",
+  "relevance": "unclear",
+  "source": "openai",
+  "stance": "Unclear"
+}

@@ -1,0 +1,20 @@
+{
+  "cache_key": "48486592a3206a7cf55fa6513e48f6d400f576080d099f11339b573acfa932ff",
+  "cached_at": "2026-08-19T14:24:24Z",
+  "emotion": "Cynicism",
+  "frames": [
+    "Other"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "The comment dismisses the relevance of a per-capita comparison in the thread’s discussion, but it does not clearly express support for or opposition to the Tuvalu migration program itself. It is a negative, blunt reaction to the framing of the numbers rather than the policy.",
+  "relevance": "contextually relevant",
+  "source": "openai",
+  "stance": "Unclear"
+}

@@ -1,0 +1,21 @@
+{
+  "cache_key": "bfade90cf9c77bff241d5c6e49af0aca421fc86cfa18364460569105950f242f",
+  "cached_at": "2026-08-19T13:44:03Z",
+  "emotion": "Anger",
+  "frames": [
+    "Climate Justice",
+    "Human Security"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Climate victims",
+  "openai_error": null,
+  "rationale": "The author accepts that Tuvalu may be badly affected, but strongly rejects a defeatist response and argues that reducing greenhouse gas emissions still matters. The quoted material is being criticized, not endorsed.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Strong Support"
+}

@@ -1,0 +1,22 @@
+{
+  "cache_key": "1bf4e388379e2413d485a727173c220ec851996f0894e7e3aeccaf0a1460e9c2",
+  "cached_at": "2026-08-19T17:54:33Z",
+  "emotion": "Resentment",
+  "frames": [
+    "Economic Cost",
+    "Sovereignty",
+    "Migration Fairness"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": true,
+    "rhetorical_question": false,
+    "sarcasm": true
+  },
+  "narrative_frame": "Welfare recipients",
+  "openai_error": null,
+  "rationale": "The comment frames Australia's international assistance or migration-related commitments as an unfair burden on taxpayers, using 'charity organisation' and 'getting flogged' to suggest exploitation. It objects to public money being spent without taxpayer control, indicating strong opposition grounded in economic cost and sovereignty over spending decisions.",
+  "relevance": "contextually relevant",
+  "source": "openai",
+  "stance": "Strong Opposition"
+}

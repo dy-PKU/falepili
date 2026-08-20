@@ -1,0 +1,20 @@
+{
+  "cache_key": "5d6aaa057187045dd69ba0aba4dbd1d094dbe9aa59b82b53db7d91a998c61167",
+  "cached_at": "2026-08-19T14:24:10Z",
+  "emotion": "Humour",
+  "frames": [
+    "China / Geopolitics"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "The comment is a brief China reference in a thread about Tuvalu, Australia, and climate-linked migration, so it is geopolitically adjacent but too ambiguous to assign a clear position. The heart-eyes emojis suggest a playful or performative tone, but the target of the sentiment is unclear.",
+  "relevance": "contextually relevant",
+  "source": "openai",
+  "stance": "Unclear"
+}

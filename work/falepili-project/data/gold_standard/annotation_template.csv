@@ -1,0 +1,21 @@
+comment_id,video_id,text,llm_relevance,stance,frames,emotion,narrative_frame
+demo_c_82e01b510e7d,demo_f030944899,This is a smart regional arrangement. People need to understand the climate and security context.,directly relevant,Support,['Climate Justice' 'Human Security'],Neutral,Other
+demo_c_a003f072acea,demo_933b385387,Tuvalu should not be left alone. Australia has a responsibility here.,directly relevant,Support,['Other'],Neutral,Other
+demo_c_26eb1f8b1dd0,demo_0fe8f40cb0,This is a smart regional arrangement. People need to understand the climate and security context.,directly relevant,Support,['Climate Justice' 'Human Security'],Neutral,Other
+demo_c_3706df611910,demo_8d58d71d64,Feels like the media keeps framing this through geopolitics instead of human security.,directly relevant,Neutral,['Strategic Security' 'China / Geopolitics'],Neutral,Other
+demo_c_5a2ad1603d07,demo_1cbe679640,This is a smart regional arrangement. People need to understand the climate and security context.,directly relevant,Support,['Climate Justice' 'Human Security'],Neutral,Other
+demo_c_85dec81b0d5b,demo_d31318ee9d,Tuvalu should not be left alone. Australia has a responsibility here.,directly relevant,Support,['Other'],Neutral,Other
+demo_c_06ace115cdf6,demo_6b744ffb61,This is a smart regional arrangement. People need to understand the climate and security context.,directly relevant,Support,['Climate Justice' 'Human Security'],Neutral,Other
+demo_c_8212aa6cb644,demo_777bf4466d,This is a smart regional arrangement. People need to understand the climate and security context.,directly relevant,Support,['Climate Justice' 'Human Security'],Neutral,Other
+demo_c_f5113c465d08,demo_d31318ee9d,Feels like the media keeps framing this through geopolitics instead of human security.,directly relevant,Neutral,['Strategic Security' 'China / Geopolitics'],Neutral,Other
+demo_c_ba087c7cfb21,demo_ac0151841d,Feels like the media keeps framing this through geopolitics instead of human security.,directly relevant,Neutral,['Strategic Security' 'China / Geopolitics'],Neutral,Other
+demo_c_1adc72c1346e,demo_1cbe679640,Tuvalu should not be left alone. Australia has a responsibility here.,directly relevant,Support,['Other'],Neutral,Other
+demo_c_c51747168fda,demo_63f6f04d8f,Tuvalu should not be left alone. Australia has a responsibility here.,directly relevant,Support,['Other'],Neutral,Other
+demo_c_37dd3b6e8a03,demo_63f6f04d8f,Feels like the media keeps framing this through geopolitics instead of human security.,directly relevant,Neutral,['Strategic Security' 'China / Geopolitics'],Neutral,Other
+demo_c_5518348948c6,demo_0c97815d8b,Tuvalu should not be left alone. Australia has a responsibility here.,directly relevant,Support,['Other'],Neutral,Other
+demo_c_8c316659158b,demo_312f83e82c,Feels like the media keeps framing this through geopolitics instead of human security.,directly relevant,Neutral,['Strategic Security' 'China / Geopolitics'],Neutral,Other
+demo_c_948209095d38,demo_3353ac9b6b,Tuvalu should not be left alone. Australia has a responsibility here.,directly relevant,Support,['Other'],Neutral,Other
+demo_c_5a7d8911cf29,demo_0c97815d8b,Feels like the media keeps framing this through geopolitics instead of human security.,directly relevant,Neutral,['Strategic Security' 'China / Geopolitics'],Neutral,Other
+demo_c_485144e8eead,demo_dfab26f187,This is a smart regional arrangement. People need to understand the climate and security context.,directly relevant,Support,['Climate Justice' 'Human Security'],Neutral,Other
+demo_c_9090331a877e,demo_3353ac9b6b,Feels like the media keeps framing this through geopolitics instead of human security.,directly relevant,Neutral,['Strategic Security' 'China / Geopolitics'],Neutral,Other
+demo_c_6acd0a19453f,demo_03c30817a8,This is a smart regional arrangement. People need to understand the climate and security context.,directly relevant,Support,['Climate Justice' 'Human Security'],Neutral,Other

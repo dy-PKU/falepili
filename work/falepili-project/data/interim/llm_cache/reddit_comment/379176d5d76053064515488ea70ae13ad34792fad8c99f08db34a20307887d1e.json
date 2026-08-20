@@ -1,0 +1,22 @@
+{
+  "cache_key": "379176d5d76053064515488ea70ae13ad34792fad8c99f08db34a20307887d1e",
+  "cached_at": "2026-08-19T13:40:45Z",
+  "emotion": "Resentment",
+  "frames": [
+    "Climate Justice",
+    "Migration Fairness",
+    "Human Security"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Migrants competing for resources",
+  "openai_error": null,
+  "rationale": "The author rejects the climate-displacement premise, uses hostile language about migrants, and advocates detention rather than residency. The stance is clearly opposed to admitting Tuvaluans under the Falepili arrangement.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Strong Opposition"
+}

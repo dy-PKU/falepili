@@ -1,0 +1,20 @@
+{
+  "cache_key": "a8aab6f64189dc0bc0bb8c41a967451c3cc9b6af8e639baf6ec72baadc1636bc",
+  "cached_at": "2026-08-19T14:16:47Z",
+  "emotion": "Neutral",
+  "frames": [
+    "Climate Justice"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": true,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "The comment argues that climate responsibility is shared between elites, industry, and ordinary consumers, and uses emissions and voting behavior to support that point. It does not discuss the migration program directly, but it is contextually related because it reinforces the climate-change premise behind the thread.",
+  "relevance": "contextually relevant",
+  "source": "openai",
+  "stance": "Support"
+}

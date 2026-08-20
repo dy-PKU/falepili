@@ -1,0 +1,20 @@
+{
+  "cache_key": "b2f2e0df02eb5971801df9bc67512cae19be76ceb6090a4b9519329c582bc4ca",
+  "cached_at": "2026-08-19T14:16:35Z",
+  "emotion": "Anger",
+  "frames": [
+    "Climate Justice"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "The comment does not address the migration program directly, but it supports the broader climate justice framing by arguing that wealthy actors, not ordinary people, drive most emissions and should bear responsibility.",
+  "relevance": "contextually relevant",
+  "source": "openai",
+  "stance": "Support"
+}

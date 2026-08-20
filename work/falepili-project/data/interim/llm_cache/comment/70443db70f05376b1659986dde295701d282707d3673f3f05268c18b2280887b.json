@@ -1,0 +1,19 @@
+{
+  "cache_key": "70443db70f05376b1659986dde295701d282707d3673f3f05268c18b2280887b",
+  "cached_at": "2026-08-18T17:11:41Z",
+  "emotion": "Anxiety",
+  "frames": [
+    "Housing / Public Services"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Other",
+  "rationale": "Heuristic fallback used because no OpenAI API key was available.",
+  "relevance": "irrelevant",
+  "source": "heuristic",
+  "stance": "Concern"
+}

@@ -1,0 +1,21 @@
+{
+  "cache_key": "39291bb831c53cfec02cefc8b4d0948db2dbd6ce5cd875e2b8c9c08d9d8fc8b8",
+  "cached_at": "2026-08-19T14:25:44Z",
+  "emotion": "Anxiety",
+  "frames": [
+    "Sovereignty",
+    "Migration Fairness"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "New citizens",
+  "openai_error": null,
+  "rationale": "The commenter accepts Tuvaluans moving to Australia if they assimilate, but expresses concern about any arrangement involving a separate micronation or retained sovereignty, framing this as a potential source of trouble.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Concern"
+}

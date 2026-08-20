@@ -1,0 +1,22 @@
+{
+  "cache_key": "2687843c0ce1dc213b3b1bcc551f595baea8f4498e80856458125dd6100a9a6f",
+  "cached_at": "2026-08-19T14:00:23Z",
+  "emotion": "Neutral",
+  "frames": [
+    "Economic Cost",
+    "Climate Justice",
+    "Other"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "The author separates resource taxation from climate responsibility and argues Australia's emissions reductions would have little impact unless larger emitters such as China and India reduce usage. This downplays Australia's climate responsibility in the thread context about Pacific neighbours and coal, but does not directly discuss the Falepili Union, migration, or security cooperation.",
+  "relevance": "contextually relevant",
+  "source": "openai",
+  "stance": "Concern"
+}

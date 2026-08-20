@@ -1,0 +1,21 @@
+{
+  "cache_key": "022099b9b89d3eac42f1e46dc3f5e3a9f7b0193123bf36a8068f8c4ea6904aee",
+  "cached_at": "2026-08-19T14:07:24Z",
+  "emotion": "Anger",
+  "frames": [
+    "Climate Justice",
+    "Other"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": true,
+    "sarcasm": false
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "The comment directly responds to the article’s moral criticism of Australia’s coal decision and rejects the idea that Australia bears special responsibility by pointing to global coal supply. It uses a rhetorical question to dismiss the claim rather than engage with climate justice arguments.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Strong Opposition"
+}

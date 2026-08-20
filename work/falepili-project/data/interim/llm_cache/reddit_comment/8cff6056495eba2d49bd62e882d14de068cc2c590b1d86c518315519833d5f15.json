@@ -1,0 +1,22 @@
+{
+  "cache_key": "8cff6056495eba2d49bd62e882d14de068cc2c590b1d86c518315519833d5f15",
+  "cached_at": "2026-08-19T14:21:12Z",
+  "emotion": "Fear",
+  "frames": [
+    "Migration Fairness",
+    "Human Security",
+    "Strategic Security"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Migrants competing for resources",
+  "openai_error": null,
+  "rationale": "The author reacts to the prospect of large-scale climate migration with alarm, forecasting severe social and security consequences for Australia. The comment is not endorsing the migration program; it is warning that Australia may face much larger arrivals and framing them as a threat.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Strong Opposition"
+}

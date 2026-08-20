@@ -1,0 +1,22 @@
+{
+  "cache_key": "2a2633f6f0d65720631f93357eb382ecdf74986647c956febd1c0f3c8d6b294b",
+  "cached_at": "2026-08-19T14:26:18Z",
+  "emotion": "Solidarity",
+  "frames": [
+    "Climate Justice",
+    "Human Security",
+    "Pacific Solidarity"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Climate victims",
+  "openai_error": null,
+  "rationale": "The author supports Australia receiving Tuvaluan migrants and explicitly justifies it as a responsibility for Australia’s high emissions and climate harm. The comment frames Tuvaluans as victims of climate change and argues for moral support rather than restriction.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Strong Support"
+}

@@ -1,0 +1,21 @@
+{
+  "cache_key": "1dcf5941f3b091fb750ad472a1306555b8f5d84b978392e8615b10c234a7694a",
+  "cached_at": "2026-08-19T13:57:47Z",
+  "emotion": "Anger",
+  "frames": [
+    "Climate Justice",
+    "Pacific Solidarity"
+  ],
+  "language_features": {
+    "irony": true,
+    "metaphor": false,
+    "rhetorical_question": true,
+    "sarcasm": true
+  },
+  "narrative_frame": "Climate victims",
+  "openai_error": null,
+  "rationale": "The comment attacks both major parties for approving fossil fuel projects despite climate science, in direct response to the article about Australia harming Pacific neighbours. It expresses strong opposition to coal and gas approvals and frames the issue as a moral failure affecting Pacific communities.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Strong Opposition"
+}

@@ -1,0 +1,22 @@
+{
+  "cache_key": "f38fdc577c17afbfd15f4496de57245659efc00313d4b548b7ccb4f71f583dad",
+  "cached_at": "2026-08-19T14:00:17Z",
+  "emotion": "Anger",
+  "frames": [
+    "Climate Justice",
+    "Economic Cost",
+    "Colonialism / Dependency"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Climate victims",
+  "openai_error": null,
+  "rationale": "The commenter endorses the criticism of Australia’s coal export decision, argues that Australians bear climate harms while corporations capture the gains, and calls for anger at the policy outcome. The comment is about climate harm and economic extraction rather than migration or security.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Strong Support"
+}

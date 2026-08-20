@@ -1,0 +1,22 @@
+{
+  "cache_key": "c8b184a2b18ab3529cc53b51121f5e33bdb28fd89773233853e9e392b2c012f2",
+  "cached_at": "2026-08-19T13:49:25Z",
+  "emotion": "Neutral",
+  "frames": [
+    "Pacific Solidarity",
+    "China / Geopolitics",
+    "Colonialism / Dependency"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Pacific neighbours",
+  "openai_error": null,
+  "rationale": "The comment supports closer ties with Tuvalu and other Pacific nations, which aligns with the policy direction in the thread. It also frames Australia’s relationship with the Pacific as historically poor and notes China’s influence as a geopolitical driver, so Pacific solidarity, colonial legacy, and China/geopolitics are the main frames.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Support"
+}

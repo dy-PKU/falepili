@@ -1,0 +1,22 @@
+{
+  "cache_key": "252643fe2b67f43c8f669ca06e87d00de1a5a435214295185b0638a49ea2d7d2",
+  "cached_at": "2026-08-19T13:50:59Z",
+  "emotion": "Cynicism",
+  "frames": [
+    "Climate Justice",
+    "Pacific Solidarity",
+    "Migration Fairness"
+  ],
+  "language_features": {
+    "irony": true,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": true
+  },
+  "narrative_frame": "Climate victims",
+  "openai_error": null,
+  "rationale": "The comment is reacting to the Tuvalu residency offer in the thread. The phrase 'Nice gesture' is sarcastic, and the reference to Tuvalu's small population and people already living in New Zealand minimizes the policy, implying skepticism rather than genuine praise.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Concern"
+}

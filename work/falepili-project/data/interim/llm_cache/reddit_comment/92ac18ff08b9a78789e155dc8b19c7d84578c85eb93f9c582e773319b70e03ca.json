@@ -1,0 +1,20 @@
+{
+  "cache_key": "92ac18ff08b9a78789e155dc8b19c7d84578c85eb93f9c582e773319b70e03ca",
+  "cached_at": "2026-08-19T14:10:10Z",
+  "emotion": "Cynicism",
+  "frames": [
+    "Other"
+  ],
+  "language_features": {
+    "irony": true,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": true
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "The commenter is dismissing nuclear power as a policy option, using a sarcastic pop-culture reference. It is related to the broader Australia energy and climate policy debate in the thread, but it does not directly engage Tuvalu or Pacific climate mobility.",
+  "relevance": "contextually relevant",
+  "source": "openai",
+  "stance": "Strong Opposition"
+}

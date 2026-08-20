@@ -1,0 +1,25 @@
+{
+  "cache_key": "93c5f8af89817e4ae2b30a6a2ef49c2df82fde4f3c2453b9db00b42074f675cb",
+  "cached_at": "2026-08-19T13:35:53Z",
+  "emotion": "Neutral",
+  "frames": [
+    "Climate Justice",
+    "Migration Fairness",
+    "Sovereignty",
+    "Colonialism / Dependency",
+    "Human Security",
+    "Other"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "The post is a roundup that presents multiple competing narratives about the Tuvalu-Australia climate visa arrangement rather than advancing a single clear position. It mentions support, sovereignty concerns, migration impacts, and climate skepticism, so the author's own stance is unclear from the text alone.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Unclear"
+}

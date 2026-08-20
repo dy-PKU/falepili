@@ -1,0 +1,23 @@
+{
+  "cache_key": "9d1e4907405bfa580529a702803048bb046f7aedc9b02a6af8a9164eb1f1022f",
+  "cached_at": "2026-08-19T14:27:49Z",
+  "emotion": "Humour",
+  "frames": [
+    "Pacific Solidarity",
+    "Human Security",
+    "Climate Justice",
+    "Migration Fairness"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Pacific neighbours",
+  "openai_error": null,
+  "rationale": "The comment endorses Tuvaluans coming to Australia in a joking, hostile way toward an implied interlocutor. The author’s stance is supportive of the migration program, with the insult aimed at another person rather than at Tuvaluans or the policy.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Support"
+}

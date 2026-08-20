@@ -1,0 +1,22 @@
+{
+  "cache_key": "85d9cfeb5dbd42c082876a6e3cb2f242c202c58ace698e0a98212bb8e14126d4",
+  "cached_at": "2026-08-19T13:36:51Z",
+  "emotion": "Neutral",
+  "frames": [
+    "Climate Justice",
+    "Human Security",
+    "Migration Fairness"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Climate victims",
+  "openai_error": null,
+  "rationale": "The post title directly links Tuvalu's king tide devastation with consideration of the Falepili Union treaty, framing Tuvalu in terms of climate impacts and possible climate mobility/security implications. It is informational rather than expressing a clear evaluative stance toward the treaty.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Neutral"
+}

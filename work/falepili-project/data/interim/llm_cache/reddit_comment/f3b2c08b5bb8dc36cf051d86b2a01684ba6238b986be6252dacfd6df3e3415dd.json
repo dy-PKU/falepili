@@ -1,0 +1,21 @@
+{
+  "cache_key": "f3b2c08b5bb8dc36cf051d86b2a01684ba6238b986be6252dacfd6df3e3415dd",
+  "cached_at": "2026-08-19T14:00:40Z",
+  "emotion": "Cynicism",
+  "frames": [
+    "Climate Justice",
+    "China / Geopolitics"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "The comment responds directly to the climate and coal responsibility debate in the thread, but argues against holding Australia especially responsible and dismisses Tuvalu's claim as 'silly.' It shifts emphasis to China and global production, framing the issue as a broader emissions problem rather than a Pacific climate justice claim.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Concern"
+}

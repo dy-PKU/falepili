@@ -1,0 +1,21 @@
+{
+  "cache_key": "288ecc38fb16719cfc15bbbe04bb619a82714a68c483bb7b731dd473d9e25b4e",
+  "cached_at": "2026-08-19T14:09:48Z",
+  "emotion": "Neutral",
+  "frames": [
+    "Strategic Security",
+    "Other"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "The comment reframes the issue as ordinary soft power politics rather than taking a clear side on the coal mine decision itself. It is directly about the geopolitical context of Australia-Pacific relations, but it does not express explicit approval or condemnation.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Neutral"
+}

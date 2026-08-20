@@ -1,0 +1,22 @@
+{
+  "cache_key": "1089a7d763fc59595889e8ae17728d42b1c1d9eb09e7179e35d6ffd2e45fbc72",
+  "cached_at": "2026-08-19T17:53:18Z",
+  "emotion": "Hope",
+  "frames": [
+    "Labour Market",
+    "Migration Fairness",
+    "China / Geopolitics"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Workers",
+  "openai_error": null,
+  "rationale": "The author explicitly welcomes Tuvaluans, portraying them as harmless and employable in farming, while contrasting them favorably with 'illegal boat people' and expressing concern that China may gain influence if they leave.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Support"
+}

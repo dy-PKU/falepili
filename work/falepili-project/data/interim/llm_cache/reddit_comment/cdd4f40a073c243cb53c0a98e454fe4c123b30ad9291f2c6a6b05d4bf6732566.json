@@ -1,0 +1,21 @@
+{
+  "cache_key": "cdd4f40a073c243cb53c0a98e454fe4c123b30ad9291f2c6a6b05d4bf6732566",
+  "cached_at": "2026-08-19T14:26:33Z",
+  "emotion": "Humour",
+  "frames": [
+    "Economic Cost",
+    "Other"
+  ],
+  "language_features": {
+    "irony": true,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": true
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "The comment jokes that climate-related sea level rise will undermine the value of beachside property, framing climate impacts through property investment costs rather than directly addressing Tuvaluan migration or the Falepili Union. It does not express a clear stance on the migration program itself.",
+  "relevance": "contextually relevant",
+  "source": "openai",
+  "stance": "Unclear"
+}

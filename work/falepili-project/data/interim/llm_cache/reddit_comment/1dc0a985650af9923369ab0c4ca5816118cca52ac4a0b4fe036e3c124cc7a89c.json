@@ -1,0 +1,22 @@
+{
+  "cache_key": "1dc0a985650af9923369ab0c4ca5816118cca52ac4a0b4fe036e3c124cc7a89c",
+  "cached_at": "2026-08-19T13:50:48Z",
+  "emotion": "Cynicism",
+  "frames": [
+    "China / Geopolitics",
+    "Strategic Security",
+    "Sovereignty"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "The comment directly discusses the Tuvalu residency deal and interprets it as a cynical geopolitical bargain aimed at countering China rather than a humanitarian offer. The author is clearly negative toward the arrangement, framing it as coercive and strategic rather than benevolent.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Strong Opposition"
+}

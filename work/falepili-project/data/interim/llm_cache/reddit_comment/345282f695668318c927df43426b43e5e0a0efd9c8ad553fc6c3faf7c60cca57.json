@@ -1,0 +1,21 @@
+{
+  "cache_key": "345282f695668318c927df43426b43e5e0a0efd9c8ad553fc6c3faf7c60cca57",
+  "cached_at": "2026-08-19T13:53:34Z",
+  "emotion": "Cynicism",
+  "frames": [
+    "Economic Cost",
+    "Other"
+  ],
+  "language_features": {
+    "irony": true,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": true
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "The comment is a sarcastic comparison between Dutton and Albanese framed around Gina Rinehart, implying both major parties are too close to mining interests. In the thread context, it reads as a cynical criticism of the political response behind the coal mine decision rather than a direct statement about Tuvalu or climate policy details.",
+  "relevance": "contextually relevant",
+  "source": "openai",
+  "stance": "Concern"
+}

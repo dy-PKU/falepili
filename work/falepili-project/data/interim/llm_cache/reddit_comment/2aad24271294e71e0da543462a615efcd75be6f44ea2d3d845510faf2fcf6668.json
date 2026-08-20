@@ -1,0 +1,21 @@
+{
+  "cache_key": "2aad24271294e71e0da543462a615efcd75be6f44ea2d3d845510faf2fcf6668",
+  "cached_at": "2026-08-19T13:39:24Z",
+  "emotion": "Neutral",
+  "frames": [
+    "China / Geopolitics",
+    "Strategic Security"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Strategic partners",
+  "openai_error": null,
+  "rationale": "The commenter highlights Tuvalu's diplomatic relations with Taiwan and China's competing outreach to Pacific nations, then responds with a brief apparently approving remark. The comment is relevant to the thread through the geopolitical context surrounding Tuvalu and Australia, but it does not directly assess climate mobility or the residency offer.",
+  "relevance": "contextually relevant",
+  "source": "openai",
+  "stance": "Support"
+}

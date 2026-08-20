@@ -1,0 +1,21 @@
+{
+  "cache_key": "56128cb8dc9bb03976bf4a305dadefe142e501d7dc651f3d1bd2484fd8cb7690",
+  "cached_at": "2026-08-19T13:44:17Z",
+  "emotion": "Neutral",
+  "frames": [
+    "Climate Justice",
+    "Other"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Climate victims",
+  "openai_error": null,
+  "rationale": "The comment argues that Australia must cut or eliminate greenhouse gas emissions while also realistically planning for climate impacts. It is contextually relevant to Tuvalu climate displacement but focuses on mitigation strategy rather than the residency offer itself. The author does not oppose climate mobility planning and frames displacement as linked to emissions responsibility.",
+  "relevance": "contextually relevant",
+  "source": "openai",
+  "stance": "Support"
+}

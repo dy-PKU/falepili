@@ -1,0 +1,21 @@
+{
+  "cache_key": "5c813e097c9c59be672b446b17f7f1b3fa7cb0bbf6b26cce423ba8c46d9008ba",
+  "cached_at": "2026-08-19T13:52:33Z",
+  "emotion": "Cynicism",
+  "frames": [
+    "Migration Fairness",
+    "Economic Cost"
+  ],
+  "language_features": {
+    "irony": true,
+    "metaphor": false,
+    "rhetorical_question": true,
+    "sarcasm": true
+  },
+  "narrative_frame": "Migrants competing for resources",
+  "openai_error": null,
+  "rationale": "The comment responds to the residency offer by sarcastically asking whether poverty would also qualify someone for residency. It does not engage with Tuvalu directly, but it clearly comments on the fairness and scope of migration access in the thread's context.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Strong Opposition"
+}

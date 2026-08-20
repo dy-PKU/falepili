@@ -1,0 +1,22 @@
+{
+  "cache_key": "3f3cd56140938a69763619cd7e3518e6304ec96b6c6d162e7fa8e3bda784d479",
+  "cached_at": "2026-08-19T13:57:53Z",
+  "emotion": "Cynicism",
+  "frames": [
+    "Climate Justice",
+    "Economic Cost",
+    "Other"
+  ],
+  "language_features": {
+    "irony": true,
+    "metaphor": false,
+    "rhetorical_question": true,
+    "sarcasm": true
+  },
+  "narrative_frame": "Climate victims",
+  "openai_error": null,
+  "rationale": "The comment criticizes both major Australian parties as insincere on climate change and coal approvals, in the context of Pacific neighbours harmed by climate policy. The author is cynical about party politics and supportive of stronger climate accountability, while the quoted Hansard material is used as evidence rather than representing the author's own full stance. It does not directly discuss Falepili migration or security cooperation.",
+  "relevance": "contextually relevant",
+  "source": "openai",
+  "stance": "Concern"
+}

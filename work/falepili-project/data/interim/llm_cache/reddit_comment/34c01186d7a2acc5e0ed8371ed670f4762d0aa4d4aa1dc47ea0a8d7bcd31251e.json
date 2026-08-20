@@ -1,0 +1,21 @@
+{
+  "cache_key": "34c01186d7a2acc5e0ed8371ed670f4762d0aa4d4aa1dc47ea0a8d7bcd31251e",
+  "cached_at": "2026-08-19T14:06:47Z",
+  "emotion": "Cynicism",
+  "frames": [
+    "Pacific Solidarity",
+    "China / Geopolitics"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": true,
+    "rhetorical_question": true,
+    "sarcasm": false
+  },
+  "narrative_frame": "Pacific neighbours",
+  "openai_error": null,
+  "rationale": "The author dismisses Pacific island countries' criticism of Australia by comparing it to a child whining about siblings. The comment shifts attention toward China, framing Pacific complaints as selective and childish rather than legitimate climate or solidarity concerns.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Strong Opposition"
+}

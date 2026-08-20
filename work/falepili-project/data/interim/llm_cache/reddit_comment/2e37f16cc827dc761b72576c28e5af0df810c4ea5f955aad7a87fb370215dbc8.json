@@ -1,0 +1,20 @@
+{
+  "cache_key": "2e37f16cc827dc761b72576c28e5af0df810c4ea5f955aad7a87fb370215dbc8",
+  "cached_at": "2026-08-19T13:58:33Z",
+  "emotion": "Cynicism",
+  "frames": [
+    "Other"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "The comment does not address the policy issue directly; it criticizes the use of hyperbolic rhetoric in the discussion. The stance is a concern about discourse quality rather than support or opposition to the coalmine decision.",
+  "relevance": "contextually relevant",
+  "source": "openai",
+  "stance": "Concern"
+}

@@ -1,0 +1,22 @@
+{
+  "cache_key": "2dfc0074b341fe2579b2613157e255b3bb7350bb7c214bd9501b473941c936c5",
+  "cached_at": "2026-08-19T13:51:15Z",
+  "emotion": "Neutral",
+  "frames": [
+    "Climate Justice",
+    "Pacific Solidarity",
+    "Economic Cost"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": true,
+    "sarcasm": false
+  },
+  "narrative_frame": "Pacific neighbours",
+  "openai_error": null,
+  "rationale": "The comment is directly about Tuvalu's climate displacement and Australia's role, but it mainly proposes an alternative adaptation idea and asks questions rather than clearly endorsing or rejecting the policy. It expresses some support for Australian funding while raising feasibility and environmental concerns.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Concern"
+}

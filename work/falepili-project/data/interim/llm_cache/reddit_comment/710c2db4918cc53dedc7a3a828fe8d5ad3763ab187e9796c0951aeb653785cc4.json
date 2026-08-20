@@ -1,0 +1,21 @@
+{
+  "cache_key": "710c2db4918cc53dedc7a3a828fe8d5ad3763ab187e9796c0951aeb653785cc4",
+  "cached_at": "2026-08-19T14:21:58Z",
+  "emotion": "Cynicism",
+  "frames": [
+    "Economic Cost",
+    "Climate Justice"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "The comment reacts to renewable energy policy by framing it as profit-driven and costly for ordinary people. In the thread context it is only indirectly related to Tuvalu migration, but it still connects to the broader climate policy discussion. The stance is skeptical and cynical rather than supportive of the migration program itself.",
+  "relevance": "contextually relevant",
+  "source": "openai",
+  "stance": "Concern"
+}

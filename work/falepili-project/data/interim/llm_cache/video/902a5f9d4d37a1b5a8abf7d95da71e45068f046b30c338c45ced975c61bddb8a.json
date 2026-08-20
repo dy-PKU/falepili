@@ -1,0 +1,23 @@
+{
+  "cache_key": "902a5f9d4d37a1b5a8abf7d95da71e45068f046b30c338c45ced975c61bddb8a",
+  "cached_at": "2026-08-19T17:53:00Z",
+  "emotion": "Neutral",
+  "frames": [
+    "Pacific Solidarity",
+    "Strategic Security",
+    "Sovereignty",
+    "Migration Fairness"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Pacific neighbours",
+  "openai_error": null,
+  "rationale": "The text is a news title and description about the Australia-Tuvalu agreement, not an opinionated comment. It is directly relevant to Falepili Union, climate mobility, and security cooperation, but it does not express a clear stance by the author.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Neutral"
+}

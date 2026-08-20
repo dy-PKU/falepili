@@ -1,0 +1,22 @@
+{
+  "cache_key": "f3a3dfa09f6f801f0a0f40be7477ac2ae96ec05b446b47f8088daa33722d119e",
+  "cached_at": "2026-08-19T13:53:49Z",
+  "emotion": "Cynicism",
+  "frames": [
+    "Climate Justice",
+    "Economic Cost",
+    "Sovereignty"
+  ],
+  "language_features": {
+    "irony": true,
+    "metaphor": false,
+    "rhetorical_question": true,
+    "sarcasm": true
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "The comment attacks the optics of political leaders appearing aligned with mining companies and implies shameless favoritism toward the industry. In the thread context about the coalmine decision and harm to Pacific neighbours, it is a critical response to fossil fuel influence and climate injustice rather than support for the decision.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Strong Opposition"
+}

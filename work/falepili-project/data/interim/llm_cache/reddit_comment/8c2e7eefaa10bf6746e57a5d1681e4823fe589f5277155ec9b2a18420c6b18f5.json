@@ -1,0 +1,21 @@
+{
+  "cache_key": "8c2e7eefaa10bf6746e57a5d1681e4823fe589f5277155ec9b2a18420c6b18f5",
+  "cached_at": "2026-08-19T14:22:55Z",
+  "emotion": "Neutral",
+  "frames": [
+    "Climate Justice",
+    "Human Security"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Climate victims",
+  "openai_error": null,
+  "rationale": "The comment is a brief reference to cyclones, which are climate-related hazards relevant to Tuvalu's vulnerability and climate mobility. It does not express a clear evaluative stance on the migration program itself.",
+  "relevance": "contextually relevant",
+  "source": "openai",
+  "stance": "Unclear"
+}

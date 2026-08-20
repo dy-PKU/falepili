@@ -1,0 +1,24 @@
+{
+  "cache_key": "5358399fa6fb6d31ef59bcf9067ef28551e2d40991293496cf2062356baeeeed",
+  "cached_at": "2026-08-19T13:42:22Z",
+  "emotion": "Cynicism",
+  "frames": [
+    "Climate Justice",
+    "Strategic Security",
+    "China / Geopolitics",
+    "Sovereignty",
+    "Colonialism / Dependency"
+  ],
+  "language_features": {
+    "irony": true,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": true
+  },
+  "narrative_frame": "Strategic assets",
+  "openai_error": null,
+  "rationale": "The comment criticizes Australia as ignoring Tuvalu's climate concerns while using limited migration access as leverage for military and anti-China strategic interests. It frames the arrangement as cynical and conditional rather than humanitarian, but does not oppose Tuvaluans receiving residency.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Concern"
+}

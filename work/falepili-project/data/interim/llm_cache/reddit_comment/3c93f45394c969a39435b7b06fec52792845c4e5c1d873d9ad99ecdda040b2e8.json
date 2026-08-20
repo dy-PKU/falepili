@@ -1,0 +1,20 @@
+{
+  "cache_key": "3c93f45394c969a39435b7b06fec52792845c4e5c1d873d9ad99ecdda040b2e8",
+  "cached_at": "2026-08-19T13:55:15Z",
+  "emotion": "Anger",
+  "frames": [
+    "Other"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "The comment does not address the coal mine decision or Tuvalu directly. It criticizes the way people treat government like a sports rivalry, which is a general meta-comment on political tribalism. The tone is frustrated, but it does not take a clear position on the article’s topic.",
+  "relevance": "contextually relevant",
+  "source": "openai",
+  "stance": "Neutral"
+}

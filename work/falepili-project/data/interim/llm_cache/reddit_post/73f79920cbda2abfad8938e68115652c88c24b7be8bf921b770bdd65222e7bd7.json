@@ -1,0 +1,21 @@
+{
+  "cache_key": "73f79920cbda2abfad8938e68115652c88c24b7be8bf921b770bdd65222e7bd7",
+  "cached_at": "2026-08-19T13:37:15Z",
+  "emotion": "Anger",
+  "frames": [
+    "Climate Justice",
+    "Pacific Solidarity"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": true,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Climate victims",
+  "openai_error": null,
+  "rationale": "The post headline reports Tuvalu's climate minister condemning Australia's coalmine decision as immoral and likening it to drowning Pacific neighbours. The stance is concern over Australia's climate policy impacts on Tuvalu/Pacific communities; the drowning image is a metaphor in quoted/reported speech.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Concern"
+}

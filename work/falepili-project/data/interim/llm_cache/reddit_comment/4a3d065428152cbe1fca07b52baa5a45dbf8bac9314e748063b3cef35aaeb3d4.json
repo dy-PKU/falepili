@@ -1,0 +1,23 @@
+{
+  "cache_key": "4a3d065428152cbe1fca07b52baa5a45dbf8bac9314e748063b3cef35aaeb3d4",
+  "cached_at": "2026-08-19T14:17:19Z",
+  "emotion": "Neutral",
+  "frames": [
+    "Human Security",
+    "Strategic Security",
+    "Economic Cost",
+    "Sovereignty"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Strategic assets",
+  "openai_error": null,
+  "rationale": "The author explicitly supports admitting Tuvaluans for humanitarian climate-related reasons, but also argues that making Tuvalu an Australian territory would benefit Australia through the .TV domain and use of land for shipping, military, air, and research purposes. This frames Tuvaluans as deserving protection while also framing Tuvalu itself as a strategic and economic asset.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Strong Support"
+}

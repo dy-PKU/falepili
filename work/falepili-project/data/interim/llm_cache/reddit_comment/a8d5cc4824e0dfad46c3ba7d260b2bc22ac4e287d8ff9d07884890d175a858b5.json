@@ -1,0 +1,22 @@
+{
+  "cache_key": "a8d5cc4824e0dfad46c3ba7d260b2bc22ac4e287d8ff9d07884890d175a858b5",
+  "cached_at": "2026-08-19T14:17:53Z",
+  "emotion": "Cynicism",
+  "frames": [
+    "Sovereignty",
+    "Colonialism / Dependency",
+    "Migration Fairness"
+  ],
+  "language_features": {
+    "irony": true,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": true
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "The comment reacts to the migration program with a sarcastic annexation suggestion, implying that if Australia is effectively absorbing the whole population, the arrangement should be made formal. It is focused on sovereignty and dependency concerns rather than support for climate mobility itself.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Concern"
+}

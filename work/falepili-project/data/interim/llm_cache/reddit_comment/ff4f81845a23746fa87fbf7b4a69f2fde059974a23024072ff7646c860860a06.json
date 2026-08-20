@@ -1,0 +1,21 @@
+{
+  "cache_key": "ff4f81845a23746fa87fbf7b4a69f2fde059974a23024072ff7646c860860a06",
+  "cached_at": "2026-08-19T13:51:45Z",
+  "emotion": "Anxiety",
+  "frames": [
+    "Housing / Public Services",
+    "Migration Fairness"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": true,
+    "sarcasm": false
+  },
+  "narrative_frame": "Migrants competing for resources",
+  "openai_error": null,
+  "rationale": "The comment acknowledges the policy as positive in principle but expresses concern that Tuvaluan arrivals would worsen existing homelessness and housing pressure in Australia.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Concern"
+}

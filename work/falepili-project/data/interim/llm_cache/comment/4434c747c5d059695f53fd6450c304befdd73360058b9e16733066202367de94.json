@@ -1,0 +1,21 @@
+{
+  "cache_key": "4434c747c5d059695f53fd6450c304befdd73360058b9e16733066202367de94",
+  "cached_at": "2026-08-19T17:54:11Z",
+  "emotion": "Anger",
+  "frames": [
+    "Sovereignty",
+    "Other"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "The author attacks the Australian PM, claims the news item is retaliation, and urges a petition to remove him. The stance is strongly hostile toward the government action and the PM. The comment does not clearly discuss Tuvalu, migration, or the Falepili Union itself, so relevance is only contextual.",
+  "relevance": "contextually relevant",
+  "source": "openai",
+  "stance": "Strong Opposition"
+}

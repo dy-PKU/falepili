@@ -1,0 +1,20 @@
+{
+  "cache_key": "2b64b92c9a8ab1c8bedf629763911553e25dc89df2820774b0e9a99be96c325e",
+  "cached_at": "2026-08-19T13:38:39Z",
+  "emotion": "Humour",
+  "frames": [
+    "Other"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": true,
+    "sarcasm": false
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "The comment is a joking/non sequitur response about Twitch income and does not engage with the Tuvalu residency or climate mobility issue in the thread. It reads as light humour rather than a policy position.",
+  "relevance": "irrelevant",
+  "source": "openai",
+  "stance": "Unclear"
+}

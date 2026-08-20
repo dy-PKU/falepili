@@ -1,0 +1,22 @@
+{
+  "cache_key": "42367cd04ecbad35dcd5c35faccb4881208bec35c272dd00d21799435e4ba04a",
+  "cached_at": "2026-08-19T13:54:41Z",
+  "emotion": "Anger",
+  "frames": [
+    "Pacific Solidarity",
+    "Climate Justice",
+    "Sovereignty"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "The comment criticizes partisan loyalty and implies elected actors should prioritize the public instead. In the thread context, that reads as support for acting in the interests of people affected by the coalmine decision, including Pacific neighbours, rather than party politics.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Support"
+}

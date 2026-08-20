@@ -1,0 +1,22 @@
+{
+  "cache_key": "a659fcd8e148f36e6d6c40b183cfdd20cbea3f932eab657cbbd737dc0078375e",
+  "cached_at": "2026-08-19T13:37:54Z",
+  "emotion": "Neutral",
+  "frames": [
+    "Climate Justice",
+    "Human Security",
+    "Migration Fairness"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "No comment text was provided, so there is no author stance to code. Based only on the thread topic, this concerns climate-driven migration from Tuvalu to Australia and fits climate justice, human security, and migration fairness frames.",
+  "relevance": "unclear",
+  "source": "openai",
+  "stance": "Unclear"
+}

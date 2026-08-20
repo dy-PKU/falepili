@@ -1,0 +1,21 @@
+{
+  "cache_key": "87b81b1269dcd9d6feb19be7389bba87536020bfcd9c22d54c0b9cc122c5233f",
+  "cached_at": "2026-08-19T13:43:23Z",
+  "emotion": "Anger",
+  "frames": [
+    "Climate Justice",
+    "Human Security"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Climate victims",
+  "openai_error": null,
+  "rationale": "The comment reacts to climate-driven displacement and blames Australians' past voting behaviour for enabling inaction. It is directly about the policy context in the thread and expresses frustration that climate harms were allowed to happen. No quoted material is present to separate from the author's own stance.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Support"
+}

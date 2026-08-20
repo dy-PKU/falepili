@@ -1,0 +1,20 @@
+{
+  "cache_key": "787c570d40b85bda0e896fb955ea392056a7e700674fff7db15a152b650f85e8",
+  "cached_at": "2026-08-19T13:41:15Z",
+  "emotion": "Humour",
+  "frames": [
+    "Other"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "The comment is mostly nonsensical and reads like a joke or scrambled quote. It does not clearly address Tuvalu, climate displacement, residency, or the policy debate in the thread.",
+  "relevance": "unclear",
+  "source": "openai",
+  "stance": "Unclear"
+}

@@ -1,0 +1,20 @@
+{
+  "cache_key": "d71c1526747e7f117eab89b228e3922f2ec5d0ad93df1fedd386bc70a95026a5",
+  "cached_at": "2026-08-19T13:47:23Z",
+  "emotion": "Neutral",
+  "frames": [
+    "Climate Justice"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "The comment supplies factual context about Australia’s emissions and fossil fuel exports to underscore climate responsibility in the Tuvalu residency discussion. It does not attack the policy or residents, and it reads as supportive context rather than opposition.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Support"
+}

@@ -1,0 +1,20 @@
+{
+  "cache_key": "ba54c7737b71b23d6957fc2536545bcc7ea3d8703fd54f501c3f8b1b4a4f636b",
+  "cached_at": "2026-08-19T14:25:12Z",
+  "emotion": "Neutral",
+  "frames": [
+    "Labour Market"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Workers",
+  "openai_error": null,
+  "rationale": "The comment frames Tuvaluan migrants primarily as people who will move to where jobs are available, especially understaffed farms and abattoirs. It does not express clear support or opposition to the migration program, but presents a practical labour-market expectation.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Neutral"
+}

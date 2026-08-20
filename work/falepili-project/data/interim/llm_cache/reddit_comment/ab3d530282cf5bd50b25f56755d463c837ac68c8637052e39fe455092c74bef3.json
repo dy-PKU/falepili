@@ -1,0 +1,22 @@
+{
+  "cache_key": "ab3d530282cf5bd50b25f56755d463c837ac68c8637052e39fe455092c74bef3",
+  "cached_at": "2026-08-19T14:18:37Z",
+  "emotion": "Cynicism",
+  "frames": [
+    "Migration Fairness",
+    "Labour Market",
+    "Economic Cost"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Migrants competing for resources",
+  "openai_error": null,
+  "rationale": "The comment argues the Tuvalu migration intake is too small to materially affect Australia and contrasts it with larger migration streams, which frames the issue around capacity, fairness, and labour-market impact. It is not opposing the program; it minimizes concern about it.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Support"
+}

@@ -1,0 +1,22 @@
+{
+  "cache_key": "1c9db48b408f29845028d5f2ef337ed49197f39ca585a0fca0d9d49c9914795e",
+  "cached_at": "2026-08-19T14:02:27Z",
+  "emotion": "Anger",
+  "frames": [
+    "Climate Justice",
+    "Pacific Solidarity",
+    "Economic Cost"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": true,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Pacific neighbours",
+  "openai_error": null,
+  "rationale": "The commenter agrees with the Tuvalu minister's criticism of Australia's climate conduct, framing Australia as disproportionately responsible per capita and rejecting the idea that worse actions by others excuse Australia. They also criticise resource policy for benefiting multinationals through low prices and subsidies, adding an economic justice frame.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Strong Support"
+}

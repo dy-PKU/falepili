@@ -1,0 +1,24 @@
+{
+  "cache_key": "03c362caaff19156914475ae079f693ea336f63e4f145833c8bcbdd57693e341",
+  "cached_at": "2026-08-19T23:39:20Z",
+  "emotion": "Neutral",
+  "frames": [
+    "Housing / Public Services"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Other",
+  "openai_error": {
+    "body": null,
+    "error_type": "RuntimeError",
+    "status_code": null
+  },
+  "rationale": "Heuristic fallback used because no OpenAI API key was available.",
+  "relevance": "contextually relevant",
+  "source": "heuristic",
+  "stance": "Concern"
+}

@@ -1,0 +1,21 @@
+{
+  "cache_key": "09479b7c4e0350ad8ec87638cd1a15546fe7c8dddeedc39897c4571411dabd78",
+  "cached_at": "2026-08-19T14:00:03Z",
+  "emotion": "Cynicism",
+  "frames": [
+    "Climate Justice",
+    "China / Geopolitics"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "The comment shifts responsibility away from Australia by arguing that Pacific leaders should focus on the biggest global emitters and that Australia's actions are negligible. It is a direct response to the article's criticism of Australia's coalmine decision, and it downplays Australia's climate responsibility while implicitly defending the decision.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Support"
+}

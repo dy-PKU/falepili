@@ -1,0 +1,22 @@
+{
+  "cache_key": "bef760e09b774898824a857f11bad804a290e15efe652d2bf3a9f0e40bb8fe52",
+  "cached_at": "2026-08-19T13:47:33Z",
+  "emotion": "Empathy",
+  "frames": [
+    "Climate Justice",
+    "Human Security",
+    "Migration Fairness"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Climate victims",
+  "openai_error": null,
+  "rationale": "The comment directly discusses Tuvaluans displaced by climate change and frames future mobility as a consequence of climate impacts. The author expresses sympathy for affected people, supports addressing their situation, and worries about resentment toward climate-displaced people despite their lack of fault.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Support"
+}

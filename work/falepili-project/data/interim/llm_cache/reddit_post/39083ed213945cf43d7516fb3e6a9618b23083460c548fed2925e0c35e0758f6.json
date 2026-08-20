@@ -1,0 +1,24 @@
+{
+  "cache_key": "39083ed213945cf43d7516fb3e6a9618b23083460c548fed2925e0c35e0758f6",
+  "cached_at": "2026-08-19T13:36:21Z",
+  "emotion": "Neutral",
+  "frames": [
+    "Climate Justice",
+    "Human Security",
+    "Pacific Solidarity",
+    "Strategic Security",
+    "Sovereignty"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Pacific neighbours",
+  "openai_error": null,
+  "rationale": "The post shares a news link about Tuvalu considering the Falepili Union treaty in the context of king tides and climate impacts. It is directly relevant to Australia-Tuvalu relations, climate mobility, sovereignty, and security cooperation, but the poster does not express a clear evaluative stance beyond sharing the article.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Neutral"
+}

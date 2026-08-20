@@ -1,0 +1,20 @@
+{
+  "cache_key": "7de3ecd045b212c211847d75bc80ccaaea4abc9901e11f5fd0a49b3c9a74571b",
+  "cached_at": "2026-08-19T13:53:59Z",
+  "emotion": "Cynicism",
+  "frames": [
+    "Other"
+  ],
+  "language_features": {
+    "irony": true,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": true
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "The comment does not address the coal mine directly, but it comments on political capture and implied ownership, which is related to the decision-making context. The tone is cynical and sarcastic, criticizing politicians as being controlled by outside interests.",
+  "relevance": "contextually relevant",
+  "source": "openai",
+  "stance": "Concern"
+}

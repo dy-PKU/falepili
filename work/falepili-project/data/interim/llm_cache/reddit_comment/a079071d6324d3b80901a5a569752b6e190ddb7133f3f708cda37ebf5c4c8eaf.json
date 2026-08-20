@@ -1,0 +1,21 @@
+{
+  "cache_key": "a079071d6324d3b80901a5a569752b6e190ddb7133f3f708cda37ebf5c4c8eaf",
+  "cached_at": "2026-08-19T13:52:16Z",
+  "emotion": "Cynicism",
+  "frames": [
+    "Climate Justice",
+    "Migration Fairness"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": true,
+    "sarcasm": false
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "The comment questions the factual basis for Tuvalu's climate displacement claim by asking how much sea level has risen in the last decade. It is directly about the thread topic and signals skepticism toward the justification for residency, without making an explicit policy argument.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Concern"
+}

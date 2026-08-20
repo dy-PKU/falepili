@@ -1,0 +1,21 @@
+{
+  "cache_key": "0ea9346dbe4ef45b55a1b1362ba9d854627e548ca9c0f4ee6d537b76375a197b",
+  "cached_at": "2026-08-19T13:50:26Z",
+  "emotion": "Cynicism",
+  "frames": [
+    "Climate Justice",
+    "Human Security"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": true,
+    "sarcasm": false
+  },
+  "narrative_frame": "Climate victims",
+  "openai_error": null,
+  "rationale": "The author uses a rhetorical question to dismiss criticism of displaced Tuvaluans, emphasizing that criticism will not address sea-level rise. This implies support for assisting people affected by climate change.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Support"
+}

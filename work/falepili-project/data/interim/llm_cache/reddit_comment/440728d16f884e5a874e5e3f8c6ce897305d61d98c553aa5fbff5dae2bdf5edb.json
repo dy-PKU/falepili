@@ -1,0 +1,21 @@
+{
+  "cache_key": "440728d16f884e5a874e5e3f8c6ce897305d61d98c553aa5fbff5dae2bdf5edb",
+  "cached_at": "2026-08-19T14:01:32Z",
+  "emotion": "Neutral",
+  "frames": [
+    "Climate Justice",
+    "Other"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Climate victims",
+  "openai_error": null,
+  "rationale": "The comment pushes back on a narrow emissions comparison and argues Australia is still responsible by enabling overseas coal pollution. It supports the article's climate harm framing rather than opposing it.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Support"
+}

@@ -1,0 +1,21 @@
+{
+  "cache_key": "86f29e26d3a9e5beecd98d12b851199c9054aea1f2da4ab582fc0cd4aae1466f",
+  "cached_at": "2026-08-19T13:58:26Z",
+  "emotion": "Cynicism",
+  "frames": [
+    "Climate Justice",
+    "Pacific Solidarity"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": true,
+    "rhetorical_question": false,
+    "sarcasm": true
+  },
+  "narrative_frame": "Climate victims",
+  "openai_error": null,
+  "rationale": "The comment criticizes Labor's claim to take climate science seriously by comparing its climate response to ineffective pseudoscientific cancer treatment. In the thread context, this expresses concern or criticism of Australia's climate policy and its implications for Pacific neighbours, using sarcastic metaphor rather than discussing migration or security directly.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Concern"
+}

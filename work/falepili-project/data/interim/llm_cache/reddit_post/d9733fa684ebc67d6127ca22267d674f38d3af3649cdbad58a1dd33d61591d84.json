@@ -1,0 +1,20 @@
+{
+  "cache_key": "d9733fa684ebc67d6127ca22267d674f38d3af3649cdbad58a1dd33d61591d84",
+  "cached_at": "2026-08-19T13:37:34Z",
+  "emotion": "Neutral",
+  "frames": [
+    "Other"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "No user comment was provided, only the post context. With no comment text to interpret, stance and framing cannot be reliably coded.",
+  "relevance": "unclear",
+  "source": "openai",
+  "stance": "Unclear"
+}

@@ -1,0 +1,18 @@
+{
+  "cache_key": "fb4d1fb8f9a006cc4449f319c3ad59406804175943bab3fdbf01c2c20104b855",
+  "cached_at": "2026-08-19T13:35:44Z",
+  "emotion": "Neutral",
+  "frames": [],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "No actual comment text was provided, only the post context, so the author's stance cannot be coded from this input.",
+  "relevance": "unclear",
+  "source": "openai",
+  "stance": "Unclear"
+}

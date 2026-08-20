@@ -1,0 +1,18 @@
+{
+  "cache_key": "12ec76381643a76875bcf9a6bbfc8a74887bf076154c1b5f261444cf478d78c1",
+  "cached_at": "2026-08-19T13:36:59Z",
+  "emotion": "Neutral",
+  "frames": [],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "No comment text was provided, so there is not enough evidence to code stance, framing, or language features beyond the surrounding post topic.",
+  "relevance": "unclear",
+  "source": "openai",
+  "stance": "Unclear"
+}

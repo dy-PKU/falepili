@@ -1,0 +1,33 @@
+{
+  "cache_key": "e429d42e131cc983a34534bfcc64dfd99c8f66d8b0fc8226505aaaf12f8497c9",
+  "cached_at": "2026-08-18T17:32:07Z",
+  "emotion": "Neutral",
+  "frames": [
+    "Climate Justice",
+    "Human Security"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": true
+  },
+  "narrative_frame": "New citizens",
+  "openai_error": {
+    "body": {
+      "error": {
+        "code": "invalid_api_key",
+        "message": "Incorrect API key provided: sk-d2bea*******************************************************fb2d. You can find your API key at https://platform.openai.com/account/api-keys.",
+        "param": null,
+        "type": "invalid_request_error"
+      },
+      "status": 401
+    },
+    "error_type": "HTTPError",
+    "status_code": 401
+  },
+  "rationale": "Heuristic fallback used because no OpenAI API key was available.",
+  "relevance": "directly relevant",
+  "source": "heuristic",
+  "stance": "Neutral"
+}

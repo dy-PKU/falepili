@@ -1,0 +1,20 @@
+{
+  "cache_key": "cf75d2a3486705692f0a46efd02887e354394ac0a54a3c4328f3e8adf6667184",
+  "cached_at": "2026-08-19T13:59:48Z",
+  "emotion": "Anger",
+  "frames": [
+    "Other"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "The comment is a hostile interpersonal rebuttal accusing the other participant of acting in bad faith. It does not express a substantive position on Australia, Tuvalu, the coal mine decision, migration, or climate policy, so it is not useful for policy framing beyond the surrounding argument.",
+  "relevance": "contextually relevant",
+  "source": "openai",
+  "stance": "Unclear"
+}

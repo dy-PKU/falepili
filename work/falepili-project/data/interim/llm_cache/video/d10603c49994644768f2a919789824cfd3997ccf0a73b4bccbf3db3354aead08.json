@@ -1,0 +1,23 @@
+{
+  "cache_key": "d10603c49994644768f2a919789824cfd3997ccf0a73b4bccbf3db3354aead08",
+  "cached_at": "2026-08-19T17:52:37Z",
+  "emotion": "Neutral",
+  "frames": [
+    "Pacific Solidarity",
+    "Climate Justice",
+    "Migration Fairness",
+    "Sovereignty"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Pacific neighbours",
+  "openai_error": null,
+  "rationale": "This is a news headline/description about Australia and Tuvalu deepening ties through refuge arrangements in response to sea-level rise. It is directly relevant to climate mobility and bilateral cooperation, but it does not express an authorial opinion, so the stance is neutral.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Neutral"
+}

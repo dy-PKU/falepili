@@ -1,0 +1,22 @@
+{
+  "cache_key": "f87340730bfc0963ceee079c8a5870c53aedde318b4cadb2dafc9d565963d244",
+  "cached_at": "2026-08-19T13:45:37Z",
+  "emotion": "Cynicism",
+  "frames": [
+    "Climate Justice",
+    "Pacific Solidarity",
+    "Colonialism / Dependency"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": true,
+    "sarcasm": false
+  },
+  "narrative_frame": "Climate victims",
+  "openai_error": null,
+  "rationale": "The comment questions Australia’s motive for offering residency and frames the situation as a climate-driven problem affecting Tuvalu regardless of Australia. It is skeptical rather than openly opposing the policy.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Concern"
+}

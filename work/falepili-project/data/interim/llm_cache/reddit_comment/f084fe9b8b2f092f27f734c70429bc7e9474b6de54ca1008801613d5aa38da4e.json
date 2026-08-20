@@ -1,0 +1,21 @@
+{
+  "cache_key": "f084fe9b8b2f092f27f734c70429bc7e9474b6de54ca1008801613d5aa38da4e",
+  "cached_at": "2026-08-19T14:11:55Z",
+  "emotion": "Neutral",
+  "frames": [
+    "Other",
+    "Migration Fairness"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "New citizens",
+  "openai_error": null,
+  "rationale": "The commenter accepts the migration program as necessary but argues for a gradual rollout so Tuvalu can manage the transition smoothly. The stance is pragmatic and mildly supportive, not opposed to the policy itself.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Support"
+}

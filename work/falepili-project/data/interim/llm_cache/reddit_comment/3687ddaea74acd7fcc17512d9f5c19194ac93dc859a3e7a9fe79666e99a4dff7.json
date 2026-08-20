@@ -1,0 +1,21 @@
+{
+  "cache_key": "3687ddaea74acd7fcc17512d9f5c19194ac93dc859a3e7a9fe79666e99a4dff7",
+  "cached_at": "2026-08-19T14:22:45Z",
+  "emotion": "Neutral",
+  "frames": [
+    "Other",
+    "Economic Cost"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "The comment is not directly about the Tuvalu migration program itself. It argues that water transport is wasteful and proposes a different climate adaptation approach: building cities in northern Australia where water is more available. That makes it contextually relevant to the thread, but the stance toward the migration program is indirect and not clearly supportive or oppositional.",
+  "relevance": "contextually relevant",
+  "source": "openai",
+  "stance": "Neutral"
+}

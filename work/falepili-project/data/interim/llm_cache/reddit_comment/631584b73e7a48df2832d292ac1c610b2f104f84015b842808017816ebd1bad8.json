@@ -1,0 +1,20 @@
+{
+  "cache_key": "631584b73e7a48df2832d292ac1c610b2f104f84015b842808017816ebd1bad8",
+  "cached_at": "2026-08-19T14:21:46Z",
+  "emotion": "Cynicism",
+  "frames": [
+    "Economic Cost"
+  ],
+  "language_features": {
+    "irony": true,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": true
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "The comment does not address the Tuvalu migration program directly, but it reacts to the climate-policy context by arguing that renewable energy will not be cheap and will lead to high costs. The tone is skeptical and sarcastic rather than supportive or clearly opposed to migration itself.",
+  "relevance": "contextually relevant",
+  "source": "openai",
+  "stance": "Concern"
+}

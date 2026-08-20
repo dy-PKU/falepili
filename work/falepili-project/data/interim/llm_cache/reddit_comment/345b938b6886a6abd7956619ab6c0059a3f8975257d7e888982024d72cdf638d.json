@@ -1,0 +1,22 @@
+{
+  "cache_key": "345b938b6886a6abd7956619ab6c0059a3f8975257d7e888982024d72cdf638d",
+  "cached_at": "2026-08-19T14:24:34Z",
+  "emotion": "Anger",
+  "frames": [
+    "Climate Justice",
+    "Human Security",
+    "Pacific Solidarity"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": true,
+    "rhetorical_question": true,
+    "sarcasm": false
+  },
+  "narrative_frame": "Climate victims",
+  "openai_error": null,
+  "rationale": "The lifeboat comparison is a rhetorical metaphor about unfair burden-sharing and responsibility. In context, it pushes back against dismissing Tuvalu's migration needs and implicitly supports climate justice for Pacific residents.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Support"
+}

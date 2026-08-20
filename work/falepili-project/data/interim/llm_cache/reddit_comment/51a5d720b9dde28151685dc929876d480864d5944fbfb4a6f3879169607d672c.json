@@ -1,0 +1,20 @@
+{
+  "cache_key": "51a5d720b9dde28151685dc929876d480864d5944fbfb4a6f3879169607d672c",
+  "cached_at": "2026-08-19T13:45:05Z",
+  "emotion": "Cynicism",
+  "frames": [
+    "Other"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": true,
+    "sarcasm": false
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "The comment is a rhetorical question that pushes back on the framing of the thread. It references Australia directly but does not clearly endorse or oppose the residency offer. The stance is skeptical and questioning rather than supportive, and the exact intent is ambiguous without more thread context.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Concern"
+}

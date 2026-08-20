@@ -1,0 +1,21 @@
+{
+  "cache_key": "09d3a470fb034536952a8cfc6858e0da70e8a992888568d115a4309e8a000276",
+  "cached_at": "2026-08-19T14:13:54Z",
+  "emotion": "Humour",
+  "frames": [
+    "Migration Fairness",
+    "Other"
+  ],
+  "language_features": {
+    "irony": true,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": true
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "The comment makes a brief comparative jab about India being 'way ahead' rather than directly addressing Tuvalu's migration program. In thread context it reads as a sarcastic or ironic aside about migration or climate mobility, but it does not express a clear policy position on the Australia-Tuvalu arrangement.",
+  "relevance": "contextually relevant",
+  "source": "openai",
+  "stance": "Neutral"
+}

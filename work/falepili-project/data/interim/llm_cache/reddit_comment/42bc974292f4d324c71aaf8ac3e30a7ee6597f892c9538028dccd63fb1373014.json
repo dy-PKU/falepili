@@ -1,0 +1,21 @@
+{
+  "cache_key": "42bc974292f4d324c71aaf8ac3e30a7ee6597f892c9538028dccd63fb1373014",
+  "cached_at": "2026-08-19T13:39:56Z",
+  "emotion": "Anxiety",
+  "frames": [
+    "Climate Justice",
+    "Human Security"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": true,
+    "sarcasm": false
+  },
+  "narrative_frame": "Climate victims",
+  "openai_error": null,
+  "rationale": "The comment treats Tuvaluans as people facing urgent climate displacement and argues that residency is inadequate or too late compared with tangible solutions for a sinking nation. It expresses concern about feasibility rather than opposition to assistance.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Concern"
+}

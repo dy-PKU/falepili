@@ -1,0 +1,21 @@
+{
+  "cache_key": "866c27d83d395ab93933482da56670969185f9c4428c3b67cb5c337b041ac0b6",
+  "cached_at": "2026-08-19T17:54:18Z",
+  "emotion": "Resentment",
+  "frames": [
+    "Sovereignty",
+    "Other"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "The comment rejects treaties in general and is most plausibly opposing the Falepili Union or a similar Australia-Tuvalu agreement. It expresses a dismissive stance toward additional agreements rather than supporting climate mobility or security cooperation.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Strong Opposition"
+}

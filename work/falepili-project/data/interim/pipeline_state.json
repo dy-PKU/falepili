@@ -1,0 +1,46 @@
+{
+  "steps": {
+    "coding": {
+      "completed_at": "2026-08-18T17:15:45Z",
+      "status": "done"
+    },
+    "comments": {
+      "completed_at": "2026-08-18T17:15:45Z",
+      "status": "done"
+    },
+    "descriptive": {
+      "completed_at": "2026-08-18T17:15:46Z",
+      "status": "done"
+    },
+    "engagement": {
+      "completed_at": "2026-08-18T17:15:47Z",
+      "status": "done"
+    },
+    "framing": {
+      "completed_at": "2026-08-18T17:15:47Z",
+      "status": "done"
+    },
+    "normalize": {
+      "completed_at": "2026-08-18T17:15:45Z",
+      "status": "done"
+    },
+    "relevance": {
+      "completed_at": "2026-08-18T17:15:45Z",
+      "status": "done"
+    },
+    "search": {
+      "completed_at": "2026-08-18T17:15:45Z",
+      "status": "done"
+    },
+    "temporal": {
+      "completed_at": "2026-08-18T17:15:47Z",
+      "status": "done"
+    },
+    "validation": {
+      "completed_at": "2026-08-18T17:15:45Z",
+      "status": "done"
+    }
+  },
+  "updated_at": "2026-08-18T17:15:47Z",
+  "version": "0.1.0"
+}

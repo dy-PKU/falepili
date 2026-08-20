@@ -1,0 +1,21 @@
+{
+  "cache_key": "ca23689d6db09393d3ecc31f968d278640fafe35fcf003ed27224977adcfe2d4",
+  "cached_at": "2026-08-19T13:56:08Z",
+  "emotion": "Solidarity",
+  "frames": [
+    "Climate Justice",
+    "Pacific Solidarity"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Pacific neighbours",
+  "openai_error": null,
+  "rationale": "The comment is a short agreement with the article's moral criticism of the coal mine decision. It does not introduce a new argument; it signals shared concern and alignment with the quoted stance toward Pacific neighbours.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Support"
+}

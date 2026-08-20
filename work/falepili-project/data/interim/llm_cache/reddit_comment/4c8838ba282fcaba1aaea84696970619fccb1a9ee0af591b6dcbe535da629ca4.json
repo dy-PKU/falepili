@@ -1,0 +1,20 @@
+{
+  "cache_key": "4c8838ba282fcaba1aaea84696970619fccb1a9ee0af591b6dcbe535da629ca4",
+  "cached_at": "2026-08-19T13:47:28Z",
+  "emotion": "Neutral",
+  "frames": [
+    "Other"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "The comment appears to be anonymized/deleted placeholder text and contains no interpretable position on Tuvalu, climate displacement, residency, migration, or security cooperation.",
+  "relevance": "irrelevant",
+  "source": "openai",
+  "stance": "Unclear"
+}

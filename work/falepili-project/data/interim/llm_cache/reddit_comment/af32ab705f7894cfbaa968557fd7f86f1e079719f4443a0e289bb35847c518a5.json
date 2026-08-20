@@ -1,0 +1,21 @@
+{
+  "cache_key": "af32ab705f7894cfbaa968557fd7f86f1e079719f4443a0e289bb35847c518a5",
+  "cached_at": "2026-08-19T13:45:20Z",
+  "emotion": "Cynicism",
+  "frames": [
+    "Climate Justice",
+    "Migration Fairness"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "The comment is a terse, critical aside implying the policy is being shaped to fit someone's agenda or narrative. In the thread context about Tuvaluan residency, it reads as skepticism toward the motive behind the offer rather than support for the policy itself.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Concern"
+}

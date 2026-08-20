@@ -1,0 +1,23 @@
+{
+  "cache_key": "4220ccde51616c7e7cec106047189e0ce73b6624c600486f2c778785ac368cc0",
+  "cached_at": "2026-08-19T14:15:46Z",
+  "emotion": "Solidarity",
+  "frames": [
+    "Climate Justice",
+    "Pacific Solidarity",
+    "Migration Fairness",
+    "Sovereignty"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Pacific neighbours",
+  "openai_error": null,
+  "rationale": "The commenter strongly supports admitting Tuvaluans to Australia on climate and humanitarian grounds, while also proposing a citizenship pathway and territorial arrangement. The stance is the author's own, not a quotation, and the comment frames Tuvalu as neighbouring people needing help rather than as a threat.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Strong Support"
+}

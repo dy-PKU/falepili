@@ -1,0 +1,20 @@
+{
+  "cache_key": "d0f0c1de1ae8e94f79296b14e25ca4ba9aa95059a4a9161a352956ddb7076fdd",
+  "cached_at": "2026-08-19T13:45:13Z",
+  "emotion": "Cynicism",
+  "frames": [
+    "Other"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "The comment is about disengaging from another participant in the thread, not about Tuvalu residency, climate mobility, migration, or the policy itself. It signals dismissal rather than a clear position on the issue.",
+  "relevance": "unclear",
+  "source": "openai",
+  "stance": "Unclear"
+}

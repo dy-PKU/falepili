@@ -1,0 +1,20 @@
+{
+  "cache_key": "76362a30f5ee2696111558ff1fd187418355a860cc678d155bfee228a9d78a05",
+  "cached_at": "2026-08-19T13:37:04Z",
+  "emotion": "Neutral",
+  "frames": [
+    "Other"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "No comment text was provided, so there is no basis to infer stance, framing, or language features from the thread context alone.",
+  "relevance": "unclear",
+  "source": "openai",
+  "stance": "Unclear"
+}

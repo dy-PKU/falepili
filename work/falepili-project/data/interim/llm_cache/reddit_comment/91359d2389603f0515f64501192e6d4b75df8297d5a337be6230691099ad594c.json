@@ -1,0 +1,21 @@
+{
+  "cache_key": "91359d2389603f0515f64501192e6d4b75df8297d5a337be6230691099ad594c",
+  "cached_at": "2026-08-19T14:26:25Z",
+  "emotion": "Anxiety",
+  "frames": [
+    "Climate Justice",
+    "Human Security"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "The comment shifts from Tuvalu’s migration program to Australia’s own long-term vulnerability to climate change. It expresses concern about climate impacts rather than taking a clear position on the migration program itself.",
+  "relevance": "contextually relevant",
+  "source": "openai",
+  "stance": "Concern"
+}

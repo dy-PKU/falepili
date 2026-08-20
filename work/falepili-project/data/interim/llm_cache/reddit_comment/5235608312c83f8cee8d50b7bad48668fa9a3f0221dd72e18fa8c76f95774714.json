@@ -1,0 +1,21 @@
+{
+  "cache_key": "5235608312c83f8cee8d50b7bad48668fa9a3f0221dd72e18fa8c76f95774714",
+  "cached_at": "2026-08-19T13:42:31Z",
+  "emotion": "Cynicism",
+  "frames": [
+    "Climate Justice",
+    "Human Security"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "The comment discusses Tuvalu and climate change in the thread context, but it shifts away from the residency policy to argue that emissions cuts are now too late and only mitigation/capture remain. It is descriptive and resigned rather than clearly supporting or opposing the policy.",
+  "relevance": "contextually relevant",
+  "source": "openai",
+  "stance": "Neutral"
+}

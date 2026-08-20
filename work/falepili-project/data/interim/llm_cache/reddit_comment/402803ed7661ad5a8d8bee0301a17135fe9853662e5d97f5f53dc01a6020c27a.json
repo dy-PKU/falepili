@@ -1,0 +1,22 @@
+{
+  "cache_key": "402803ed7661ad5a8d8bee0301a17135fe9853662e5d97f5f53dc01a6020c27a",
+  "cached_at": "2026-08-19T13:44:26Z",
+  "emotion": "Empathy",
+  "frames": [
+    "Climate Justice",
+    "Human Security",
+    "Pacific Solidarity"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Climate victims",
+  "openai_error": null,
+  "rationale": "The comment defends a humane response to Tuvaluans displaced by climate change and accepts residency as necessary given the reality of the situation. It criticizes denial and delay, but the author's own stance is supportive of the policy and of helping those affected.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Strong Support"
+}

@@ -1,0 +1,22 @@
+{
+  "cache_key": "ac1d583dd72fee97408fd92ca9aac7fa633b79fa11e93fa680e3141d554a58e8",
+  "cached_at": "2026-08-19T14:16:17Z",
+  "emotion": "Neutral",
+  "frames": [
+    "Climate Justice",
+    "Housing / Public Services",
+    "Migration Fairness"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Pacific neighbours",
+  "openai_error": null,
+  "rationale": "The author treats Tuvaluan relocation to Australia as a practical and legitimate response to climate threats, suggesting a planned resettlement area while noting housing, cost-of-living, and employment differences in major cities. The quoted Nauru material is used as historical precedent rather than as opposition.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Support"
+}

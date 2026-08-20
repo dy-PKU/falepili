@@ -1,0 +1,22 @@
+{
+  "cache_key": "ebe35afa58cf6de506ba14028213bbb437ef034ee0f98c40423fde4af7de9ffb",
+  "cached_at": "2026-08-19T14:25:28Z",
+  "emotion": "Neutral",
+  "frames": [
+    "Climate Justice",
+    "Human Security",
+    "Migration Fairness"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Climate victims",
+  "openai_error": null,
+  "rationale": "The comment briefly endorses the climate-related migration program as the appropriate response, indicating support for mobility pathways for Tuvalu residents facing climate threats.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Support"
+}

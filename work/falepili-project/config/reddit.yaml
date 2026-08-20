@@ -1,0 +1,51 @@
+reddit_json:
+  auth_mode: "redditapis"
+  browser_mode: "off"
+  strict_relevance: true
+  # Preserve every comment in a relevant thread; comment-level relevance is
+  # stored as a label and can be reviewed/coded downstream.
+  strict_comment_relevance: false
+  browser_channel: "chrome"
+  browser_executable: "C:/Program Files (x86)/Microsoft/Edge/Application/msedge.exe"
+  base_url: "https://www.reddit.com"
+  redditapis_base_url: "https://api.redditapis.com"
+  api_key_path: "key.txt"
+  oauth_base_url: "https://oauth.reddit.com"
+  token_url: "https://www.reddit.com/api/v1/access_token"
+  client_id: null
+  client_secret: null
+  access_token: null
+  refresh_token: null
+  username: null
+  password: null
+  grant_type: "client_credentials"
+  user_agent: "falepili-research-test/0.1 contact=local-research"
+  proxy_url: null
+  transport: "requests"
+  impersonate: "chrome"
+  request_delay_seconds: 2.0
+  timeout_seconds: 30
+  max_retries: 5
+  search_limit: 100
+  default_max_pages_per_query: 5
+  fetch_comments: true
+  max_posts_for_comments: 200
+  start_date: "2023-11-09"
+  end_date: null
+  # Keep a broad discovery sample plus two Australia-focused core samples.
+  subreddits:
+    - null
+    - "australia"
+    - "AustralianPolitics"
+  keywords:
+    - "Falepili Union"
+    - "Falepili Mobility Pathway"
+    - "Australia-Tuvalu Falepili Union treaty"
+    - "Australia Tuvalu climate visa"
+    - "Australia Tuvalu climate visas"
+    - "Australia Tuvalu mobility pathway"
+    - "Tuvalu Australia permanent residency"
+    - "Tuvalu Australia treaty"
+    - "Tuvalu migration Australia"
+    - "Tuvalu climate migration Australia"
+    - "Tuvalu climate refugees Australia"

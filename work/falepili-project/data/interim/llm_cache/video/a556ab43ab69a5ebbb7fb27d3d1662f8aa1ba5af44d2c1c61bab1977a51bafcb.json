@@ -1,0 +1,22 @@
+{
+  "cache_key": "a556ab43ab69a5ebbb7fb27d3d1662f8aa1ba5af44d2c1c61bab1977a51bafcb",
+  "cached_at": "2026-08-19T17:52:49Z",
+  "emotion": "Neutral",
+  "frames": [
+    "Strategic Security",
+    "China / Geopolitics",
+    "Pacific Solidarity"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Strategic partners",
+  "openai_error": null,
+  "rationale": "The text is a neutral news title/description describing the Australia-Tuvalu security treaty as a response to China's influence in the Pacific. It does not express approval or opposition, but frames Tuvalu in relation to security cooperation and geopolitics.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Neutral"
+}

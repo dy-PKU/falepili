@@ -1,0 +1,20 @@
+{
+  "cache_key": "de76c50e89f37e600340dabb7a51459d94d1ac94631dafcf6e2607a03411a5a0",
+  "cached_at": "2026-08-19T14:17:43Z",
+  "emotion": "Cynicism",
+  "frames": [
+    "Other"
+  ],
+  "language_features": {
+    "irony": true,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": true
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "Sarcastic remark about the LNP potentially turning the migration program into a political sale point in the next cycle. It is contextually tied to the Tuvalu migration story, but the comment targets domestic politics rather than the policy itself.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Concern"
+}

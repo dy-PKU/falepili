@@ -1,0 +1,22 @@
+{
+  "cache_key": "78ffae19d1f440d17eda913ae44d8726510f508b0221bb817c20d5aad1609889",
+  "cached_at": "2026-08-19T13:48:45Z",
+  "emotion": "Hope",
+  "frames": [
+    "Climate Justice",
+    "Human Security",
+    "Pacific Solidarity"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Pacific neighbours",
+  "openai_error": null,
+  "rationale": "The comment explicitly welcomes residency and stronger connections with Tuvalu, frames mobility as beneficial for Tuvaluans and Australia, and supports continued pressure on the government for more climate action. It is broadly affirmative toward the policy and its humanitarian and climate dimensions.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Strong Support"
+}

@@ -1,0 +1,21 @@
+{
+  "cache_key": "400f330e76a7d18d2efc8eb2046775f2a649f7b8e13e8d476137ab3677fa0243",
+  "cached_at": "2026-08-19T14:21:26Z",
+  "emotion": "Neutral",
+  "frames": [
+    "Housing / Public Services",
+    "Other"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": true,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "The comment discusses Australia's water storage, drought resilience, and desalination capacity in response to climate-related migration context. It does not express a clear position on the Tuvalu migration program or Falepili Union itself, but raises public infrastructure/resource capacity as a contextual concern. 'Heavy lifting' is a metaphor.",
+  "relevance": "contextually relevant",
+  "source": "openai",
+  "stance": "Neutral"
+}

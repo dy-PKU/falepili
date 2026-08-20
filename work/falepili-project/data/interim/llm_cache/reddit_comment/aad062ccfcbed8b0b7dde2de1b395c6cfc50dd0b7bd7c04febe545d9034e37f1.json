@@ -1,0 +1,21 @@
+{
+  "cache_key": "aad062ccfcbed8b0b7dde2de1b395c6cfc50dd0b7bd7c04febe545d9034e37f1",
+  "cached_at": "2026-08-19T13:59:20Z",
+  "emotion": "Cynicism",
+  "frames": [
+    "Other",
+    "Climate Justice"
+  ],
+  "language_features": {
+    "irony": true,
+    "metaphor": false,
+    "rhetorical_question": true,
+    "sarcasm": true
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "The commenter dismisses the minister's moral framing as bad-faith, black-and-white 'us vs them' rhetoric. The tone is openly sarcastic and negative toward the article's argument rather than supportive of it.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Strong Opposition"
+}

@@ -1,0 +1,21 @@
+{
+  "cache_key": "d475be3dcfcbb50074271426898427184b4991d062e10f71a03e59821ebe0532",
+  "cached_at": "2026-08-19T13:38:15Z",
+  "emotion": "Neutral",
+  "frames": [
+    "Climate Justice",
+    "Other"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Climate victims",
+  "openai_error": null,
+  "rationale": "The comment is informational and lightly tangential, but it is still about Tuvalu's vulnerability to climate change and its future in the face of rising seas. It does not express a clear view on Australia's residency offer, so the stance is neutral.",
+  "relevance": "contextually relevant",
+  "source": "openai",
+  "stance": "Neutral"
+}

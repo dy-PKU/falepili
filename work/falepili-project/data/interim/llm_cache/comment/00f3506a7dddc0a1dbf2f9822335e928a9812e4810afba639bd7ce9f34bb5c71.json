@@ -1,0 +1,22 @@
+{
+  "cache_key": "00f3506a7dddc0a1dbf2f9822335e928a9812e4810afba639bd7ce9f34bb5c71",
+  "cached_at": "2026-08-19T17:54:26Z",
+  "emotion": "Anger",
+  "frames": [
+    "Sovereignty",
+    "Migration Fairness",
+    "Other"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": true,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Migrants competing for resources",
+  "openai_error": null,
+  "rationale": "The author strongly rejects further action, likely additional migration or intake, and frames the political leader as disregarding Australia and its people. The call to sign petitions to have him removed indicates strong opposition and anger. 'Pushing the envelope' is a metaphor. The comment does not mention Tuvalu or the Falepili Union directly, but it appears contextually tied to opposition to the policy or related migration decisions.",
+  "relevance": "contextually relevant",
+  "source": "openai",
+  "stance": "Strong Opposition"
+}

@@ -1,0 +1,39 @@
+2026-08-19T01:11:14Z INFO youtube_comments starting comments demo=True
+2026-08-19T01:11:14Z INFO youtube_comments wrote 162 demo comments
+2026-08-19T01:13:08Z INFO youtube_comments starting comments demo=True
+2026-08-19T01:13:08Z INFO youtube_comments wrote 162 demo comments
+2026-08-19T01:13:41Z INFO youtube_comments starting comments demo=True
+2026-08-19T01:13:41Z INFO youtube_comments wrote 162 demo comments
+2026-08-19T01:15:00Z INFO youtube_comments starting comments demo=False
+2026-08-19T01:15:00Z INFO youtube_comments comments output already exists; loading D:\MyProject\render\ytbTest\falepili-project\data\interim\comments_flat.jsonl
+2026-08-19T01:15:45Z INFO youtube_comments starting comments demo=True
+2026-08-19T01:15:45Z INFO youtube_comments wrote 160 demo comments
+2026-08-20T01:26:22Z INFO youtube_comments starting comments demo=True
+2026-08-20T01:26:22Z INFO youtube_comments wrote 2558 demo comments
+2026-08-20T01:43:44Z INFO youtube_comments starting comments demo=False
+2026-08-20T01:43:54Z WARNING youtube_comments request_failed attempt=1 wait=1.6 error=403 Client Error: Forbidden for url: https://www.googleapis.com/youtube/v3/commentThreads?key=***&part=snippet%2Creplies&videoId=0zBqjrLelVs&textFormat=plainText&maxResults=100
+2026-08-20T01:43:57Z WARNING youtube_comments request_failed attempt=2 wait=2.0 error=403 Client Error: Forbidden for url: https://www.googleapis.com/youtube/v3/commentThreads?key=***&part=snippet%2Creplies&videoId=0zBqjrLelVs&textFormat=plainText&maxResults=100
+2026-08-20T01:43:59Z WARNING youtube_comments request_failed attempt=3 wait=4.3 error=403 Client Error: Forbidden for url: https://www.googleapis.com/youtube/v3/commentThreads?key=***&part=snippet%2Creplies&videoId=0zBqjrLelVs&textFormat=plainText&maxResults=100
+2026-08-20T01:44:05Z WARNING youtube_comments request_failed attempt=4 wait=8.2 error=403 Client Error: Forbidden for url: https://www.googleapis.com/youtube/v3/commentThreads?key=***&part=snippet%2Creplies&videoId=0zBqjrLelVs&textFormat=plainText&maxResults=100
+2026-08-20T01:44:13Z WARNING youtube_comments request_failed attempt=5 wait=16.7 error=403 Client Error: Forbidden for url: https://www.googleapis.com/youtube/v3/commentThreads?key=***&part=snippet%2Creplies&videoId=0zBqjrLelVs&textFormat=plainText&maxResults=100
+2026-08-20T01:44:31Z WARNING youtube_comments request_failed attempt=6 wait=32.7 error=403 Client Error: Forbidden for url: https://www.googleapis.com/youtube/v3/commentThreads?key=***&part=snippet%2Creplies&videoId=0zBqjrLelVs&textFormat=plainText&maxResults=100
+2026-08-20T01:45:03Z WARNING youtube_comments comment_thread_failed video_id=0zBqjrLelVs error=Request failed after 6 attempts: 403 Client Error: Forbidden for url: https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDkPo5QJoZe3SqeKuwFO0UlgeyReoWfIfI&part=snippet%2Creplies&videoId=0zBqjrLelVs&textFormat=plainText&maxResults=100
+2026-08-20T01:45:05Z WARNING youtube_comments request_failed attempt=1 wait=1.9 error=403 Client Error: Forbidden for url: https://www.googleapis.com/youtube/v3/commentThreads?key=***&part=snippet%2Creplies&videoId=EXf0HtVcc5Y&textFormat=plainText&maxResults=100
+2026-08-20T01:45:08Z WARNING youtube_comments request_failed attempt=2 wait=2.1 error=403 Client Error: Forbidden for url: https://www.googleapis.com/youtube/v3/commentThreads?key=***&part=snippet%2Creplies&videoId=EXf0HtVcc5Y&textFormat=plainText&maxResults=100
+2026-08-20T01:45:11Z WARNING youtube_comments request_failed attempt=3 wait=4.4 error=403 Client Error: Forbidden for url: https://www.googleapis.com/youtube/v3/commentThreads?key=***&part=snippet%2Creplies&videoId=EXf0HtVcc5Y&textFormat=plainText&maxResults=100
+2026-08-20T01:45:16Z WARNING youtube_comments request_failed attempt=4 wait=8.0 error=403 Client Error: Forbidden for url: https://www.googleapis.com/youtube/v3/commentThreads?key=***&part=snippet%2Creplies&videoId=EXf0HtVcc5Y&textFormat=plainText&maxResults=100
+2026-08-20T01:45:24Z WARNING youtube_comments request_failed attempt=5 wait=16.2 error=403 Client Error: Forbidden for url: https://www.googleapis.com/youtube/v3/commentThreads?key=***&part=snippet%2Creplies&videoId=EXf0HtVcc5Y&textFormat=plainText&maxResults=100
+2026-08-20T01:45:42Z WARNING youtube_comments request_failed attempt=6 wait=32.5 error=403 Client Error: Forbidden for url: https://www.googleapis.com/youtube/v3/commentThreads?key=***&part=snippet%2Creplies&videoId=EXf0HtVcc5Y&textFormat=plainText&maxResults=100
+2026-08-20T01:46:14Z WARNING youtube_comments comment_thread_failed video_id=EXf0HtVcc5Y error=Request failed after 6 attempts: 403 Client Error: Forbidden for url: https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDkPo5QJoZe3SqeKuwFO0UlgeyReoWfIfI&part=snippet%2Creplies&videoId=EXf0HtVcc5Y&textFormat=plainText&maxResults=100
+2026-08-20T01:46:15Z WARNING youtube_comments request_failed attempt=1 wait=1.0 error=403 Client Error: Forbidden for url: https://www.googleapis.com/youtube/v3/commentThreads?key=***&part=snippet%2Creplies&videoId=v_pSYsWQ85o&textFormat=plainText&maxResults=100
+2026-08-20T01:46:16Z WARNING youtube_comments request_failed attempt=2 wait=2.2 error=403 Client Error: Forbidden for url: https://www.googleapis.com/youtube/v3/commentThreads?key=***&part=snippet%2Creplies&videoId=v_pSYsWQ85o&textFormat=plainText&maxResults=100
+2026-08-20T01:46:19Z WARNING youtube_comments request_failed attempt=3 wait=4.6 error=403 Client Error: Forbidden for url: https://www.googleapis.com/youtube/v3/commentThreads?key=***&part=snippet%2Creplies&videoId=v_pSYsWQ85o&textFormat=plainText&maxResults=100
+2026-08-20T01:46:25Z WARNING youtube_comments request_failed attempt=4 wait=8.5 error=403 Client Error: Forbidden for url: https://www.googleapis.com/youtube/v3/commentThreads?key=***&part=snippet%2Creplies&videoId=v_pSYsWQ85o&textFormat=plainText&maxResults=100
+2026-08-20T01:46:34Z WARNING youtube_comments request_failed attempt=5 wait=16.2 error=403 Client Error: Forbidden for url: https://www.googleapis.com/youtube/v3/commentThreads?key=***&part=snippet%2Creplies&videoId=v_pSYsWQ85o&textFormat=plainText&maxResults=100
+2026-08-20T01:46:51Z WARNING youtube_comments request_failed attempt=6 wait=32.6 error=403 Client Error: Forbidden for url: https://www.googleapis.com/youtube/v3/commentThreads?key=***&part=snippet%2Creplies&videoId=v_pSYsWQ85o&textFormat=plainText&maxResults=100
+2026-08-20T01:47:23Z WARNING youtube_comments comment_thread_failed video_id=v_pSYsWQ85o error=Request failed after 6 attempts: 403 Client Error: Forbidden for url: https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDkPo5QJoZe3SqeKuwFO0UlgeyReoWfIfI&part=snippet%2Creplies&videoId=v_pSYsWQ85o&textFormat=plainText&maxResults=100
+2026-08-20T01:47:24Z INFO youtube_comments wrote 7 comments
+2026-08-20T01:50:32Z INFO youtube_comments starting comments demo=False
+2026-08-20T01:50:43Z INFO youtube_comments wrote 18 comments
+2026-08-20T07:20:48Z INFO youtube_comments starting comments demo=False
+2026-08-20T07:22:30Z INFO youtube_comments wrote 255 comments

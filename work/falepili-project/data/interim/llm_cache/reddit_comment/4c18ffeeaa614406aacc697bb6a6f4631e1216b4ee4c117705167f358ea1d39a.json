@@ -1,0 +1,21 @@
+{
+  "cache_key": "4c18ffeeaa614406aacc697bb6a6f4631e1216b4ee4c117705167f358ea1d39a",
+  "cached_at": "2026-08-19T14:02:39Z",
+  "emotion": "Cynicism",
+  "frames": [
+    "Climate Justice",
+    "Economic Cost"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "The comment directly engages the thread's climate responsibility debate and rejects the argument that Australia's conduct is morally significant by emphasizing aggregate global emissions and claiming Australian action would have little impact. It also separates resource revenue from climate impacts. The quoted text is rebutted rather than endorsed.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Strong Opposition"
+}

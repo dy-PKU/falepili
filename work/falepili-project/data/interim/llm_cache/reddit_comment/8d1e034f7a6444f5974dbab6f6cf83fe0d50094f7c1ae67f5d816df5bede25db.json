@@ -1,0 +1,20 @@
+{
+  "cache_key": "8d1e034f7a6444f5974dbab6f6cf83fe0d50094f7c1ae67f5d816df5bede25db",
+  "cached_at": "2026-08-19T13:50:20Z",
+  "emotion": "Cynicism",
+  "frames": [
+    "Climate Justice"
+  ],
+  "language_features": {
+    "irony": true,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": true
+  },
+  "narrative_frame": "Climate victims",
+  "openai_error": null,
+  "rationale": "The comment criticizes the Australian government's willingness to resettle Tuvaluans while avoiding confrontation with the coal industry, framing displacement as a consequence of climate inaction rather than objecting to Tuvaluan migration itself.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Concern"
+}

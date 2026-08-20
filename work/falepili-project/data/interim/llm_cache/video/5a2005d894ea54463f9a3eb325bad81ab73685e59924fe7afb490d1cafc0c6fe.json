@@ -1,0 +1,20 @@
+{
+  "cache_key": "5a2005d894ea54463f9a3eb325bad81ab73685e59924fe7afb490d1cafc0c6fe",
+  "cached_at": "2026-08-19T17:52:43Z",
+  "emotion": "Neutral",
+  "frames": [
+    "Other"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "The post title and description discuss a podcast episode about a nuclear plan and unrelated cookbook chatter. There is no direct or contextual reference to Australia-Tuvalu relations, the Falepili Union, climate mobility, migration, or security cooperation.",
+  "relevance": "irrelevant",
+  "source": "openai",
+  "stance": "Unclear"
+}

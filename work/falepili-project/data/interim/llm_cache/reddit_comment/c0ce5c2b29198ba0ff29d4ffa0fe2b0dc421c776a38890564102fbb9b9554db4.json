@@ -1,0 +1,20 @@
+{
+  "cache_key": "c0ce5c2b29198ba0ff29d4ffa0fe2b0dc421c776a38890564102fbb9b9554db4",
+  "cached_at": "2026-08-19T14:27:38Z",
+  "emotion": "Resentment",
+  "frames": [
+    "Migration Fairness"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Refugees",
+  "openai_error": null,
+  "rationale": "The comment directly rejects Tuvaluan climate-mobility applicants moving to Australia, expressing exclusionary opposition rather than engaging policy details.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Strong Opposition"
+}

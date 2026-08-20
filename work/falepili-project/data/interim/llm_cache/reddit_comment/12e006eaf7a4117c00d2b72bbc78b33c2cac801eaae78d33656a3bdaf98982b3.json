@@ -1,0 +1,24 @@
+{
+  "cache_key": "12e006eaf7a4117c00d2b72bbc78b33c2cac801eaae78d33656a3bdaf98982b3",
+  "cached_at": "2026-08-19T14:25:55Z",
+  "emotion": "Hope",
+  "frames": [
+    "Climate Justice",
+    "Human Security",
+    "Pacific Solidarity",
+    "Sovereignty",
+    "Migration Fairness"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Climate victims",
+  "openai_error": null,
+  "rationale": "The author supports organized relocation for Tuvaluans, argues for keeping communities together, and calls for a standing policy for future climate-displaced Pacific islanders. The comment distinguishes climate-displaced people from voluntary migrants and frames the issue as long-term human security and representation.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Strong Support"
+}

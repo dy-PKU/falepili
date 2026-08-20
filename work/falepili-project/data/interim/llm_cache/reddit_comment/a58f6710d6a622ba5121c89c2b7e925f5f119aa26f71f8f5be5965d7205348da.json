@@ -1,0 +1,22 @@
+{
+  "cache_key": "a58f6710d6a622ba5121c89c2b7e925f5f119aa26f71f8f5be5965d7205348da",
+  "cached_at": "2026-08-19T13:47:56Z",
+  "emotion": "Anger",
+  "frames": [
+    "Human Security",
+    "Climate Justice",
+    "Colonialism / Dependency"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": true,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Climate victims",
+  "openai_error": null,
+  "rationale": "The comment criticizes Australia's punitive refugee handling and contrasts it with likely future climate displacement, implying support for humane residency pathways and opposition to offshore detention. The 'soap' line is a metaphorical hyperbole about dehumanization, not a literal claim.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Support"
+}

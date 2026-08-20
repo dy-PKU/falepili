@@ -1,0 +1,22 @@
+{
+  "cache_key": "65843450445010292e275cee690e1281c81d179a44bb84276a66009d8cb6b1ba",
+  "cached_at": "2026-08-19T14:09:26Z",
+  "emotion": "Cynicism",
+  "frames": [
+    "Pacific Solidarity",
+    "Strategic Security",
+    "China / Geopolitics"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": true
+  },
+  "narrative_frame": "Strategic partners",
+  "openai_error": null,
+  "rationale": "The comment sarcastically affirms concern for Pacific nations while framing Australia's neglect primarily through the consequence of Chinese/CCP strategic footholds in the Pacific. It is contextually relevant to Australia's relationship with Pacific neighbours and security, but does not directly state a position on the coalmine decision, Falepili Union, or climate mobility.",
+  "relevance": "contextually relevant",
+  "source": "openai",
+  "stance": "Concern"
+}

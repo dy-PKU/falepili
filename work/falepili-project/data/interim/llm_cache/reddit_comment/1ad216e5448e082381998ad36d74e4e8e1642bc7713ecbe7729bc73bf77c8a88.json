@@ -1,0 +1,22 @@
+{
+  "cache_key": "1ad216e5448e082381998ad36d74e4e8e1642bc7713ecbe7729bc73bf77c8a88",
+  "cached_at": "2026-08-19T14:15:56Z",
+  "emotion": "Neutral",
+  "frames": [
+    "Pacific Solidarity",
+    "Migration Fairness",
+    "Sovereignty"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Pacific neighbours",
+  "openai_error": null,
+  "rationale": "The comment explains and justifies the cap on visas as a condition set by the Tuvalu government to prevent state collapse. It is directly about the migration program and its limits, with a pragmatic, explanatory stance rather than opposition to the scheme itself.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Support"
+}

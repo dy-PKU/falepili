@@ -1,0 +1,21 @@
+{
+  "cache_key": "75fdd2a2ed7001b0c81949b8273218b33da0318d2128562864695991582b8a69",
+  "cached_at": "2026-08-19T14:03:48Z",
+  "emotion": "Cynicism",
+  "frames": [
+    "Climate Justice",
+    "Other"
+  ],
+  "language_features": {
+    "irony": true,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": true
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "The comment is a sarcastic response to the article's criticism of Australia’s coal decision. It implies dismissing the concern and endorsing inaction rather than climate responsibility, so it reads as opposition to the article’s position.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Strong Opposition"
+}

@@ -1,0 +1,23 @@
+{
+  "cache_key": "98718888bd300d5477265ecf97dd5c91937013b0b241326d8b5d94ae55c46d4d",
+  "cached_at": "2026-08-19T17:51:40Z",
+  "emotion": "Neutral",
+  "frames": [
+    "Climate Justice",
+    "Pacific Solidarity",
+    "Sovereignty",
+    "Human Security"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Pacific neighbours",
+  "openai_error": null,
+  "rationale": "The title and description are informational and describe Australia's treaty with Tuvalu in terms of climate-driven residency and sea level rise. There is no explicit evaluative stance or argumentative language from an author to code beyond the topic framing.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Neutral"
+}

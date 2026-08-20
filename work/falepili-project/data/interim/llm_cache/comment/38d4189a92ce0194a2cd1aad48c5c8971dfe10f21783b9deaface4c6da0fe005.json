@@ -1,0 +1,19 @@
+{
+  "cache_key": "38d4189a92ce0194a2cd1aad48c5c8971dfe10f21783b9deaface4c6da0fe005",
+  "cached_at": "2026-08-18T17:11:45Z",
+  "emotion": "Neutral",
+  "frames": [
+    "Other"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Other",
+  "rationale": "Heuristic fallback used because no OpenAI API key was available.",
+  "relevance": "directly relevant",
+  "source": "heuristic",
+  "stance": "Support"
+}

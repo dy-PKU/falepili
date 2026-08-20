@@ -1,0 +1,23 @@
+{
+  "cache_key": "0f6986ca2a974dd8f904c758f42b33eb9a24f7b460e19ba78d0b75dbf8fc1816",
+  "cached_at": "2026-08-19T14:25:35Z",
+  "emotion": "Empathy",
+  "frames": [
+    "Climate Justice",
+    "Sovereignty",
+    "Pacific Solidarity",
+    "Migration Fairness"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Climate victims",
+  "openai_error": null,
+  "rationale": "The commenter strongly supports a special relocation pathway and political representation for Tuvaluans, grounding this in Australia's responsibility for climate change and the loss of Tuvaluan sovereignty, culture, identity, and home. The comment frames Tuvaluans as forced climate victims and Pacific neighbours deserving agency and fairness in migration.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Strong Support"
+}

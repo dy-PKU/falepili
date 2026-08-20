@@ -1,0 +1,20 @@
+{
+  "cache_key": "2155f32b29fdf19696009b607519dccc2bf08e4ef9cba6e8fc3b93d2f25fb054",
+  "cached_at": "2026-08-19T13:36:35Z",
+  "emotion": "Neutral",
+  "frames": [
+    "Other"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "No comment text was provided in the input, so there is no basis to assess stance, frame, emotion, or narrative content.",
+  "relevance": "unclear",
+  "source": "openai",
+  "stance": "Unclear"
+}

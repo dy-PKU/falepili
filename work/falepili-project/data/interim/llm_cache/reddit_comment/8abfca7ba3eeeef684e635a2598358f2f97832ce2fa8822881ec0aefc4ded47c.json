@@ -1,0 +1,21 @@
+{
+  "cache_key": "8abfca7ba3eeeef684e635a2598358f2f97832ce2fa8822881ec0aefc4ded47c",
+  "cached_at": "2026-08-19T13:46:50Z",
+  "emotion": "Solidarity",
+  "frames": [
+    "Climate Justice",
+    "Human Security"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": true,
+    "sarcasm": false
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "The quoted line dismisses Australia's influence, but the author explicitly rejects that view and argues Australia should do much more on climate because it is wealthy and a major carbon exporter. The comment is supportive of stronger climate responsibility and relevant to the Tuvalu displacement context.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Support"
+}

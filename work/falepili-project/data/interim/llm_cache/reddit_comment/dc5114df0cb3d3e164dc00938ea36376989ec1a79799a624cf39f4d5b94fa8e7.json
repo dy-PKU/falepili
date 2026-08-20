@@ -1,0 +1,21 @@
+{
+  "cache_key": "dc5114df0cb3d3e164dc00938ea36376989ec1a79799a624cf39f4d5b94fa8e7",
+  "cached_at": "2026-08-19T14:05:51Z",
+  "emotion": "Neutral",
+  "frames": [
+    "Climate Justice",
+    "Economic Cost"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "The comment responds to criticism of Australia's coal decision by arguing Australia is also deploying large-scale renewable energy projects and questioning comparisons with the UK due to imported energy. The stance is not explicitly pro-Falepili or anti-Tuvalu, but it pushes back against the premise that Australia is inactive or uniquely culpable on climate action.",
+  "relevance": "contextually relevant",
+  "source": "openai",
+  "stance": "Concern"
+}

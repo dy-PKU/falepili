@@ -1,0 +1,22 @@
+{
+  "cache_key": "9bbbfeb2ae3eedd7329bfc1d1d9e12b78df5334ac4338daef9cb59a78488ca5c",
+  "cached_at": "2026-08-19T13:39:49Z",
+  "emotion": "Anger",
+  "frames": [
+    "Climate Justice",
+    "Migration Fairness",
+    "Human Security"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Climate victims",
+  "openai_error": null,
+  "rationale": "The author supports offering residency to Tuvaluans displaced by climate change, but argues it is only partial damage control and criticizes Australia for continuing fossil fuel approvals. The comment centers on responsibility for climate harm and on the unfairness of benefiting from migration after contributing to displacement.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Support"
+}

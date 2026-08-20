@@ -1,0 +1,21 @@
+{
+  "cache_key": "a4b3f168c2b9ee158e2d231f5db3c2f0584ab5d6f76ee0708f3e24bf3cefebd7",
+  "cached_at": "2026-08-19T14:17:31Z",
+  "emotion": "Cynicism",
+  "frames": [
+    "Other",
+    "Sovereignty"
+  ],
+  "language_features": {
+    "irony": true,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": true
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "The comment is a snide aside about the .TV domain and a 'luddite government,' not a direct statement for or against the migration program itself. It is contextually related because it reacts to Tuvalu's changing prospects, but the main target is government competence and domain control rather than climate mobility policy.",
+  "relevance": "contextually relevant",
+  "source": "openai",
+  "stance": "Neutral"
+}

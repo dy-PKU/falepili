@@ -1,0 +1,22 @@
+{
+  "cache_key": "268fa1b99fac5d3898413f9068aad52a404470423b5b41b04c0b998d524bf08f",
+  "cached_at": "2026-08-19T14:14:44Z",
+  "emotion": "Solidarity",
+  "frames": [
+    "Climate Justice",
+    "Migration Fairness",
+    "Human Security"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": true,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Refugees",
+  "openai_error": null,
+  "rationale": "The comment argues that people displaced by climate change should be accepted by Australia, and explicitly ties that obligation to Australia’s historical emissions. The phrase about a \"snowball\" and \"boat people\" is metaphorical, but the stance is supportive of climate migration and responsibility-sharing.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Support"
+}

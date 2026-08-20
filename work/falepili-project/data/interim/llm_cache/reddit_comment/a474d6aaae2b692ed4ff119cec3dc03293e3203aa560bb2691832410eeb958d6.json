@@ -1,0 +1,22 @@
+{
+  "cache_key": "a474d6aaae2b692ed4ff119cec3dc03293e3203aa560bb2691832410eeb958d6",
+  "cached_at": "2026-08-19T14:20:21Z",
+  "emotion": "Solidarity",
+  "frames": [
+    "Climate Justice",
+    "Migration Fairness",
+    "Pacific Solidarity"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Climate victims",
+  "openai_error": null,
+  "rationale": "The commenter accepts the numerical concern but rejects blaming Tuvaluans, treating them as people affected by climate change rather than a problem. That aligns with support for the migration program and a solidarity-oriented framing.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Support"
+}

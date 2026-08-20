@@ -1,0 +1,5 @@
+event,date,status,params,pvalues,rsquared
+Treaty signing,2023-11-09,insufficient_data,,,
+Treaty entry into force,2024-08-28,insufficient_data,,,
+Mobility Pathway opening,2025-07-01,ok,"{""Intercept"": 0.5191898342851223, ""relative_day"": -0.16027005523829196, ""post"": 0.41640566204789975, ""time_after"": 0.14808246147338183}","{""Intercept"": 0.04034486697469065, ""relative_day"": 0.05761114969754236, ""post"": 0.18185626670848976, ""time_after"": 0.10586863822654084}",0.15640661135311507
+Implementation period,2026-01-01,insufficient_data,,,

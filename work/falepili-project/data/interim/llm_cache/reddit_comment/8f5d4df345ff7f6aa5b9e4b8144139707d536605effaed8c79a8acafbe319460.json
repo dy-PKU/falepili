@@ -1,0 +1,21 @@
+{
+  "cache_key": "8f5d4df345ff7f6aa5b9e4b8144139707d536605effaed8c79a8acafbe319460",
+  "cached_at": "2026-08-19T14:01:01Z",
+  "emotion": "Neutral",
+  "frames": [
+    "Climate Justice",
+    "China / Geopolitics"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "The comment acknowledges Australia's high per-capita emissions but qualifies this by arguing emissions are falling and shifts comparison toward China's rising emissions. This makes it relevant to climate responsibility but does not directly address Tuvaluan mobility or the Falepili Union.",
+  "relevance": "contextually relevant",
+  "source": "openai",
+  "stance": "Concern"
+}

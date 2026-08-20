@@ -1,0 +1,21 @@
+{
+  "cache_key": "8db51b86d74bfb85e588aa6ad0a47f9a1daf813881e951016f9bdc0e10a2bc2c",
+  "cached_at": "2026-08-19T14:20:32Z",
+  "emotion": "Cynicism",
+  "frames": [
+    "Economic Cost",
+    "Migration Fairness"
+  ],
+  "language_features": {
+    "irony": true,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": true
+  },
+  "narrative_frame": "Migrants competing for resources",
+  "openai_error": null,
+  "rationale": "The comment is a sarcastic jab that shifts the issue from climate displacement to whether the people involved should pay high tuition, so it frames the program as a cost/fairness burden rather than humanitarian mobility.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Strong Opposition"
+}

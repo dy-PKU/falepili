@@ -1,0 +1,21 @@
+{
+  "cache_key": "a3f8ac46ba32a29dd959d12fac8532eb370945a742fe3d1d97c388ac691b81e8",
+  "cached_at": "2026-08-19T14:02:04Z",
+  "emotion": "Neutral",
+  "frames": [
+    "Climate Justice",
+    "Economic Cost"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "The comment rejects the thread's premise with 'No they are not' and cites external material to support that rebuttal. It is responding to the climate and emissions dispute around the coal mine decision, not endorsing the minister's 'drowning Pacific neighbours' framing.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Strong Opposition"
+}

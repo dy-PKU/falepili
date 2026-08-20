@@ -1,0 +1,21 @@
+{
+  "cache_key": "44bbf8176d7fd256837bebd46f54cd78720f2fd234ef5dc615cbe9b75fdc6be6",
+  "cached_at": "2026-08-19T14:15:08Z",
+  "emotion": "Cynicism",
+  "frames": [
+    "Climate Justice",
+    "Other"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "The comment does not directly endorse or oppose the migration program; it comments on how people in regional Australia may dismiss climate change with denial. It is contextually relevant because it sits inside a discussion of climate-driven migration, but the author's focus is on anticipated climate denial rather than Tuvalu or the scheme itself.",
+  "relevance": "contextually relevant",
+  "source": "openai",
+  "stance": "Neutral"
+}

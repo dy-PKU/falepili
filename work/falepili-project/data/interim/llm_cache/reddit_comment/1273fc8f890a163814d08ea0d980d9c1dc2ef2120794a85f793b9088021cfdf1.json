@@ -1,0 +1,21 @@
+{
+  "cache_key": "1273fc8f890a163814d08ea0d980d9c1dc2ef2120794a85f793b9088021cfdf1",
+  "cached_at": "2026-08-19T13:38:54Z",
+  "emotion": "Solidarity",
+  "frames": [
+    "Pacific Solidarity",
+    "Climate Justice"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Pacific neighbours",
+  "openai_error": null,
+  "rationale": "The comment explicitly supports Australia offering residency to Tuvaluans and frames it as helping nearby neighbors. The mention of Tuvalu's small population reinforces acceptance of the policy rather than skepticism or concern.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Support"
+}

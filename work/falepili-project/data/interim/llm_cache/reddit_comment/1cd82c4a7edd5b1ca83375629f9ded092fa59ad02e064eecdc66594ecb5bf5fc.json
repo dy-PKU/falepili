@@ -1,0 +1,20 @@
+{
+  "cache_key": "1cd82c4a7edd5b1ca83375629f9ded092fa59ad02e064eecdc66594ecb5bf5fc",
+  "cached_at": "2026-08-19T14:04:47Z",
+  "emotion": "Anger",
+  "frames": [
+    "Climate Justice"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": true,
+    "sarcasm": false
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "The commenter argues Australia should stop coal mining and shift to renewable energy, directly engaging the climate and fossil-fuel issue raised by the thread. The tone is openly frustrated and supportive of phasing out coal.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Strong Support"
+}

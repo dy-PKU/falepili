@@ -1,0 +1,22 @@
+{
+  "cache_key": "beb57d488de373090c1619295b9907e2a6f632e1d71148f05f4589b2f224df21",
+  "cached_at": "2026-08-19T14:21:36Z",
+  "emotion": "Anxiety",
+  "frames": [
+    "Climate Justice",
+    "Economic Cost",
+    "Other"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": true,
+    "sarcasm": false
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "The author replies to a quoted claim about Australia being fine by arguing that AI datacentres will worsen water and energy demand. The comment is about climate/resource pressure in Australia, which is relevant to the thread’s climate-mobility context, but it does not address Tuvalu migration directly.",
+  "relevance": "contextually relevant",
+  "source": "openai",
+  "stance": "Concern"
+}

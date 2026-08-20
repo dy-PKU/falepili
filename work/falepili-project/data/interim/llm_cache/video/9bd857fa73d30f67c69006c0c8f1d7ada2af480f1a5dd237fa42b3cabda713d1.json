@@ -1,0 +1,23 @@
+{
+  "cache_key": "9bd857fa73d30f67c69006c0c8f1d7ada2af480f1a5dd237fa42b3cabda713d1",
+  "cached_at": "2026-08-19T17:28:07Z",
+  "emotion": "Neutral",
+  "frames": [
+    "Pacific Solidarity",
+    "Climate Justice",
+    "Strategic Security",
+    "Sovereignty"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Strategic partners",
+  "openai_error": null,
+  "rationale": "The title and description are directly about the Falepili Union, climate mobility, and security cooperation between Australia and Tuvalu. There is no explicit opinion or argumentative language, so the stance cannot be determined from the provided text alone.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Unclear"
+}

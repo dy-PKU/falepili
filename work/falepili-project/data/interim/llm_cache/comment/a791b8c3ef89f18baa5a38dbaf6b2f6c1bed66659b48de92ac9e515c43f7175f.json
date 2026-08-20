@@ -1,0 +1,20 @@
+{
+  "cache_key": "a791b8c3ef89f18baa5a38dbaf6b2f6c1bed66659b48de92ac9e515c43f7175f",
+  "cached_at": "2026-08-19T17:28:39Z",
+  "emotion": "Neutral",
+  "frames": [
+    "Other"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "The author agrees that the policy requires more nuanced consideration than a simplified headline conveys, without expressing a clear position on Australia, Tuvalu, climate mobility, migration, or security cooperation.",
+  "relevance": "contextually relevant",
+  "source": "openai",
+  "stance": "Neutral"
+}

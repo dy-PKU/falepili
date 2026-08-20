@@ -1,0 +1,22 @@
+{
+  "cache_key": "f5c734d047cacfca05c7c8405f1ef1cf5cf111bff2e7a6bbdc440fc9e988a912",
+  "cached_at": "2026-08-19T17:53:58Z",
+  "emotion": "Resentment",
+  "frames": [
+    "Strategic Security",
+    "Sovereignty",
+    "Pacific Solidarity"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Strategic partners",
+  "openai_error": null,
+  "rationale": "Directly addresses the Falepili-style treaty and rejects it, arguing Australia owes Tuvalu nothing and should not defend Tuvalu. The stance is strongly anti-treaty and anti-solidarity, with a sovereignty/security framing.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Strong Opposition"
+}

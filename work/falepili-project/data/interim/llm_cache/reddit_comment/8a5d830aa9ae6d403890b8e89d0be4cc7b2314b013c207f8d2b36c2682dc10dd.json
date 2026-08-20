@@ -1,0 +1,21 @@
+{
+  "cache_key": "8a5d830aa9ae6d403890b8e89d0be4cc7b2314b013c207f8d2b36c2682dc10dd",
+  "cached_at": "2026-08-19T13:41:47Z",
+  "emotion": "Cynicism",
+  "frames": [
+    "Migration Fairness",
+    "Other"
+  ],
+  "language_features": {
+    "irony": true,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": true
+  },
+  "narrative_frame": "Migrants competing for resources",
+  "openai_error": null,
+  "rationale": "The comment uses a sarcastic violent joke to dismiss the issue in a thread about residency for Tuvaluans displaced by climate change. It does not engage the policy directly, but the tone signals rejection and hostility toward the proposal and the people involved.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Strong Opposition"
+}

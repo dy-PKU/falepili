@@ -1,0 +1,67 @@
+## Negative Binomial
+
+                 Generalized Linear Model Regression Results                  
+==============================================================================
+Dep. Variable:            reply_count   No. Observations:                   54
+Model:                            GLM   Df Residuals:                       44
+Model Family:        NegativeBinomial   Df Model:                            9
+Link Function:                    Log   Scale:                          1.0000
+Method:                          IRLS   Log-Likelihood:                -100.65
+Date:                Wed, 19 Aug 2026   Deviance:                       35.539
+Time:                        01:30:47   Pearson chi2:                     19.4
+No. Iterations:                     7   Pseudo R-squ. (CS):            0.05932
+Covariance Type:            nonrobust                                         
+=========================================================================================================
+                                            coef    std err          z      P>|z|      [0.025      0.975]
+---------------------------------------------------------------------------------------------------------
+Intercept                                 3.0475      4.646      0.656      0.512      -6.058      12.153
+C(channel_name)[T.9News]                  0.0039      0.689      0.006      0.995      -1.347       1.355
+C(channel_name)[T.ABC News Australia]    -0.6089      0.705     -0.864      0.388      -1.990       0.773
+C(channel_name)[T.Guardian Australia]    -0.2425      0.654     -0.371      0.711      -1.524       1.039
+C(channel_name)[T.SBS News]               0.0797      0.596      0.134      0.894      -1.089       1.249
+C(channel_name)[T.Sky News Australia]    -0.0391      0.606     -0.065      0.949      -1.227       1.149
+stance_extremity                          0.6319      0.725      0.872      0.383      -0.788       2.052
+frame_count                               0.1838      0.501      0.367      0.714      -0.798       1.165
+comment_age_days                          0.0006      0.001      0.919      0.358      -0.001       0.002
+log_video_view_count                     -0.3586      0.478     -0.750      0.453      -1.296       0.579
+=========================================================================================================
+
+
+## Like OLS
+
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:      log_comment_likes   R-squared:                       0.088
+Model:                            OLS   Adj. R-squared:                 -0.099
+Method:                 Least Squares   F-statistic:                    0.6433
+Date:                Wed, 19 Aug 2026   Prob (F-statistic):              0.754
+Time:                        01:30:47   Log-Likelihood:                -26.670
+No. Observations:                  54   AIC:                             73.34
+Df Residuals:                      44   BIC:                             93.23
+Df Model:                           9                                         
+Covariance Type:                  HC1                                         
+=========================================================================================================
+                                            coef    std err          z      P>|z|      [0.025      0.975]
+---------------------------------------------------------------------------------------------------------
+Intercept                                 4.4673      1.785      2.503      0.012       0.969       7.966
+C(channel_name)[T.9News]                 -0.0311      0.290     -0.107      0.915      -0.600       0.538
+C(channel_name)[T.ABC News Australia]    -0.0022      0.221     -0.010      0.992      -0.435       0.431
+C(channel_name)[T.Guardian Australia]    -0.0654      0.227     -0.289      0.773      -0.510       0.379
+C(channel_name)[T.SBS News]              -0.0253      0.193     -0.131      0.896      -0.404       0.354
+C(channel_name)[T.Sky News Australia]     0.0140      0.246      0.057      0.955      -0.467       0.495
+stance_extremity                          0.2595      0.235      1.103      0.270      -0.202       0.720
+frame_count                               0.2465      0.156      1.576      0.115      -0.060       0.553
+comment_age_days                         -0.0002      0.000     -0.872      0.383      -0.001       0.000
+log_video_view_count                     -0.2051      0.185     -1.106      0.269      -0.569       0.158
+==============================================================================
+Omnibus:                        3.677   Durbin-Watson:                   2.122
+Prob(Omnibus):                  0.159   Jarque-Bera (JB):                3.493
+Skew:                          -0.569   Prob(JB):                        0.174
+Kurtosis:                       2.492   Cond. No.                     1.70e+04
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC1)
+[2] The condition number is large, 1.7e+04. This might indicate that there are
+strong multicollinearity or other numerical problems.
+

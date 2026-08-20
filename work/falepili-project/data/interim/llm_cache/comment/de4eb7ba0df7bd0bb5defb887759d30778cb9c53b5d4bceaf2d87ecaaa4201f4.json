@@ -1,0 +1,20 @@
+{
+  "cache_key": "de4eb7ba0df7bd0bb5defb887759d30778cb9c53b5d4bceaf2d87ecaaa4201f4",
+  "cached_at": "2026-08-18T17:11:49Z",
+  "emotion": "Neutral",
+  "frames": [
+    "Strategic Security",
+    "China / Geopolitics"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Other",
+  "rationale": "Heuristic fallback used because no OpenAI API key was available.",
+  "relevance": "directly relevant",
+  "source": "heuristic",
+  "stance": "Neutral"
+}

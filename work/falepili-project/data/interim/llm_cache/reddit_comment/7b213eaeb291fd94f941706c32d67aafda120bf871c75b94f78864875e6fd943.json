@@ -1,0 +1,22 @@
+{
+  "cache_key": "7b213eaeb291fd94f941706c32d67aafda120bf871c75b94f78864875e6fd943",
+  "cached_at": "2026-08-19T13:51:27Z",
+  "emotion": "Neutral",
+  "frames": [
+    "Economic Cost",
+    "Climate Justice",
+    "Housing / Public Services"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": true,
+    "sarcasm": false
+  },
+  "narrative_frame": "Climate victims",
+  "openai_error": null,
+  "rationale": "The comment is directly about the Tuvalu climate displacement discussion. It argues that rebuilding or raising land is impractical and expensive, and that helping people with homes, jobs, and training is a better use of resources. That supports the residency/resettlement framing while expressing concern about logistics and cost rather than opposition to the thread topic.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Support"
+}

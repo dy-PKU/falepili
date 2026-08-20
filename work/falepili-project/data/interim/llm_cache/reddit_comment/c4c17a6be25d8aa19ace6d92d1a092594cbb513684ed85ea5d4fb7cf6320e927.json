@@ -1,0 +1,21 @@
+{
+  "cache_key": "c4c17a6be25d8aa19ace6d92d1a092594cbb513684ed85ea5d4fb7cf6320e927",
+  "cached_at": "2026-08-19T13:44:34Z",
+  "emotion": "Hope",
+  "frames": [
+    "Climate Justice",
+    "Human Security"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Climate victims",
+  "openai_error": null,
+  "rationale": "The comment argues strongly for cutting greenhouse gas emissions to prevent worse climate impacts, which aligns with climate action and protection of people affected by climate change in the thread context.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Strong Support"
+}

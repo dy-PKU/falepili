@@ -1,0 +1,20 @@
+{
+  "cache_key": "d11ce07fb9dfc29c36efb01358572c41ccc1df82b59d0a11f314e75e51d5a53e",
+  "cached_at": "2026-08-19T13:51:08Z",
+  "emotion": "Neutral",
+  "frames": [
+    "Other"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "The comment appears to be mass-deleted/anonymized placeholder text and contains no interpretable opinion about Tuvalu, climate displacement, migration, residency, or the Falepili Union.",
+  "relevance": "unclear",
+  "source": "openai",
+  "stance": "Unclear"
+}

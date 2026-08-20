@@ -1,0 +1,25 @@
+{
+  "cache_key": "2d5faff894cce6f841b0e1fc288c86c7285c5984175471002dc3e9f604450cd8",
+  "cached_at": "2026-08-19T12:55:30Z",
+  "emotion": "Anger",
+  "frames": [
+    "Climate Justice",
+    "Human Security"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": true
+  },
+  "narrative_frame": "Pacific neighbours",
+  "openai_error": {
+    "body": null,
+    "error_type": "RuntimeError",
+    "status_code": null
+  },
+  "rationale": "Heuristic fallback used because no OpenAI API key was available.",
+  "relevance": "directly relevant",
+  "source": "heuristic",
+  "stance": "Strong Opposition"
+}

@@ -1,0 +1,21 @@
+{
+  "cache_key": "fb4120010e7b8545eb825cfa0b6f674829b46c7921f7f6e5102138b5e09ae028",
+  "cached_at": "2026-08-19T14:28:02Z",
+  "emotion": "Solidarity",
+  "frames": [
+    "Pacific Solidarity",
+    "Migration Fairness"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Pacific neighbours",
+  "openai_error": null,
+  "rationale": "The comment supports treating Tuvalu and other Pacific island nations with respect comparable to New Zealand, framing them as Oceania neighbours and implying approval of inclusive migration or partnership arrangements.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Support"
+}

@@ -1,0 +1,21 @@
+{
+  "cache_key": "c349036777e380591d2c922778631d15c122ce481524240054d4650ef925db05",
+  "cached_at": "2026-08-19T13:42:56Z",
+  "emotion": "Resentment",
+  "frames": [
+    "Climate Justice",
+    "Other"
+  ],
+  "language_features": {
+    "irony": false,
+    "metaphor": true,
+    "rhetorical_question": false,
+    "sarcasm": false
+  },
+  "narrative_frame": "Other",
+  "openai_error": null,
+  "rationale": "The comment does not directly address Tuvaluan residency, but it is clearly about Australia’s climate policy context and defends prior emissions efforts while blaming outside obstruction. The tone is resentful and confrontational, with a figurative insult rather than sarcasm or irony.",
+  "relevance": "contextually relevant",
+  "source": "openai",
+  "stance": "Neutral"
+}

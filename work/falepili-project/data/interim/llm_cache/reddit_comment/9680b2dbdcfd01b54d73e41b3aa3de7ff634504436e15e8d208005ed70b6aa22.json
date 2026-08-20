@@ -1,0 +1,22 @@
+{
+  "cache_key": "9680b2dbdcfd01b54d73e41b3aa3de7ff634504436e15e8d208005ed70b6aa22",
+  "cached_at": "2026-08-19T14:18:57Z",
+  "emotion": "Humour",
+  "frames": [
+    "Migration Fairness",
+    "Pacific Solidarity",
+    "Climate Justice"
+  ],
+  "language_features": {
+    "irony": true,
+    "metaphor": false,
+    "rhetorical_question": false,
+    "sarcasm": true
+  },
+  "narrative_frame": "Pacific neighbours",
+  "openai_error": null,
+  "rationale": "The comment quotes Australia’s anthem line about sharing the land and uses it ironically to comment on the Tuvalu migration program. In thread context, it reads as a supportive jab at Australia living up to its stated values rather than opposing the program.",
+  "relevance": "directly relevant",
+  "source": "openai",
+  "stance": "Support"
+}

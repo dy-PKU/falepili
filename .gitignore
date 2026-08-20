@@ -1,0 +1,10 @@
+# Credentials and local environment
+**/*key*
+**/.env
+**/.venv/
+
+# Python and local caches
+**/__pycache__/
+**/*.py[cod]
+**/.git/
+**/.git-*/
